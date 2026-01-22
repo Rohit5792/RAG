@@ -1,0 +1,1209 @@
+— — PAGE 1 — —
+Research
+
+JAMA Pediatrics | Original Investigation
+
+Effect of Wearable Digital Intervention for Improving
+Socialization in Children With Autism Spectrum Disorder
+
+A Randomized Clinical Trial
+
+Catalin Voss, MS; Jessey Schwartz, BA; Jena Daniels, BS; Aaron Kline; Nick Haber, PhD; Peter Washington, MS;
+Qandeel Tariq, MA; Thomas N. Robinson, MD, MPH; Manisha Desai, PhD; Jennifer M. Phillips, PhD;
+Carl Feinstein, MD; Terry Winograd, PhD; Dennis P. Wall, PhD
+
+IMPORTANCE Autism behavioral therapy is effective but expensive and difficult to access.
+While mobile technology-based therapy can alleviate wait-lists and scale for increasing
+demand, few clinical trials exist to support its use for autism spectrum disorder (ASD) care.
+
+OBJECTIVE To evaluate the efficacy of Superpower Glass, an artificial intelligence-driven
+wearable behavioral intervention for improving social outcomes of children with ASD.
+
+DESIGN, SETTING, AND PARTICIPANTS A randomized clinical trial in which participants received
+the Superpower Glass intervention plus standard of care applied behavioral analysis therapy
+and control participants received only applied behavioral analysis therapy. Assessments were
+completed at the Stanford University Medical School, and enrolled participants used the
+Superpower Glass intervention in their homes. Children aged 6 to 12 years with a formal ASD
+diagnosis who were currently receiving applied behavioral analysis therapy were included.
+Families were recruited between June 2016 and December 2017. The first participant was
+enrolled on November 1, 2016, and the last appointment was completed on April 11, 2018.
+Data analysis was conducted between April and October 2018.
+
+INTERVENTIONS The Superpower Glass intervention, deployed via Google Glass (worn by
+the child) and a smartphone app, promotes facial engagement and emotion recognition by
+detecting facial expressions and providing reinforcing social cues. Families were asked to
+conduct 20-minute sessions at home 4 times per week for 6 weeks.
+
+MAIN OUTCOMES AND MEASURES Four socialization measures were assessed using an
+intention-to-treat analysis with a Bonferroni test correction.
+
+RESULTS Overall, 71 children (63 boys [89%]; mean [SD] age, 8.38 [2.46] years) diagnosed
+with ASD were enrolled (40 [56.3%] were randomized to treatment, and 31 (43.7%) were
+randomized to control). Children receiving the intervention showed significant improvements
+on the Vineland Adaptive Behaviors Scale socialization subscale compared with treatment as
+usual controls (mean [SD] treatment impact, 4.58 [1.62]; P = .005). Positive mean treatment
+effects were also found for the other 3 primary measures but not to a significance threshold
+of P = .0125.
+
+CONCLUSIONS AND RELEVANCE The observed 4.58-point average gain on the Vineland
+Adaptive Behaviors Scale socialization subscale is comparable with gains observed with
+standard of care therapy. To our knowledge, this is the first randomized clinical trial to
+demonstrate efficacy of a wearable digital intervention to improve social behavior of
+
+children with ASD. The intervention reinforces facial engagement and emotion recognition,
+suggesting either or both could be a mechanism of action driving the observed improvement.
+This study underscores the potential of digital home therapy to augment the standard of care.
+
+TRIAL REGISTRATION ClinicalTrials.gov identifier: NCTO3569176
+
+JAMA Pediatr. 2019;173(5):446-454. doi:10.1001/jamapediatrics.2019.0285
+Published online March 25, 2019.
+
+446
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+
+Supplemental content
+
+Author Affiliations: Department of
+Computer Science, Stanford
+University, Stanford, California (Voss,
+Winograd); Department of Pediatrics
+(Systems Medicine), Stanford
+University, Stanford, California
+(Schwartz, Daniels, Kline, Haber,
+Washington, Tariq, Robinson, Desai,
+Wall); Department of Biomedical
+Data Science, Stanford University,
+Stanford, California (Wall);
+Departments of Pediatrics (Stanford
+Solutions Science Lab) and Medicine,
+Stanford University, Stanford,
+California (Robinson, Phillips,
+Feinstein); Department of Psychiatry
+and Behavioral Sciences (by courtesy),
+Stanford University, Stanford,
+California (Wall).
+
+Corresponding Author: Dennis P.
+Wall, PhD, Department of Pediatrics,
+Division of Systems Medicine,
+Stanford University, 1265 Welch Rd,
+Medical School Office Bldg x14,
+Stanford, CA 94305
+(dpwall@stanford.edu).
+
+jamapediatrics.com
+— — PAGE 2 — —
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+utism spectrum disorder (ASD) prevalence has increased
+
+dramatically in the United States in the past few decades
+
+to 1 in 59 children.! While the symptoms of ASD vary
+widely, difficulty with socialization is a core deficit.? Children
+struggle to engage in joint attention, sustain eye contact, and rec-
+ognize facial expressions.?”° Experts recommend 20 hours per
+week of applied behavioral analysis (ABA)”*° often incorporat-
+ing naturalistic developmental behavioral interventions’ with
+a behavioral therapist for at least 2 years.” Although these behav-
+ioral interventions are effective, they are costly (between $40 000
+and $60 000 per child per year®), and many children face chal-
+lenges generalizing therapy to real-world contexts.” Furthermore,
+the increase in prevalence of ASD has outpaced availability of be-
+havioral therapists, creating wait-lists of up to 18 months in the
+United States.° Learning aids based on novel ubiquitous technolo-
+gies using machine learning can begin to address these problems
+by creating opportunities for therapy that are accessible outside
+of the clinician’s office. Such tools may generalize to the natu-
+ral environment where the social skills are used and act as acare
+bridge while children wait for standard therapy.
+
+We designed a wearable social learning aid for children with
+ASD to encourage facial engagement and provide feedback to the
+child during social interactions athome. A computer vision sys-
+tem runs on Google Glass that is wirelessly connected to a smart-
+phone app to provide the intervention to the child wearing the
+glasses. We confirmed the feasibility of fit and its augmented re-
+ality form factor in an in-laboratory feasibility study’° and ina
+field test of home usage by children with ASD."” These design
+studies supported the hypothesis that children aged 4 to 17 years
+can comfortably wear the glasses and process the video and au-
+dio cues provided through the smart glasses unit. Furthermore,
+the field test study suggested that three 20-minute play sessions
+per week for 6 weeks could improve social behavior, with amean
+improvement of7.4 points on the Social Responsiveness Scale,
+Second edition (SRS-II) (P < .01). Finally, these studies generated
+a consensus by the participating children on the name, Super-
+power Glass (SG).
+
+In the present study, we tested the hypothesis that chil-
+dren with ASD randomized to use SG at home for 6 weeks along
+with their ongoing ABA therapy will achieve greater improve-
+ments in socialization compared with children of the same age
+range engaged in ABA therapy alone. Although studies have es-
+tablished the feasibility of using digital technology platforms
+to deliver therapy to children with ASD,!*"* with the exception
+of speech-generating devices in the home,” there have been few
+clinical tests of the efficacy of digital tools as an intervention
+to improve core symptomatic deficits in children with ASD.'?""*
+To our knowledge, this is the first randomized clinical trial with
+an intention-to-treat (ITT) analysis designed to test the effi-
+cacy of a wearable machine learning tool for intervention ona
+core ASD deficit in the natural home environment.
+
+Dn
+
+Methods
+
+Study Design
+Participants were randomized via a computer script in a 1:1 ra-
+tio after all intake measures were completed into either the SG
+
+jamapediatrics.com
+
+Original Investigation Research
+
+Key Points
+
+Question Cana wearable artificial intelligence intervention
+designed for use in the home to reinforce facial engagement and
+emotion recognition improve socialization in children with autism
+spectrum disorder?
+
+Findings In this randomized clinical trial of 71 children with autism
+spectrum disorder, children treated at home with the wearable
+intervention showed a significant improvement in socialization
+over children only receiving standard of care behavioral therapy.
+
+Meaning The mobile intervention, which teaches the recognition
+and relevance of emotion in the child's natural setting, can
+augment standard of care therapy to achieve higher socialization
+in children with autism spectrum disorder.
+
+intervention ora treatment as usual control group (both groups
+received ABA therapy at home at least twice per week) for
+6 weeks. A clinical coordinator assigned the participants to
+their condition. Another clinical coordinator who was blinded
+to the assignment of participants recorded all primary and sec-
+ondary outcome measures (see below) at the start of condi-
+tion (intake), end of 6-week condition (posttest 1), and after
+6-week follow-up (posttest 2). The baseline measures Social
+Communication Questionnaire and abbreviated IQ were col-
+lected only at intake. We included a crossover option for the
+control arm participants, where their posttest 1 appointment
+served as the start of their treatment period. The study pro-
+tocol is provided in Supplement 1, and more details are pro-
+vided in eMethods 1 in Supplement 2.
+
+Eligibility and Screening
+
+Families were recruited between June 2016 and December 2017
+and enrolled if they were within driving distance of Stanford
+University, had a child with ASD between age 6 and 12 years
+currently receiving ABA therapy at least twice per week at
+home, scored greater than 15 on the Social Communication
+Questionnaire,'© and consented to participate. Parents pro-
+vided written informed consent at their intake appointment.
+We did not use IQ for eligibility. The study was conducted in
+accordance with Stanford University’s institutional review
+board.
+
+Intervention
+
+The SG intervention is worn by the child with ASD at home.
+The system tracks faces, classifies the emotions of the child’s
+social partners,'°"?"'”"'° and provides 2 forms of cues to the child
+in real time. First, a green indicator box illuminates the smart
+glasses unit’s peripheral monitor when a face is detected within
+the outward-facing camera’s field of view. Second, an emoti-
+con appears in the display and a robotic voice audio cue is
+played through the bone-conducting speaker of the glasses
+when a face is classified as expressing 1 of 8 emotions by the
+machine-learning model: happy, sad, angry, scared, sur-
+prised, disgust, “meh,” and neutral (Figure 1). Families can opt
+to disable audio feedback. The system operates at a frame rate
+of approximately 15 to 20 frames per second, so facial expres-
+sions are typically recognized within 100 milliseconds.'®
+
+JAMA Pediatrics May 2019 Volume 173, Number 5
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+
+447
+— — PAGE 3 — —
+448
+
+Research Original Investigation
+
+Figure 1. The Superpower Glass Intervention
+
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+Face tracking
+
+Emotion classification
+
+The child wears smart glasses (A), which are wirelessly synced to an Android
+smartphone application (B), which runs the machine learning classifiers for face
+tracking and emotion detection, enables game choice, launches the games, and
+records the videos for later parent review. The outward facing camera of the
+glasses captures facial image data that are transmitted to the smartphone for
+immediate classification. A green box appears in the peripheral monitor of the
+glass units when a face is detected. In addition, an emoji corresponding to 1 of 8
+
+We designed the mobile app to be the control center that
+allows the child’s caregiver to manage the system. The app re-
+ceives images, runs the emotion classifier, and saves video and
+usage data. We provided 3 engagement activity modes: (1) cap-
+ture the smile, during which the child is prompted by audio
+to find an emotion in a family member’s face by, for example,
+telling a joke to elicit the happy emotion; (2) guess the emo-
+tion, during which the caregiver asks the child to guess the
+emotions they are acting and controls the response manu-
+ally; and (3) free play, an unstructured activity during which
+the child receives emotional cues for all individuals interact-
+ing with them. We automatically logged the activities chosen
+and compiled the videos of each session for families to re-
+view, upload, or delete.
+
+Those in the SG group were asked to use each of the 3 en-
+gagement activities at least once and to use the device at home
+for 20 minutes 3 times per week with family members and once
+per week with their ABA behavior interventionist (BI), fora total
+of 4 times per week. Because we gave families the option to
+delete videos for privacy reasons, we measured usage through
+the number of days on which at least 1 video was created,
+whether saved or deleted, during the intervention period. This
+was an open-label trial; families and their BI were unblinded
+to the treatment. The clinical coordinator remained blinded
+for the entire study.
+
+Primary Outcome Measures (Unordered)
+The SRS-II”° total score is a 65-item survey completed by a
+
+child’s caregiver to identify the presence and severity of so-
+
+JAMA Pediatrics May 2019 Volume 173, Number 5
+
+emotions appears in the monitor when an emotion is detected. Both can appear
+at the same time, as demonstrated in C. The Superpower Glass intervention
+primarily consists of these 2 components, with the first encouraging facial
+awareness and the second teaching correct labeling of the emotion exhibited by
+the child's social partner. The display allows colors and emoticons to be seen by
+the child within their peripheral field of view and does not require direct gaze.
+The form factor therefore rarely averts attention.
+
+cial impairment in children across 5 social domains. Scores be-
+low and above 60 were consistent with typical development
+and ASD, respectively.
+
+The Vineland Adaptive Behavioral Scales, Second edition
+(VABS-II),”! socialization subscale is an assessment that mea-
+sures communication, daily living, socialization, motor func-
+tioning, and adaptive behavior skills. The VABS-II has been
+clinically validated for use to track change over time??? and
+is used as an outcome measure in several randomized clinical
+trials for children with ASD.?*° A higher score indicates greater
+adaptive functioning. We set the socialization subscale a priori
+as a primary end point and considered the full scale as a sec-
+ondary outcome measure.
+
+The Developmental Neuropsychological Assessment,
+Second edition (NEPSY-II),?°Affect Recognition Domain
+measures facial affect recognition of 6 emotions (happy,
+sad, angry, fear, disgust, and neutral) from a standardized
+set of photographs of children’s faces over 4 tasks. Higher
+scores indicate a higher ability to correctly compare facial
+expressions.
+
+The Emotion Guessing Game (EGG) was designed by our
+team to evaluate a child’s ability to correctly label emotions
+expressed by a live human actor. The child’s score is calcu-
+lated as the number of correct guesses made on 40 facial ex-
+pressions randomized to include 5 examples of the 8 emo-
+tions. The assessment was done in person by the blinded
+clinical coordinator. In addition, we included the complete
+Child Behavior Checklist?’ and VABS-II** composite score as
+secondary endpoints.
+
+jamapediatrics.com
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+— — PAGE 4 — —
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+Intake Screening Measures
+
+We used the Social Communication Questionnaire!®?° to screen
+for ASD and determine eligibility for the present study. A score
+greater than 15 is consistent with an ASD diagnosis. The ab-
+breviated IQ?° measures a child’s standard IQ score based on
+anonverbal fluid reasoning task and a verbal knowledge task.
+
+Analysis Sets
+
+We performed analysis on 4 sets of participants. The primary
+ITT analysis was performed on what is henceforth referred to
+as the ITT cohort, including all participants who were random-
+ized into the study. We performed secondary analyses on the
+completers cohort, which included treatment and control par-
+ticipants who completed all intake and posttest 1 measures;
+the treatment-first cohort, which included all participants as-
+signed to treatment (ITT); and the full-treatment cohort, which
+included all participants who received the intervention and
+completed at least their first posttest appointment after the in-
+tervention, including crossover participants (eMethods 2 in
+Supplement 2).
+
+Primary Analysis
+
+To test the efficacy of SG plus ABA vs ABA alone, we used a
+generalized linear mixed-effects regression model and as-
+sessed each outcome separately. The model included all avail-
+able measurements for all participants randomized in the study,
+including withdrawn participants and those who did not ad-
+here to the intervention. Specifically, for each outcome mea-
+sure M in the measures section above, and individual iat time
+of measure t, we applied the following model: M;, = Yo + Yor + Yi
+weeks,, + Y2 treatment; + y; weeks,, x treatment, + €;,, where
+the individual-specific random effect, yo; was included to ac-
+count for correlation across repeated measurements within an
+individual over time, weeks,, represents the number of weeks
+elapsed since randomization for the ith individual at the tth
+time point, and treatment, is an indicator representing whether
+the ith individual belongs to the treatment-first group. To test
+for significance, we use a 2-sided Wald test on y, (represent-
+ing the impact of treatment over time) at the Bonferroni-
+adjusted level of .0125 to account for the testing of our 4 pri-
+mary outcomes. We excluded 3 participants from the ITT cohort
+owing to arandomization error at the intake appointment; test-
+ing was performed to ensure that their removal does not affect
+significance in any of the primary analyses.
+
+We further assessed whether abbreviated IQ, age, or sex were
+modifiers of treatment in the regression analysis. For this pur-
+pose, we augmented the above analysis to include the modifier
+(eg, age) and interaction terms with treatment, week, as well as
+a 3-way interaction term with treatment and week. Likelihood
+ratio tests then assessed whether the modifier significantly im-
+pacted the treatment effect. In addition to the primary ITT co-
+hort, we applied the same mixed-effects model analysis to the
+completers cohort to evaluate the impact of the intervention on
+outcomes among those who completed the study.
+
+Six-Week Follow-up Analysis
+To test ifa return to baseline occurred in the treatment group,
+
+we applied a model that tracks gains from intake to posttest 1
+
+jamapediatrics.com
+
+Original Investigation Research
+
+and posttest 2 only among those assigned to the treatment
+group: Mj, = Yo + Yoi t+ Y; weeks,, x [posttest 1],, + y. week-
+Sir x [posttest 2],, + €;,, where a Wald test on y2 allowed us to
+test whether gains at 12 weeks were (still) significantly differ-
+ent from the intake baseline. The sign and magnitude of the
+coefficient indicates the point value of the change. We also per-
+formed a follow-up analysis on the entire treatment cohort, in-
+cluding control participants who crossed over (eMethods 2 in
+Supplement 2).
+
+Secondary Measures
+
+We applied the ITT model from the primary analysis to the sec-
+ondary measures, Child Behavior Checklist and the full VABS-II
+scale. We also performed the same moderator analysis on the
+secondary outcome measures.
+
+Treatment Cohort Analysis
+
+We performed further exploratory analyses on the treatment-
+first cohort and then on the full treatment cohort, which in-
+cluded the crossover group. Using mixed-effects linear regres-
+sion methods, we compared changes in outcome measures to
+baseline values of abbreviated IQ, age, usage, and the level of
+BI involvement to evaluate additional trends, such as in-
+creased effect of SG use on particular age groups and devel-
+opmental levels.
+
+ee
+Results
+
+A total of 474 families were screened for eligibility. Seventy-
+four were initially enrolled, but 3 were later excluded owing
+to arandomization error that occurred early in the study (their
+data do not affect significance in any of the primary analy-
+ses). Of the 71 enrolled participants remaining, 40 (56.3%) were
+randomly assigned to treatment, and 31 (43.7%) were ran-
+domly assigned to control. One participant reported an ad-
+verse reaction to the glasses. Participants received between 15
+to 20 hours of standard ABA per week. The consort flow dia-
+gram of the study participants is in Figure 2. Participant de-
+mographics are reported in Table 1.
+
+The mean (SD) treatment time between intake and posttest
+1 was 6.81 (1.85) weeks. Families in the treatment group used
+the device on a mean (SD) of 12.12 (5.80) times through the
+6-week treatment period, 51% of the requested dosage of 24
+days. Participants played guess the emotion and capture the
+smile in 39.8% and 23.8% of the sessions, respectively, sug-
+gesting a potential preference for structured games over the
+unstructured free play option, which was chosen 36.4% of
+the time. Families ran a mean (SD) of 3.9 (3.38) sessions with
+their ABA BI, 65% of the recommended dose. Families did not
+report problems with the emotion classification, and our
+empirical measurement of accuracy (eMethods 1 in Supple-
+ment 2) was 72%.
+
+Primary Analysis
+
+Results from the primary ITT analysis of 71 individuals and the
+completers cohort of 52 individuals are presented in Table 2.
+Composition of the cohorts is presented in eTable 1 in Supple-
+
+JAMA Pediatrics May 2019 Volume 173, Number 5
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+
+449
+— — PAGE 5 — —
+450
+
+Research Original Investigation
+
+Figure 2. Consort Flow Diagram
+
+474 Patients assessed for eligibility through
+online screening survey
+
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+353 Excluded owing to geographic distance
+to Stanford University
+
+v
+121 Assessed for eligibility through phone screen
+
+5 Excluded
+8 Score <16 SCQ
+
+7 Out of age range
+12 Other
+
+7 Not interested in participating
+3 No medical diagnosis of ASD
+13 No ABA therapy at home/did not meet
+minimum 2 times per week criteria
+
+Intake appointment
+71 Randomized
+
+4 Randomized to treatment condition
+
+4 Received Superpower Glass
+intervention for 6 wk
+
+31 Randomized to control condition
+
+31 Continued ABA therapy as
+usual for 6 wk
+
+13 Withdrew from study
+
+8 Using device was too challenging
+
+6 Withdrew from study
+
+-— 2 Scheduling conflicts -—| 2 Scheduling conflicts
+2 Family Illness 4 Lost to follow-up
+1 Device was too warm
+v v
+27 Continued with posttest 1¢ 25 Continued with posttest 1
+(received Superpower Glass
+intervention for 6 wk)
+
+3 Lost to follow-up
+
+13 Withdrew from study
+2 Scheduling conflicts
+8 Using device was too challenging
+
+3 Lost to follow-up ABA indicates applied behavioral
+
+v v
+
+analysis; ASD, autism spectrum
+
+24 Continued with posttest 2
+
+12 Continued with posttest 2
+
+disorder; SCQ, Social Communication
+Questionnaire.
+
+12 Continued with posttest 3
+
+' * Completers cohort, treatment
+group.
+
+> Completers cohort, control group.
+
+ment 2. The VABS-II socialization subscale score significantly
+increased between start and end of the intervention in treat-
+ment-to-control comparisons (mean treatment impact: 4.58
+points, P = .005, mean learning effect: -1.56 points in the ITT
+cohort; mean treatment impact: 5.38 points, P < .001, mean
+learning effect: -1.58 points in the completers cohort). Emo-
+tion Guessing Game, NEPSY-II-Affect, and SRS-II showed larger
+positive mean changes in treatment participants compared
+with controls, but those improvements were not significant
+(Table 2). Moderator analyses for abbreviated IQ, age, and sex
+showed a moderation effect for sex for the EGG, with girls
+showing greater improvement (likelihood ratio test P = .004;
+eTable 2 in Supplement 2).
+
+Six-Week Follow-up Analysis
+
+Results from the follow-up analysis conducted on the treat-
+ment-first group for all ITT participants (n = 40) and com-
+pleters (n = 27) are presented in Table 3. We observed a re-
+duced mean improvement from intake to follow-up on the
+
+JAMA Pediatrics May 2019 Volume 173, Number 5
+
+VABS-II socialization subscale and loss of significance. We ob-
+served significant gains on EGG (mean [SD] treatment change
+over 12 weeks, 5.647 [1.166]; P < .001) and SRS-II (mean [SD]
+treatment change over 12 weeks, —2.832 [0.951]; P = .003), from
+intake to posttest 2 but not intake to posttest 1, like in the pri-
+mary analysis. We present results on the full-treatment co-
+hort including crossovers in eTable 3 in Supplement 2.
+
+Secondary Measures
+
+No significant changes from intake to posttest 1 were ob-
+served on secondary measures (eTable 4 in Supplement 2). The
+VABS-II adaptive composite score showed a moderation ef-
+fect for age, with younger participants showing slightly greater
+improvement (likelihood ratio test P = .04, eTable 2 in Supple-
+ment 2).
+
+Treatment Cohort Exploratory Analysis
+We observed no noteworthy exploratory interactions beyond
+
+the ITT moderator. Specifically, we found no significant
+
+jamapediatrics.com
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+— — PAGE 6 — —
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder Original Investigation Research
+
+Table 1. Participant Demographics and Clinical Measures at Intake
+
+ITT Cohort Treatment Group Control Group
+Demographic , Mean (SD) (n = 71) (n = 40) (n = 31) P Value
+Age, y 8.38 (2.46) 8.63 (2.52) 8.74 (1.79) 33
+Male, No. (%) 63 (89) 37 (92) 16 (89) 26
+Diagnosis, No. (%)
+ASD (using Diagnostic and Statistical 68 (96) % (38 (95) 30 (97) 72
+
+Manual of Mental Disorders
+[Fifth Edition])
+
+Asperger (using Diagnostic and 3 (4) 2 (5) 1(3) 72
+Statistical Manual of Mental Disorders
+[Fourth Edition])
+
+Comorbidity, No. (%)
+Comorbid psychological diagnosis 24 (34) 13 (33) 11 (35) .80
+
+Comorbid neurological condition(s), 6 (8) 4 (10) 2 (6) .60
+including seizures, traumatic brain injury,
+or concussion
+
+Only diagnosed with an ASD 41 (58) 23 (58) 18 (58) 75
+Race/ethnicity, No. (%)
+White/European American 25 (35) 13 (33) 12 (39) 59
+Black 2(3) 1(3) 1(3) 86
+East Asian/Asian American 17 (24) 10 (25) 7 (23) .82
+South Asian/Indian American> 6 (8) 1(3) 5 (16) .04°
+Middle Eastern/Arab American 1(1) 0 (0) 1(3) .26
+Native American/Alaskan Native 0 (0) 0 (0) 0 (0)
+Hispanic/Latino/Spanish origin 16 (23) 8 (20) 8 (36) 57
+Unknown/not listed 12 (17) 9 (23) 3 (10) 16
+Concurrent therapy enrollment, No. (%)
+Applied behavior analysis 71 (100) 40 (100) 31 (100)
+Social skills therapy 34 (46) 18 (24) 16 (52) 59
+Special education classes 44 (59) 23 (31) 21 (68) 39
+Speech language pathology 58 (78) 31 (42) 27 (87) 31
+Occupational therapy 31 (42) 18 (24) 13 (42) .80
+Currently enrolled in 2 of 65 (92) 36 (90) 24 (77) 15
+the above therapies
+Currently enrolled in 3 of 50 (70) 28 (70) 18 (58) 30
+the above therapies
+Currently enrolled in 4 of 35 (49) 18 (45) 11 (35) 43
+the above therapies
+Not currently enrolled in therapy 0 (0) 0 (0) 0 (0)
+Social Communication Questionnaire 24.14 (5.02) 23.43 (5.13) 25.06 (4.81) 18
+Stanford Binet abbreviated IQ, 77.76 (21.53) 75.70 (20.71) 80.42 (22.61) 36
+total standard score
+NEPSY-II Affect Recognition subscale, 6.65 (4.16) 6.34 (3.98) 7.07 (4.29) 49
+scaled score®
+Emotion Guessing Game score‘ 23.65 (11.54) 22.80 (11.52) 24.74 (11.66) 49
+Child Behavior Checklist
+Total problems 67.22 (7.36) 65.95 (7.16) 69.04 (7.39) 10
+Internalizing problems 63.34 (8.25) 62.76 (8.42) 64.19 (8.09) 50
+Externalizing problems 62.08 (8.78) 60.89 (8.46) 63.77 (9.12) .20
+Anxiety/depression 61.14 (8.58) 60.65 (8.43) 61.85 (8.90) 59
+Withdrawal/depression 66.51 (8.10) 66.62 (7.84) 66.35 (8.63) .90
+Somatic complaints 57.84 (7.80) 56.92 (6.64) 59.15 (9.19) .27
+Social problems 65.53 (6.44) 64.78 (5.82) 66.58 (7.20) 28
+Thought problems 69.37 (8.98) 68.69 (9.25) 70.31 (8.68) 49
+Attention problems 71.33 (10.85) 70.59 (10.62) 72.38 (11.30) 52
+Rule-breaking behavior 60.23 (7.04) 58.69 (6.12) 62.35 (7.78) .04?
+Aggressive behavior 63.30 (9.07) 62.27 (9.31) 64.77 (8.68) 29
+(continued)
+jamapediatrics.com JAMA Pediatrics May 2019 Volume 173, Number 5 451
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+— — PAGE 7 — —
+452
+
+Research Original Investigation
+
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+Table 1. Participant Demographics and Clinical Measures at Intake (continued)
+
+ITT Cohort Treatment Group Control Group
+Demographic , Mean (SD) (n = 71) (n = 40) (n = 31) P Value
+Social Responsiveness Scale, intake score®
+Total scores 80.71 (9.53) 80.68 (8.41) 80.76 (10.98) 98
+Social awareness 74.53 (10.00) 75.50 (9.50) 73.28 (10.66) 37
+Sactiel cognition 77.22(9.53) 77.08 (8.19) 77.41(11.19)  .89 Abbreviations: ASD, autism spectrum
+disorder; ITT, intention to treat;
+Social communication 80.25 (9.97) 80.24 (9.56) 80.28 (10.65) 99 NEPSY-II, A Developmental
+Social motivation 71.94 (11.05) 72.63 (11.20) 71.03 (11.00) 56 Neuropsychological Assessment,
+Restricted and repetitive behavior 79.55(11.63)  78.53(10.71) 80.90(12.80) 41 Second Edition.
+; . . * P value was under .05 between
+Vineland Adaptive Behavioral Scales II, h f iled
+intake score cohorts from a 2-tailed t test.
+b
+Adaptive behavior composite score 72.81(11.80) 71.45 (12.66) 74.63(10.48) 27 Only the number of South
+— - Asian/Indian American participants
+Communication 75.44 (12.38) 73.83 (12.82) 77.60 (11.63) 21 and the Child Behavior Checklist
+Daily living skills 78.49 (16.08) 76.23 (15.16) 81.50 (17.01) .18 baseline Rule-Breaking Behavior
+Socialization 69.46 (15.19) 68.75 (16.63) 70.40 (13.26)  .66 subscale scores were significantly
+different between cohorts.
+Motor skills 86.09 (15.44) 86.40 (15.72) 85.67 (15.31) 85
+
+Table 2. Change in Primary Outcome Measures by Cohort Subgrouping Based on a Linear Mixed-Effects Model
+
+Following an ITT Framework?
+
+© Primary outcome measure.
+
+Abbreviations: EGG, Emotion
+Guessing Game; ITT, intention to
+
+Mean (SD) Change From Intake
+
+to 6-wk Posttest 1
+
+treat; NEPSY-II, A Developmental
+Neuropsychological Assessment,
+
+Second edition; SRS-II, Social
+
+Y3 (Treatment Y1 (Learning Regression Wald Test :
+Measure Analysis Cohort Impact) Effect) V3 P Value Responsiveness Scale eee  velan d
+SRS-II All participants (ITT) -1.654 (1.467) 0.398 (1.113) -0.275 26 Adaptive Behavioral Scales,
+Completers -1.482 (1.575) 0.362 (1.185) -0.247 35 Second edition.
+EGG All participants (ITT) 2.790 (1.460) 2.541 (1.110) 0.465 .05 * The total cohort includes all 71
+completers 2.498 (1.551) ‘2.731 (1.154) 0.416 1 reveals whe whet aed
+e completers cohort (n =
+Eee , Allparticipants (ITT) 4.584 (1.619) 1.558 (1.213) 0.764 005° includes 27 treatment and 25
+ocianzanion Completers 5.384(1.670)  -1.580(1.214) 0.897 001° control participants who completed
+NEPSY-II Affect Allparticipants (ITT) 0.099(0.570)  -0.068 (0.439) 0.016 86 all intake and posttest 1 measures.
+> Statistically significant with
+Completers 0.047 (0.585) 0.045 (0.447) 0.008 93 Bonferroni correction at P < 0125.
+Table 3. Six-Week Follow-up Analysis in Treatment-First Group for All ITT Participants (n = 40)
+and Completers (n = 27)
+Regression Coefficients > Wald Test
+Measure Analysis Cohort V1 V2 P Value . :
+Alltreatment (ITT) =0.223 =0.236 003 Abbreviations: EGG, Emotion
+SRS-II = Guessing Game; ITT, intention to
+Treatment completers -0.204 -0.222 -008 treat; NEPSY-II, A Developmental
+All treatment (ITT) 0.883 0.471 <.001? Neuropsychological Assessment,
+EGG ition: . i
+Treatment completers 0.859 0.465 <.001° pecond edition; Soc
+esponsiveness Scale, Secon:
+WAEGM Sactelieviten All treatment (ITT) 0.492 0.117 26 edition, total score; VABS-II, Vineland
+Treatment completers 0.619 0.150 16 Adaptive Behavioral Scales,
+All treatment (ITT) -0.001 0.031 36 Second edition.
+NEPSY-II Affect a isti ignifi i
+Treatment completers 0.007 0.036 30 Statistically significant with
+
+Bonferroni correction at P < .0125.
+
+correlation between increased BI involvement in therapy and
+social skills gains. Usage in the entire treatment completer co-
+hort, including 12 additional crossover participants, was simi-
+lar to the treatment-first cohort (eResults in Supplement 2).
+
+Me
+Discussion
+
+An ITT analysis revealed that children with ASD receiving ABA
+who were randomized into the SG intervention showed sig-
+
+JAMA Pediatrics May 2019 Volume 173, Number 5
+
+nificant improvements between intake and conclusion on the
+VABS-II socialization subscale, a clinical measure sensitive to
+changes in socialization.?””° These gains were similar to those
+exhibited in other studies.?*-?° Significant differences be-
+tween cohorts were not observed on the other primary end
+points. While there was a positive change on VABS-II social-
+ization between intake and 6 weeks after the conclusion of the
+SG treatment, this was not significant. Additional gains at
+posttest 2 were observed for SRS-II and EGG, but given a lack
+of posttest 2 control data, we cannot rule out a practice effect
+
+jamapediatrics.com
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+— — PAGE 8 — —
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+for these measures. Overall, these results support the hypoth-
+esis that the SG intervention can improve social skills of chil-
+dren with ASD between the ages of 6 and 12 years as an aug-
+mentation to standard of care therapy.
+
+On average, participants used the device on half as many
+days as initially recommended. Potential reasons for this in-
+clude decreased motivation by parents to use the device over
+time and/or decreased engagement from children with the de-
+vice over time. These factors should be examined in future
+studies by improving system engagement and further exam-
+ining the impact of the intervention.
+
+The SG intervention has at least 2 potential mechanisms
+of action: reinforcement that faces have variation in emotion
+(salience of emotion) and training on how to differentiate emo-
+tions. Analyses of potential correlations between outcome mea-
+sures and usage or participant demographics yielded no clear
+conclusions about best responders. Nevertheless, we hypoth-
+esize that the dual mechanisms of action may have contrib-
+uted to the observed socialization gains despite use in fewer
+sessions than the prescribed usage. Beyond these 2, it is pos-
+sible that the learning aid generally encourages social inter-
+action in the family around face contact and emotion, thereby
+increasing social acuity in the child.
+
+Limitations
+While our change was in line with previous reports using the
+VABS-II, the poststudy empirical variance suggested that the
+
+Original Investigation Research
+
+study may be underpowered by a factor of 2. Further limita-
+tions include low participant adherence to the recommended
+treatment dosing and the restricted recruitment of individu-
+als to within driving distance of Stanford where the popula-
+tion may be enriched for familiarity with technology. Addi-
+tionally, owing to the inherent demographic and behavioral
+heterogeneity of children with ASD and differing amounts of
+ABA therapy received prior to the intervention, children be-
+gan the intervention with varying levels of social skills. Fi-
+nally, because control participants did not have a second
+posttest appointment before crossing over into treatment, we
+were unable to perform direct comparison tests for sustained
+gains. While data from the treatment group points toward a
+need to increase the 6-week treatment period, further re-
+search is required.
+
+ee
+Conclusions
+
+This is the first randomized clinical trial to demonstrate effi-
+cacy of a wearable behavioral intervention for children with
+ASD, to our knowledge. The intervention teaches children emo-
+tion recognition, facial engagement, and the salience of
+emotion, suggesting the potential for multiple mechanism(s)
+of action driving the observed improvement in social behav-
+ior. Results of this study underscore the potential of digital
+home therapy to augment the current standard of care.
+
+ARTICLE INFORMATION
+Accepted for Publication: January 17, 2019.
+
+Published Online: March 25, 2019.
+doi:10.1001/jamapediatrics.2019.0285
+
+Open Access: This article is published under the
+JN-OA license and is free to read on the day of
+publication.
+
+Author Contributions: Mr Voss and Dr Wall had full
+access to all of the data in the study and take
+responsibility for the integrity of the data and the
+accuracy of the data analysis.
+
+Concept and design: Voss, Daniels, Kline, Haber,
+Washington, Robinson, Feinstein, Winograd, Wall.
+Acquisition, analysis, or interpretation of data: Voss,
+Schwartz, Daniels, Kline, Haber, Tariq, Robinson,
+Desai, Phillips, Feinstein, Wall.
+
+Drafting of the manuscript: Voss, Schwartz, Daniels,
+Kline, Haber, Wall.
+
+Critical revision of the manuscript for important
+intellectual content: Voss, Schwartz, Daniels, Kline,
+Washington, Tariq, Robinson, Desai, Phillips,
+Feinstein, Winograd, Wall.
+
+Statistical analysis: Voss, Schwartz, Kline, Haber,
+Tariq, Robinson, Desai, Wall.
+
+Obtained funding: Voss, Haber, Wall.
+Administrative, technical, or material support: Voss,
+Schwartz, Daniels, Kline, Haber, Washington, Tariq,
+Wall.
+
+Supervision: Voss, Daniels, Feinstein, Winograd,
+Wall.
+
+Conflict of Interest Disclosures: Mr Voss reports
+personal fees from Cognoa, Inc. outside the
+submitted work; reports a pending patent (US 62/
+333,108); and participated in advanced contractual
+discussions, planning to license the patent and
+
+software enabling the Superpower Glass
+intervention to Cognoa, Inc. Mr Voss has been a
+technological consultant at Cognoa, Inc. since
+August 2018 and Cognoa has prepared a US Food
+and Drug Administration breakthrough submission
+based on the intervention in October 2018. As a
+co-owner of the intellectual property and patent
+with Stanford University, Mr Voss will receive
+licensing fees and royalties if and when the
+intervention is commercialized and sold as a
+medical product. Cognoa has not participated in
+any study design or analysis. The statistical analysis
+of this study occurred before and independent
+from any involvement with Cognoa and licensing
+discussions were started independently from the
+randomized clinical trial outcomes. Ms Schwartz
+reports no conflicts. Ms Daniels reports no
+conflicts. Mr Kline reports personal fees from
+Cognoa, Inc. outside the submitted work; reports a
+pending patent (US 62/333,108); and participated
+in advanced contractual discussions with Cognoa,
+Inc. with the intent to license the patent and
+software enabling the Superpower Glass
+intervention. Mr Kline has been a technological
+consultant at Cognoa, Inc. since September 2018
+and Cognoa has prepared a US Food and Drug
+Administration breakthrough submission based on
+the intervention in October 2018. Mr Kline will
+receive additional milestone compensation if
+
+(a) that US Food and Drug Administration process
+proceeds successfully and the intervention is
+commercialized and sold as a medical product and
+(b) other company milestones not related to the
+Superpower Glass intervention are also met.
+
+Dr Haber reports; personal fees from Cognoa, Inc.
+outside the submitted work; and reports a pending
+patent (US 62/333,108); and participated in
+
+advanced contractual discussions, planning to
+license the patent and software enabling the
+Superpower Glass intervention to Cognoa, Inc.
+
+Dr Haber has been a technological consultant at
+Cognoa, Inc. since September 2018 and Cognoa
+has prepared a US Food and Drug Administration
+breakthrough submission based on the
+intervention in October 2018. As a co-owner of the
+patent with Stanford University, Dr Haber will
+receive licensing fees and royalties if and when the
+intervention is commercialized and sold as a
+medical product. Mr Washington reports no
+conflicts. Ms Tariq reports no conflicts. Dr Robinson
+reports no conflicts. Dr Phillips reports no conflicts.
+Dr Feinstein reports personal fees from Trayt.io
+outside the submitted work and other support
+from Riverside County Mental Health, Riverside
+University Health, and Behavioral Health Services
+outside the submitted work. Dr Winograd reports
+
+a pending patent (US 62/333,108). Dr Wall reports
+a pending patent (US 62/333,108); and participated
+in advanced contractual discussions, planning to
+license the patent and software enabling the
+Superpower Glass intervention to Cognoa, Inc.
+Cognoa is considering licensing this technology but
+the negotiations are not complete. Dr Wall is the
+founder of Cognoa, Inc. No other disclosures were
+reported.
+
+Funding/Support: The work was supported by
+material support (35 units of Google Glass) from
+Google Inc and grants from the National Institutes
+of Health (grants 1IROIEBO2502501 and
+1R21HDO91500-01), the Lucile Packard Foundation
+for Children’s Health, the Hartwell Foundation, the
+Wallace H. Coulter Foundation, the Stanford
+Precision Health and Integrated Diagnostics Center
+(PHIND), the Stanford Predictives and Diagnostics
+
+jamapediatrics.com JAMA Pediatrics May 2019 Volume 173, Number 5 453
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025
+— — PAGE 9 — —
+454
+
+Research Original Investigation
+
+Accelerator (SPADA), the Stanford Bio-X Center
+Program, the Stanford Beckman Center, the Walter
+V. and Idun Berry Postdoctoral Fellowship Program,
+the Bill and Melinda Gates Foundation, Peter
+Sullivan, and Bobby Dekeyser. We thank David Orr
+and Imma Calvo for their generous support in
+obtaining funding.
+
+Role of the Funder/Sponsor: The funders had no
+role in the design and conduct of the study;
+collection, management, analysis, and
+interpretation of the data; preparation, review,
+
+or approval of the manuscript; and decision to
+submit the manuscript for publication.
+
+Data Sharing Statement: See Supplement 3.
+
+Additional Contributions: We thank each family
+that participated in this research study for their
+time and contributions. Additionally, we sincerely
+thank Geraldine Dawson, PhD (Duke University), for
+her input during the preparation of the manuscript.
+Dr Dawson was not compensated for this work.
+
+REFERENCES
+
+1. Baio J, Wiggins L, Christensen DL, et al.
+Prevalence of autism spectrum disorder among
+children aged 8 years: Autism and Developmental
+Disabilities Monitoring Network, 11 sites, United
+States, 2014. MMWR Surveill Summ. 2018;67(6):1-
+23. doi:10.15585/mmwr.ss6706al
+
+2. Dawson G. Early behavioral intervention, brain
+plasticity, and the prevention of autism spectrum
+disorder. Dev Psychopathol. 2008;20(3):775-803.
+doi:10.1017/S0954579408000370
+
+3. Corden B, Chilvers R, Skuse D. Avoidance of
+emotionally arousing stimuli predicts
+social-perceptual impairment in Asperger's
+syndrome. Neuropsychologia. 2008;46(1):137-147.
+doi:10.1016/j.neuropsychologia.2007.08.005
+
+4. Fridenson-Hayo S, Berggren S, Lassalle A, et al.
+Basic and complex emotion recognition in children
+with autism: cross-cultural findings. Mol Autism.
+2016;7(1):52. doi:10.1186/s13229-016-0113-9
+
+5. Harms MB, Martin A, Wallace GL. Facial emotion
+recognition in autism spectrum disorders: a review
+of behavioral and neuroimaging studies.
+Neuropsychol Rev. 2010;20(3):290-322. doi:10.
+1007/s11065-010-9138-6
+
+6. Lovaas Ol. Teaching Individuals with
+Developmental Delays: Basic Intervention Techniques.
+Austin, Tx: Pro Ed; 2003.
+
+7. Schreibman L, Dawson G, Stahmer AC, et al.
+Naturalistic developmental behavioral
+interventions: empirically validated treatments for
+autism spectrum disorder. J Autism Dev Disord.
+2015;45(8):2411-2428. doi:10.1007/s10803-015-
+2407-8
+
+JAMA Pediatrics May 2019 Volume 173, Number 5
+
+Effect of Wearable Digital Intervention for Improving Socialization in Children With Autism Spectrum Disorder
+
+8. Buescher AV, Cidav Z, Knapp M, Mandell DS.
+Costs of autism spectrum disorders in the United
+Kingdom and the United States. JAMA Pediatr.
+2014;168(8):721-728. doi:10.1001/jamapediatrics.
+2014.210
+
+9. Gordon-Lipkin E, Foster J, Peacock G. Whittling
+down the wait time: exploring models to minimize
+the delay from initial concern to diagnosis and
+treatment of autism spectrum disorder. Pediatr Clin
+North Am. 2016;63(5):851-859. doi:10.1016/j.pcl.
+2016.06.007
+
+10. Daniels J, Haber N, Voss C, et al. Feasibility
+testing of a wearable behavioral aid for social
+learning in children with autism. App! Clin Inform.
+2018;9(1):129-140. doi:10.1055/s-0038-1626727
+
+11. Daniels J, Schwartz J, Voss C, et al Exploratory
+study examining the at-home feasibility of a
+wearable tool for social-affective learning for
+children with autism. njp Digital Med. doi:10.1038/
+s41746-018-0035-3
+
+12. Washington P, Voss C, Kline A, et al.
+SuperpowerGlass: a wearable aid for the at-home
+therapy of children with autism. Proc ACM
+
+Interactive, Mobile, Wearable and Ubiquitous Technol.
+
+2017;1(3):112. doi:10.1145/3130977
+
+13. Grynszpan O, Weiss PL, Perez-Diaz F, Gal E.
+Innovative technology-based interventions for
+
+autism spectrum disorders: a meta-analysis. Autism.
+
+2014;18(4):346-361. doi:10.1177/1362361313476767
+
+14. Wong C, Odom SL, Hume KA, et al.
+Evidence-based practices for children, youth, and
+young adults with autism spectrum disorder:
+
+a comprehensive review. J Autism Dev Disord. 2015;
+45(7):1951-1966. doi:10.1007/s10803-014-2351-z
+
+15. Kasari C, Kaiser A, Goods K, et al.
+Communication interventions for minimally verbal
+children with autism: a sequential multiple
+assignment randomized trial. J Am Acad Child
+Adolesc Psychiatry. 2014;53(6):635-646. doi:10.
+1016/j.jaac.2014.01.019
+
+16. Bolte S, Holtmann M, Poustka F. The Social
+Communication Questionnaire (SCQ) as a screener
+for autism spectrum disorders: additional evidence
+and cross-cultural validity. J Am Acad Child Adolesc
+Psychiatry. 2008;47(6):719-720. doi:10.1097/
+CHI.0b013e31816c42bd
+
+17. Haber N, Voss C, Fazel A, Winograd T, Wall DP.
+A practical approach to real-time neutral feature
+subtraction for facial expression recognition. In:
+2016 IEEE Winter Conference on Applications of
+Computer Vision (WACV). Lake Placid, NY: IEEE
+Computer Society; 2016:1-9.
+
+18. Voss C, Washington P, Haber N, et al.
+Superpower glass: delivering unobtrusive real-time
+social cues in wearable systems. In: Proceedings of
+the 2016 ACM International Joint Conference on
+
+Pervasive and Ubiquitous Computing: Adjunct;
+2016:1218-1226.
+
+19. Washington P, Voss C, Haber N, et al.
+
+A wearable social interaction aid for children with
+autism. In: Proceedings of the 2016 CHI Conference
+Extended Abstracts on Human Factors in
+Computing Systems; 2016:2348-2354.
+
+20. Constantino JN, Gruber CP. Social
+Responsiveness Scale, Second Edition (SRS-2). Los
+Angeles, CA: Western Psychological Services; 2012.
+
+21. Sparrow SS, Cicchetti DV, Balla DA, Doll EA.
+Vineland Adaptive Behavior Scales: Survey Forms
+Manual. Circle Pines, MN: American Guidance Service;
+2005.
+
+22. Anagnostou E, Jones N, Huerta M, et al.
+Measuring social communication behaviors as a
+treatment endpoint in individuals with autism
+spectrum disorder. Autism. 2015;19(5):622-636.
+doi:10.1177/1362361314542955
+
+23. Kasari C. Assessing change in early intervention
+programs for children with autism. J Autism Dev
+Disord. 2002;32(5):447-461. doi:10.1023/A:
+1020546006971
+
+24. Dawson G, Rogers S, Munson J, et al.
+Randomized, controlled trial of an intervention for
+toddlers with autism: the Early Start Denver Model.
+Pediatrics. 2010;125(1):e17-e23. doi:10.1542/peds.
+2009-0958
+
+25. Scahill L, McDougle CJ, Aman MG, et al;
+Research Units on Pediatric Psychopharmacology
+Autism Network. Effects of risperidone and parent
+training on adaptive functioning in children with
+pervasive developmental disorders and serious
+behavioral problems. J Am Acad Child Adolesc
+Psychiatry. 2012;51(2):136-146. doi:10.1016/j.jaac.
+2011.11.010
+
+26. Brooks BL, Sherman EM, Strauss E.
+Test review: NEPSY-II: a developmental
+neuropsychological assessment, second edition.
+Child Neuropsychol. 2009;16(1):80-101.
+
+27. Achenbach TM, Ruffle TM. The Child Behavior
+Checklist and related forms for assessing
+behavioral/emotional problems and competencies.
+Pediatr Rev. 2000;21(8):265-271. doi:10.1542/pir.
+21-8-265
+
+28. Snow AV, Lecavalier L. Sensitivity and
+specificity of the Modified Checklist for Autism in
+Toddlers and the Social Communication
+Questionnaire in preschoolers suspected of having
+pervasive developmental disorders. Autism. 2008;
+12(6):627-644. doi:10.1177/1362361308097116
+
+29. Roid GH, Barram RA. Essentials of
+Stanford-Binet intelligence scales (SB5) assessment.
+Hoboken, NJ: John Wiley & Sons; 2004.
+
+jamapediatrics.com
+
+© 2019 American Medical Association. All rights reserved.
+
+Downloaded from jamanetwork.com by guest on 10/09/2025

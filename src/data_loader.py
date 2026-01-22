@@ -29,15 +29,33 @@ def load_all_documents(data_dir: str) -> List[Any]:
             print(f"[ERROR] Failed to load PDF {pdf_file}: {e}")
 
     # TXT files
-    txt_files = list(data_path.glob('**/*.txt'))
+    from langchain_core.documents import Document
+
+    txt_files = list(data_path.glob("**/*.txt"))
     print(f"[DEBUG] Found {len(txt_files)} TXT files: {[str(f) for f in txt_files]}")
+
     for txt_file in txt_files:
         print(f"[DEBUG] Loading TXT: {txt_file}")
+
         try:
-            loader = TextLoader(str(txt_file))
-            loaded = loader.load()
-            print(f"[DEBUG] Loaded {len(loaded)} TXT docs from {txt_file}")
-            documents.extend(loaded)
+            with open(txt_file, "r", encoding="utf-8", errors="ignore") as f:
+                text = f.read().strip()
+
+            if not text:
+                print(f"[WARN] TXT file is empty: {txt_file}")
+                continue
+
+            doc = Document(
+                page_content=text,
+                metadata={
+                    "source": str(txt_file),
+                    "type": "txt"
+                }
+            )
+
+            documents.append(doc)
+            print(f"[DEBUG] Loaded 1 TXT doc from {txt_file}")
+
         except Exception as e:
             print(f"[ERROR] Failed to load TXT {txt_file}: {e}")
 
