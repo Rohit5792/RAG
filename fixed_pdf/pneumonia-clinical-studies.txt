@@ -1,0 +1,930 @@
+— — PAGE 1 — —
+® Journal of
+
+Cheok for Clinical
+Epidemiology
+
+updates
+
+Journal of Clinical Epidemiology 164 (2023) 88 95
+
+ORIGINAL ARTICLE
+
+Clinical trials of pneumonia management assess heterogeneous outcomes
+and measurement instruments
+
+Alexander G. Mathioudakis*”’*, Markus Fally®, Jan Hansel“, Rebecca C. Robey“,
+Faiuna Haseeb*, Thomas Williams*, Ahmed Kouta’, Tobias Welte’, Dan G. Wootton®,
+Mike Clarke", Grant Waterer', Paul Dark*, Paula R. Williamson’, J grgen Vestbo’”,
+Timothy W. Felton*®°, Pneumonia Outcomes Group!
+
+“Division of Immunology, Immunity to Infection and Respiratory Medicine, School of Biological Sciences, The University of Manchester, Manchester, UK
+>North West Lung Centre, Wythenshawe Hospital, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre,
+Manchester, UK
+“Department of Respiratory Medicine and Infectious Diseases, Copenhagen University Hospital - Bispebjerg and Frederiksberg, Copenhagen, Denmark
+‘North West School of Intensive Care Medicine, Health Education England North West, Manchester, UK
+“Acute Intensive Care Unit, Wythenshawe Hospital, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre,
+Manchester, UK
+‘Department of Respiratory Medicine and German Centre of Lung Research (DZL), Hannover Medical School, Hanover, Germany
+"Institute of Infection, Veterinary and Ecological Sciences, NIHR HPRU in Emerging and Zoonotic Infections, University of Liverpool, Liverpool, UK
+"Centre of Public Health, School of Medicine, Dentistry and Biomedical Sciences, Queen s University Belfast, Belfast, UK
+‘School of Medicine and Pharmacology, Royal Perth Hospital, University of Western Australia, Perth, Western Australia, Australia
+jDepartment of Health Data Science, MRC/NIHR Trials Methodology Research Partnership, University of Liverpool, Liverpool, UK
+
+Accepted 18 October 2023; Published online 26 October 2023
+
+Abstract
+
+Objectives: To inform clinical practice guidelines, randomized controlled trials (RCTs) of the management of pneumonia need to
+address the outcomes that are most important to patients and health professionals using consistent instruments, to enable results to be
+compared, contrasted, and combined as appropriate. This systematic review describes the outcomes reported in clinical trials of pneumonia
+management and the instruments used to measure these outcomes.
+
+Study Design and Setting: Based on a prospective protocol, we searched MEDLINE/PubMed, Cochrane CENTRAL and clinical trial
+registries for ongoing or completed clinical trials evaluating pneumonia management in adults in any clinical setting. We grouped reported
+outcomes thematically and classified them following the COMET Initiative’s taxonomy. We describe instruments used for assessing each
+outcome.
+
+Results: We found 280 eligible RCTs of which 115 (41.1 _) enrolled critically ill patients and 165 (58.9 _) predominantly noncritically
+ill patients. We identified 43 distinct outcomes and 108 measurement instruments, excluding nonvalidated scores and questionnaires.
+Almost all trials reported clinical/physiological outcomes (97.5 _). Safety (63.2), mortality (56.4), resource use (48.6 _) and life impact
+(11.8 ) outcomes were less frequently addressed. The most frequently reported outcomes were treatment success (60.7 ), mortality
+(56.4 ) and adverse events (41.1). There was significant variation in the selection of measurement instruments, with approximately
+two-thirds used in less than 10 of the 280 RCTs. None of the patient-reported outcomes were used in 10 or more RCTs.
+
+Conclusion: This review reveals significant variation in outcomes and measurement instruments reported in clinical trials of pneumonia
+management. Outcomes that are important to patients and health professionals are often omitted. Our findings support the need for a
+
+Jan Hansel, Faiuna Haseeb, Ahmed Kouta, Alexander G. Mathioudakis,
+Eva Polverino, Claire Roger, Rebecca C Robey, Nikoletta Rovina, Daiana
+Stolz, Jorgen Vestbo, Grant Waterer, Tobias Welte, Thomas Williams, Paula
+R. Williamson, Dan G. Wootton, Geffen van Wouter.
+
+* Corresponding author. Division of Immunology, Immunity to Infection
+and Respiratory Medicine, NIHR Clinical Lecturer in Respiratory Medicine,
+The University of Manchester, North-West Lung Centre, Manchester Uni-
+versity NHS Foundation Trust, Manchester M23 9LT, UK. Tel.:  44-
+0161-291-2500; fax: 44-0161-291-5730.
+
+E-mail address: alexander.mathioudakis@manchester.ac.uk (A.G.
+Mathioudakis).
+
+Funding: AGM, JH, RCR, PD, JV, and TWF were supported by the
+NIHR Manchester Biomedical Research Centre (NIHR203308). AGM was
+supported by an NIHR Clinical Lectureship in Respiratory Medicine. JH
+was supported by an NIHR Academic Clinical Fellowship in Intensive Care
+Medicine. PD was supported by an NIHR Senior Investigator’s award
+(NIHR203745). DGW is supported by an NIHR Advanced Fellowship
+(NIHR300669). The views expressed are those of the author(s) and not
+necessarily those of the NIHR or the Department of Health and Social Care.
+
+' Pneumonia Outcomes Group: Stefano Aliberti, Aleksandra Barac,
+Francesco Blasi, Jean Chastre, Mike Clarke, Catia Ciloniz, Paul Dark,
+George Dimopoulos, Markus Fally, Timothy W Felton, Andrea Gramegna,
+
+https://doi.org/10.1016/j.jclinepi.2023.10.011
+0895-4356/ 2023 The Author(s). Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/
+4.0/).
+— — PAGE 2 — —
+A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95 89
+
+rigorous core outcome set, such as that being developed by the European Respiratory Society.
+
+2023 The Author(s). Published by Elsev-
+
+ier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+Keywords: Pneumonia; Community-acquired pneumonia; Hospital-acquired pneumonia; Ventilator-associated pneumonia; Outcomes; End points; Core
+
+outcome set; Clinical trials; Systematic reviews; Evidence-based medicine
+
+1 Introduction
+
+Pneumonia, an inflammatory condition of the lungs usu-
+ally caused by bacteria, viruses or other microorganisms,
+accounts for almost three million deaths annually world-
+wide [1,2]. It is also associated with considerable
+morbidity, health-care expenditure and resource use [3].
+Depending on the timing and location of infection, pneu-
+monia is usually classified as community-acquired pneu-
+monia (CAP), hospital-acquired pneumonia (HAP), or
+ventilator-associated pneumonia (VAP) [4]. Some authors
+also suggest a fourth category of pneumonia for patients
+not hospitalized, but with a significant exposure to the
+health-care system: healthcare-associated pneumonia [4],
+which has been debated intensively throughout the last de-
+cades [5].
+
+Despite our expanding understanding of mechanisms
+that underlie pneumonia, available treatments remain sub-
+optimal and pneumonia still causes unacceptable morbidity
+and mortality [3,6]. Randomized controlled trials (RCTs)
+represent the optimal study design for assessing the safety
+and clinical effectiveness of novel therapeutics, but the
+design, conduct and reporting of clinical trials investigating
+pneumonia management is complicated due to the acute na-
+ture and heterogeneity of the condition [7]. Ad hoc recruit-
+ment of patients upon presentation for an acute condition is
+challenging. Furthermore, potential participants may not be
+able or willing to give informed consent while they are
+acutely ill and unwell [7]. This is further complicated by
+multiple causative pathogens, a divergent host-response,
+heterogeneity in study populations that may suffer from
+various comorbidities and be using intercurrent medica-
+tions, resulting in distinct clinical trajectories. In parallel,
+the main characteristics of therapeutic trials reporting on
+pneumonia management lack standardization, with signifi-
+cant variation in the diagnostic criteria [8,9], outcomes
+and outcome measurement instruments used [10,11].
+
+To ensure that clinical trials inform clinical guidelines and
+practice effectively [12], they must address outcomes that are
+most relevant to both patients and health-care professionals
+[7,12,13]. It is also crucial to consistently evaluate critically
+important outcomes using the same, optimal measurement
+instruments, allowing findings to be easily compared, con-
+trasted, and combined in systematic reviews and clinical
+practice guidelines. Use of a core outcome set (COS), an
+agreed minimum set of critically important outcomes
+required for decision-making that should be evaluated in
+all future trials in a specific area of health care, can resolve
+these problems [7,13]. Indeed, in other disease areas, COS
+
+have improved the quality of subsequent RCTs, ensuring that
+these have addressed the most pertinent outcomes, making
+them more comparable, and thus more likely to inform pol-
+icy and clinical practice [14 16].
+
+To date, the European Respiratory Society (ERS) has
+supported the development of two COSs, the ERS Chronic
+Obstructive Pulmonary Disease (COPD) Exacerbations
+Core Outcome Set [17 19], and the Core Outcome Mea-
+sures Sets for Pediatric and Adult Severe Asthma [7,20].
+More recently, the ERS has formed a task force aiming to
+develop COSs for CAP, HAP, and VAP.
+
+The specific aim of this systematic review was to iden-
+tify the outcomes evaluated in RCTs reporting on the man-
+agement of pneumonia in adults, along with their
+corresponding measurement instruments, which will inform
+the development of the ERS Pneumonia COS.
+
+2 Materials and methods
+
+This methodological systematic review was based on a
+prospectively registered protocol (PROSPERO, ID:
+CRD42019147411). It was conducted in line with guidance
+from Cochrane and the Core Outcome Measures in Effec-
+tiveness Trials (COMET) Initiative [13,21] and reported
+following the Preferred Reporting Items for Systematic re-
+views and Meta-Analyses [22].
+
+Eligible studies included ongoing or completed RCTs
+evaluating any pharmacological or nonpharmacological
+intervention, including precision medicine interventions,
+for pneumonia management, either CAP, HAP, or VAP in
+adults. We accepted any established definitions and diag-
+nostic criteria for the various types of pneumonia, but
+excluded studies assessing a combination of clinical pre-
+sentations extending beyond pneumonia (e.g., lower respi-
+ratory tract infections). We also excluded RCTs focusing
+on Coronavirus Disease 2019 (COVID-19), as these were
+not included in the review protocol and have been ad-
+dressed in a separate review [23]. We only included trial
+protocols and/or the main trial publications; we excluded
+secondary publications or reports of post-hoc RCT ana-
+lyses. We only included reports in English.
+
+We identified potentially relevant RCTs using a structured
+search strategy consisting of controlled vocabulary and free
+search terms describing pneumonia, along with filters that
+included the Cochrane sensitivity and precision maximising
+filter for RCTs (available in the online appendix). We
+searched MEDLINE/PubMed, the Cochrane Register of
+Controlled Trials (CENTRAL), the U.S. National Library
+— — PAGE 3 — —
+90 A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95
+
+What is new?
+
+Key Findings
+
+e This systematic review assessed the outcomes and
+measurement instruments tested in 280 ongoing or
+completed RCTs of pneumonia management.
+
+The most frequently reported outcomes were treat-
+ment success (60.7 ), mortality (56.4 ) and
+adverse events (41.1).
+
+With the exception of treatment success and mor-
+tality, all other outcomes were assessed in less than
+half of the included studies, highlighting a signifi-
+cant variation in the selection of outcomes.
+
+What this adds to what was known?
+
+e Clinical trials of pneumonia management assess
+heterogeneous outcomes and measurement instru-
+ments. Outcomes that are important to patients,
+health professionals and other stakeholders are
+often omitted. This limits the interpretability and
+comparability of trial results.
+
+What is the implication and what should change
+
+now?
+
+e These findings underscore the necessity of estab-
+lishing a core outcome set for future pneumonia
+management RCTs, to enhance their quality and
+comparability. A core outcome set is a minimum
+agreed set of outcomes that will be assessed in
+all future RCTs of pneumonia management. The
+European Respiratory Society has initiated a task
+force to develop a core outcome set that will be
+informed by this methodological systematic review
+and international, multi-stakeholder consensus.
+
+of Medicine Clinical Trials Register (clinicaltrials.gov) and
+the World Health Organisation (WHO) International Clin-
+ical Trials Registry Platform for articles published from
+1st January 2010 to 13th December 2021.
+
+Search results were screened for eligibility by two inves-
+tigators independently (from among AGM, MF, JH, FH,
+AK) at title and abstract level, followed by full-text assess-
+ment of all potentially eligible studies. Disagreement in this
+and following steps were resolved by discussion or adjudi-
+cation by a third reviewer. A risk of bias assessment of the
+included studies was beyond the scope of this review, given
+the focus on assessing the outcomes evaluated in pneu-
+monia trials rather than the results of those trials. Eligible
+studies were grouped into those evaluating exclusively pa-
+tients admitted to an intensive care unit (ICU, which we
+defined as “‘critically ill patients”’) vs. studies looking pre-
+dominantly at patients who were not in ICU (which we
+
+defined as ‘‘predominantly noncritically ill patients’),
+given our experience that outcomes relevant to these patient
+groups will differ considerably. One reviewer extracted
+relevant study characteristics of all eligible studies in a
+standardised form and a second reviewer cross-checked
+the extracted data for accuracy (from among AGM, MF,
+JH, RCR, FH, TW, AK). More specifically, we captured in-
+formation regarding the study population, participant age,
+recruitment setting, blinding, interventions, sponsor, and
+geographic distribution of participating sites. All outcomes
+reported in each study alongside the outcome measurement
+instruments used to evaluate them were recorded verbatim.
+
+After assessing the outcomes in a random sample of 20
+studies from the critically ill and from the predominantly
+noncritically ill groups and drawing on our experience in pre-
+vious systematic reviews evaluating the outcomes of other
+acute respiratory conditions, namely COVID-19 and COPD
+exacerbations [23,24], we developed an initial list of
+outcome domains that were classified following the taxon-
+omy proposed by the COMET Initiative [25]. Two reviewers
+independently categorized each of the extracted verbatim
+outcome descriptions into a single outcome domain (from
+among AGM, ME, JH, RCR, FH, TW, AK). The list was
+expanded as needed after discussion among the extractors
+upon identification of additional outcome domains that were
+not initially included. Our findings are described narratively
+and in tabulated format. The unit of interest for this report is
+the trial. We assessed each trial once and collated data from
+multiple eligible reports of the same trial.
+
+3 Results
+3.1. Included studies
+
+Following deduplication, our searches retrieved 4,492
+records, of which 358, reporting on 280 RCTs, were
+considered eligible. These included 181 (64.6 ) completed
+RCTs with published results, and 99 (35.4 ) studies
+without published results, the majority of which are still
+ongoing. Characteristics of the included trials are described
+in Supplementary Table 1.
+
+3.2. Patient populations, disease groups and
+interventions
+
+There were 115 (41.1 ) RCTs that enrolled critically ill
+patients, with a median study size of 82 participants (range:
+4 1,200). Of these RCTs, 79 (68.7 ) included only pa-
+tients with VAP, 14 (12.2 ) only patients with CAP, one
+(0.9 ) only patients with HAP, while the remaining 21
+(18.3 ) accepted a combination of CAP, VAP and/or
+HAP. The most frequently assessed interventions in these
+trials were antibiotics (n 72, 62.6); precision medicine
+interventions (n 10, 8.7); and steroids, anti-
+inflammatories or immunomodulating agents including bi-
+ologics (n 8, 7.0).
+— — PAGE 4 — —
+A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95
+
+There were 165 (58.9 ) RCTs that recruited patients
+who were predominantly noncritically ill, with a median
+study size of 172 participants (range: 5 7,100). Solely pa-
+tients with CAP were recruited in 124 (75.2 _) and only pa-
+tients with HAP were recruited in four (2.4 __) trials, while
+the rest accepted combinations of CAP, HAP, and/or VAP.
+Antibiotics (1 77, 46.7.) were the most frequently as-
+
+sessed intervention, followed by _ steroids, anti-
+inflammatories or immunomodulating agents (n 19,
+11.5) and traditional medicine interventions (n 12,
+
+7.3 =)+.
+
+3.3. Trial outcomes
+
+Our review identified 43 outcome domains and 108 mea-
+surement instruments, excluding nonvalidated scores and
+questionnaires (Fig. 1). The definitions of the various out-
+
+comes, the frequencies of their reporting, and the
+
+noe
+no Siyenuwuoosi
+
+0} 2
+
+i)
+es
+
+91
+
+corresponding instruments used to measure them in the
+included RCTs are presented in Supplementary Tables 2
+and 3 A primary outcome was defined in 226 (80.7) of
+the RCTs, with similar proportions for trials focusing on
+critically ill (1 = 92, 80.0) and predominantly noncriti-
+cally ill(m 134, 81.2. ) patients.
+
+The included RCTs reported on a median of five outcome
+domains [interquartile range: 3. 7], with up to 16 domains
+assessed (Fig. 2). These figures did not differ between
+studies assessing critically ill (5 [4 8]) or predominantly
+noncritically ill (5 [3 7]) patients. There was no clear asso-
+ciation between the number of participants and number of
+outcome domains evaluated (Fig. 3). Although some trials
+reported a larger number of outcomes, for the purpose of this
+analysis, we reclassified based on our 43 identified domains.
+
+Classification of outcomes into the COMET taxonomy
+revealed that 97.5 _ of all trials assessed at least one clin-
+ical/physiological outcome, while 65.0 defined a primary
+
+Fig 1 Sunburnt plot summarising the frequency that outcomes are reported in pneumonia RCTs outcomes reported in <2 trials are not labeled in
+this figure). For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)
+— — PAGE 5 — —
+92 A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95
+
+Number of outcome domains assessed per trial
+
+16
+15
+14
+243
+@ 42
+
+°
+git
+
+e€
+=
+oo
+
+Number of outcom
+
+= MO wf ODN OC
+
+10 15 20
+
+Patient Group
+
+BB Critically ill
+c Predominantly
+non-critically ill
+
+25 30 35
+
+Number of studies
+
+Fig 2 Number of outcome domains assessed per trial. For interpretation of the references to color in this figure legend, the reader is referred to
+
+the Web version of this article.)
+
+outcome from this category. Safety outcomes were ad-
+dressed in 63.2 of all trials, but were rarely selected as
+primary outcomes (3.6). Mortality/survival, resource use
+and life impact were assessed less frequently, in 56.4 ,
+48.6 and 11.8 of all trials, respectively, and were infre-
+quently selected as primary outcomes (13.6 ,6.1 , 1.4
+
+respectively). Overall, the most frequently reported out-
+comes were treatment success (60.7 _), followed by mortal-
+ity (56.4 ) and adverse events (41.1). It is worth noting
+that treatment success and mortality were the only out-
+comes assessed in more than half of the included studies.
+In trials evaluating critically ill patients, mortality was the
+most frequently used outcome (62.6 ), followed by
+adverse events (60.9 ) and treatment success (56.5 ).
+Conversely, trials looking at noncritically ill patients re-
+ported most frequently on treatment success (63.6), fol-
+lowed by mortality (52.1) and adverse events (49.1).
+
+3.4. Measurement instruments to assess outcomes
+
+There was significant variation in the selection of instru-
+ments used for assessing the various outcomes, with a total
+of 108 different instruments used across all included trials
+(Supplementary Table 2). Of note, 73 (67.6 ) of the
+included instruments were used in 10 RCTs or less. Impor-
+tantly, none of the patient-reported instruments were used
+in 10 or more RCTs.
+
+4 Discussion and conclusion
+
+This systematic review describes the outcomes and
+outcome measurement instruments tested in 280 ongoing
+
+or completed RCTs evaluating interventions for pneumonia
+management. There was significant variability in the re-
+ported outcomes. Outcomes that are important to patients,
+health professionals, and policy makers were often omitted.
+One in three trials did not report on safety, while four in ten
+did not assess mortality or the overall outcome of the infec-
+tion (treatment success). With the exception of the afore-
+mentioned three outcomes, all other identified outcomes
+were assessed in less than half of the included studies.
+We also detected wide variation in the instruments used
+to assess outcomes such as treatment success, disease
+severity, signs, symptoms, or health status. Although sub-
+jective and patient reported outcomes are often reported,
+less than half the included RCTs were double-blind, raising
+concerns around potential risk of bias.
+
+The included studies were grouped into those assessing
+critically ill patients and those including predominantly
+noncritically ill patients, as we expected that the outcomes
+and measurement instruments might differ across these cat-
+egories. The (ongoing) need for ICU admission or invasive
+ventilation, duration of antibiotics, disease severity or tra-
+jectory were more frequently assessed in studies focusing
+on critically ill patients. In addition, the instruments used
+to assess some of the outcomes varied across the two
+groups of studies. For example, in critically ill patients,
+safety was more often assessed by laboratory testing,
+whereas studies of noncritically ill patients commonly
+relied on clinical indices. Studies of critically ill patients as-
+sessed the duration of ICU admission or mechanical venti-
+lation, while those of noncritically ill patients used the
+requirement for intensive care as an outcome. Interestingly,
+studies evaluating critically ill patients with CAP selected
+— — PAGE 6 — —
+A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95 93
+
+apuutcome domains assessed according to sample size and sponsor
+
+Sample size
+
+4+ a at
+a s
+an BAe Mee ata a
+
+i+
+
+» +4e a **6
+4 ¢ to 4
+
+Patient Group
+
+* Critically ill
+Predominantly
+non-critically ill
+
+Sponsor
+
+* Academic centre/Hospital
+* Pharmaceutical industry
+» Unclear
+
+2 4 6 8 10
+
+12 14 16
+
+Number of outcome domains
+
+Fig 3 Number of outcome domains assessed according to the study sample size. For interpretation of the references to color in this figure legend,
+
+the reader is referred to the Web version of this article.)
+
+similar outcomes to studies looking at VAP, perhaps sug-
+gesting the need for two COSs, focusing on the treatment
+setting, rather than the classification of pneumonia.
+Despite being the most frequently assessed outcome
+across the included RCTs, there are no established and vali-
+dated tools for assessing treatment success or failure in
+pneumonia or other acute respiratory conditions [26]. This
+outcome is defined as an overall assessment of whether
+pneumonia was treated successfully or not. Broadly, there
+are three different groups of instruments evaluating this
+outcome, but they are defined differently across various
+RCTs, leading to significant inconsistency and poor compa-
+rability. Descriptive instruments define treatment success or
+failure based on qualitative or semi-quantitative descrip-
+tions of the patients’ clinical status with regards to the
+pneumonia, as judged by the responsible health-care pro-
+fessional. For example, in descriptive tools, cure is often
+defined as a complete or nearly complete resolution of all
+signs and symptoms of the pneumonia, with some trials
+also requiring the normalisation of laboratory and radiolog-
+ical findings. Treatment failure is defined as a lack of
+improvement or deterioration of the clinical condition of
+the patient, while intermediate status might be labeled as
+“clinical improvement” or “marked clinical improve-
+ment’. The second group of instruments usually defines
+treatment success or failure as a composite outcome con-
+sisting of several desirable or undesirable scenarios,
+together defining an overall favourable or unfavourable
+outcome. For example, treatment failure might be defined
+as the need for supplemental oxygen, hospital admission,
+extension of the consolidation on imaging, or death. The
+third group of instruments focuses on the need for
+
+additional unplanned treatments, and mainly the need for
+additional antibiotics beyond the predefined course. In this
+group, treatment success is typically defined as an
+improved clinical condition of the patient who does not
+require any further antibiotics. For the purposes of this
+work, we presented these three broad instrument categories.
+However, the inconsistent definition of treatment success
+and the frequent inclusion of highly subjective measure-
+ment tools is a key finding of this review and there is an ur-
+gent need for a rigorously validated tool.
+
+Microbiological cure or eradication has also been as-
+sessed in 3/10 studies, with equal distribution between
+those looking at critical or not necessarily critical out-
+comes. This outcome did not fulfill our definition of treat-
+ment success/failure, so it was reported separately.
+Microbiological cure is a surrogate outcome predicting
+the clinically important outcomes. It was only assessed in
+31.1 of all trials, but that is probably because patients
+were followed-up until clinical cure, that is more important
+to patients and clinicians.
+
+Patient-reported outcome measures (PROM) were evalu-
+ated infrequently. More specifically, symptoms, quality of
+life and health status were only considered in 14.6 ,
+5.7. and 1.8 of the whole sample of RCTs, while the
+respective proportions for studies assessing critically ill pa-
+tients were even lower (7.0 , 6.1 and 0.0). This will
+need to be addressed, especially given the long-term
+sequelae that severe pneumonia has on the health and
+well-being of patients. There are no PROMs validated in
+HAP but two, well validated, CAP specific PROMs exist
+[27,28]. However, most CAP trials used nonvalidated in-
+struments. The creation, validation and consistent use of
+— — PAGE 7 — —
+94 A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95
+
+PROMs should be emphasized when agreeing a COS for
+pneumonia trials.
+
+Recent methodological reviews of the outcomes evalu-
+ated in other acute respiratory presentations, namely acute
+exacerbations of COPD and COVID-19 revealed similar
+findings and limitations [23,24]. Both the outcomes and
+measurement instruments that are used in all three disease
+areas vary widely and are drawn from the same pool
+described in this paper. There is little focus on the longitu-
+dinal impact of acute events on the health and well-being of
+patients and this may need to be revisited given that these
+domains were prioritised in the COPD Exacerbations
+COS, that was based on _ global, multi-stakeholder
+consensus with strong patient involvement [19].
+
+Our findings suggest that several RCTs on the manage-
+ment of pneumonia cannot adequately inform clinical rec-
+ommendations and practice because their results cannot be
+properly compared, contrasted, and combined. These find-
+ings confirm the need for COSs for trials on the management
+of various types of pneumonia, to ensure that future trials
+address the most critical outcomes in a standardized way,
+thus improving their quality and comparability.
+
+Two previous consensus documents have prioritized out-
+comes for evaluation in clinical trials of CAP [11] and
+HAP/VAP [10]. Both recommended the evaluation of
+safety, mortality, and treatment success; which were most
+frequently assessed outcomes in RCTs in this study. They
+also encouraged the use of other outcomes that are less
+frequently tested in clinical trials, such as quality of life,
+severity scores, and, for studies assessing CAP, the need
+for ICU admission. Although the CAP document was pub-
+lished almost 20 years ago, trial adherence to the recom-
+mended outcomes remains limited. The HAP/VAP
+document is newer, and adherence cannot be appreciated
+yet. Uptake of such documents is key to their success.
+The planned ERS Pneumonia COSs are being developed
+following rigorous methodology proposed by the COMET
+initiative, which is based on thorough methodological sys-
+tematic reviews (such as this one) and international, multi-
+stakeholder involvement and consensus [29,30]. It is antic-
+ipated that the core outcomes will be endorsed by the ERS.
+We hope that these strengths, along with a rigorous dissem-
+ination strategy will maximise the likelihood of success.
+
+The main limitation of this review is that we were not
+able to classify trials according to their trial phase. It is
+generally acceptable for phase 2 trials to have more explor-
+atory or preliminary outcomes [31]. However, a significant
+proportion of the included trials did not report on their
+phase and classification was not possible. Moreover, we
+did not address the timepoints at which various outcomes
+were measured, or the exact methods for analysing various
+outcomes and instruments, as these were beyond the scope
+of our work. These important parameters will need to be
+addressed in future work. Indeed, assessing mortality only
+during ICU stay or hospital admission can be misleading,
+as it overlooks the substantial mortality occurring within
+
+6 12 months post the acute event. Furthermore, this
+approach may introduce bias due to variations in the length
+of ICU/hospital stays mong different treatment groups or
+participants. Likewise, the analysis of treatment success
+can be conducted either at as specific timepoint or based
+on time-to-treatment success. The latter strategy generally
+provides a more robust analysis with greater power to iden-
+tify differences. Another potential limitation of this work is
+that we only included studies reported in the English lan-
+guage. However, the number and broad geographic distri-
+bution of the included studies reassures that we have not
+missed outcomes.
+
+The main strengths of this systematic review are the
+rigorous literature review that revealed 280 eligible studies,
+including ongoing and completed RCTs, allowing us to
+capture the frequency at which relevant outcomes and mea-
+surement instruments are assessed in RCTs of pneumonia
+management. Characteristically, after extracting data from
+approximately 15 and 60 _ of the included studies, we
+reached saturation of outcomes and measurement instru-
+ments, respectively.
+
+It should be noted that for completeness we have
+included all outcomes evaluated in the included studies.
+Some of these outcomes, such as guidelines adherence or
+satisfaction of health professionals are not patient health
+outcomes, and will therefore be excluded from the COS
+development. Moreover, the ERS COS will focus on late
+phase efficacy and effectiveness trials and will not consider
+pharmacodynamics and pharmacokinetics, that are more
+relevant to early phase trials, while cost-effectiveness ana-
+lyses will not be considered either. Although biomarkers
+are often assessed as surrogates to patient important out-
+comes, it is still debated whether they should be considered
+as outcomes, especially in effectiveness trials.
+
+In summary, this methodological review identifies the
+outcomes and outcome measurement instruments reported
+in trials on the management of pneumonia, quantifying
+how frequently they are used. These findings will inform
+the development of the ERS Pneumonia COSs.
+
+CRediT authorship contribution statement
+
+Study conception: AGM, MF, JV, TF. Study design:
+AGM, MF, PD, PRW, JV, TF. Methodological expertise:
+AGM, PRW. Screening, study selection, data extraction:
+AGM, MF, JH, RCR, FH, TW, AK. Analysis: AGM, TF.
+Manuscript drafting: AGM, MF, TF. Interpretation of find-
+ings: All authors. Critical revision of the manuscript: All
+authors.
+
+Data availability
+
+This is a systematic review. Data are available from the
+original publications that have been included and cited.
+— — PAGE 8 — —
+A.G. Mathioudakis et al. / Journal of Clinical Epidemiology 164 (2023) 88 95 95
+
+Declaration of competing interest
+
+The authors declare no conflict of interest related to this
+work.
+
+Supplementary data
+
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.jclinepi.2023.10.011.
+
+References
+
+[1]
+
+[2]
+
+[3]
+
+\4
+
+e
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9
+
+=
+
+[10]
+
+(11]
+
+[12]
+13)
+
+[14]
+
+Mortality GBD. Causes of death C: global, regional, and national life
+expectancy, all-cause mortality, and cause-specific mortality for 249
+causes of death, 1980-2015: a systematic analysis for the Global
+Burden of Disease Study 2015. Lancet 2016;388:1459 544.
+Collaborators GL. Age-sex differences in the global burden of lower
+respiratory infections and risk factors, 1990-2019: results from the
+Global Burden of Disease Study 2019. Lancet Infect Dis 2022;22:
+1626 47.
+
+Welte T, Torres A, Nathwani D. Clinical and economic burden of
+community-acquired pneumonia among adults in Europe. Thorax
+2012;67:71 9.
+
+Venditti M, Falcone M, Corrao S, Licata G, Serra P. Study Group of
+the Italian Society of Internal M: outcomes of patients hospitalized
+with community-acquired, health care-associated, and hospital-
+acquired pneumonia. Ann Intern Med 2009;150:19 26.
+
+Ewig S, Kolditz M, Pletz MW, Chalmers J. Healthcare-associated
+pneumonia: is there any reason to continue to utilize this label in
+2019? Clin Microbiol Infect 2019;25:1173 9.
+
+Musher DM, Thorner AR. Community-acquired pneumonia. N Engl
+J Med 2015;372:294.
+
+Mathioudakis AG, Khaleva E, Fally M, Williamson PR, Jensen JU,
+Felton TW, et al. Core outcome sets, developed collaboratively with
+patients, can improve the relevance and comparability of clinical tri-
+als. Eur Respir J 2023;61:2202107.
+
+Weiss E, Essaied W, Adrie C, Zahar JR, Timsit JF. Treatment of se-
+vere hospital-acquired and ventilator-associated pneumonia: a sys-
+tematic review of inclusion and judgment criteria used in
+randomized controlled trials. Crit Care 2017;21:162.
+
+Flateau C, Le Bel J, Tubiana S, Blanc FX, Choquet C, Rammaert B,
+et al. High heterogeneity in community-acquired pneumonia inclu-
+sion criteria: does this impact on the validity of the results of random-
+ized controlled trials? BMC Infect Dis 2018;18:607.
+
+Weiss E, Zahar JR, Alder J, Asehnoune K, Bassetti M, Bonten MJM,
+et al. Elaboration of consensus clinical endpoints to evaluate antimi-
+crobial treatment efficacy in future hospital-acquired/ventilator-
+associated bacterial pneumonia clinical trials. Clin Infect Dis 2019;
+69:1912 8.
+
+Barlow GD, Lamping DL, Davey PG, Nathwani D. Evaluation
+of outcomes in community-acquired pneumonia: a guide for pa-
+tients, physicians, and policy-makers. Lancet Infect Dis 2003;3:
+476 88.
+
+Ioannidis JP. Clinical trials: what a waste. BMJ 2014;349:¢7089.
+Williamson PR, Altman DG, Bagley H, Barnes KL, Blazeby JM,
+Brookes ST, et al. The COMET Handbook: version 1.0. Trials
+2017;18:280.
+
+Williamson PR, de Avila Oliveira R, Clarke M, Gorst SL, Hughes K,
+Kirkham JJ, et al. Assessing the relevance and uptake of core
+outcome sets (an agreed minimum collection of outcomes to measure
+in research studies) in Cochrane systematic reviews: a review. BMJ
+Open 2020;10:e036562.
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+[27]
+
+[28]
+
+[29]
+
+[30]
+
+[31]
+
+Kirkham JJ, Boers M, Tugwell P, Clarke M, Williamson PR.
+Outcome measures in rheumatoid arthritis randomised trials over
+the last 50 years. Trials 2013;14:324.
+
+Fally M, Mathioudakis AG, Wingfield Digby J, Williamson PR. Out-
+comes assessed in therapeutic randomized controlled trials in hospi-
+talized patients with COVID-19: is the meta Core Outcome Set
+(meta-COS) adopted? Clin Microbiol Infect 2022;28:456 7.
+Mathioudakis AG, Janner J, Moberg M, Alonso-Coello P, Vestbo J. A
+systematic evaluation of the diagnostic criteria for COPD and exac-
+erbations used in randomised controlled trials on the management
+of COPD exacerbations. ERJ Open Res 2019;5:00136 2019.
+Mathioudakis AG, Abroug F, Agusti A, Bakke P, Bartziokas K,
+Beghe B, et al. Core outcome set for the management of acute exac-
+erbations of chronic obstructive pulmonary disease: the COS-
+AECOPD ERS Task Force study protocol. ERJ Open Res 2020;6:
+00193 2020.
+
+Mathioudakis AG, Abroug F, Agusti A, Ananth S, Bakke P,
+Bartziokas K, et al. ERS Statement: a core outcome set for clinical
+trials evaluating the management of chronic obstructive pulmonary
+disease (COPD) exacerbations. Eur Respir J 2022;59:2102006.
+Khaleva E, Rattu A, Brightling C, Bush A, Bossios A, Bourdin A,
+et al. Development of core outcome measures sets for paediatric
+and adult severe Asthma (COMSA). Eur Respir J 2022;61:2200606.
+Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ,
+et al. Cochrane handbook for systematic reviews of interventions.
+The Cochrane Collaboration; 2022: version 6.3. Available at
+training.cochrane.org/handbook/current. Accessed November 9,
+2023.
+
+Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC,
+Mulrow CD, et al. The PRISMA 2020 statement: an updated guide-
+line for reporting systematic reviews. J Clin Epidemiol 2021;134:
+178 89.
+
+Mathioudakis AG, Fally M, Hashad R, Kouta A, Hadi AS,
+Knight SB, et al. Outcomes evaluated in controlled clinical trials
+on the management of COVID-19: a methodological systematic re-
+view. Life 2020;10:350.
+
+Mathioudakis AG, Moberg M, Janner J, Alonso-Coello P, Vestbo J.
+Outcomes reported on the management of COPD exacerbations: a
+systematic survey of randomised controlled trials. ERJ Open Res
+2019;5:00072 2019.
+
+Dodd S, Clarke M, Becker L, Mavergames C, Fish R,
+Williamson PR. A taxonomy has been developed for outcomes in
+medical research to help improve knowledge discovery. J Clin Epide-
+miol 2018;96:84 92.
+
+Mathioudakis AG, Ananth S, Bradbury T, Csoma B, Sivapalan P,
+Stovold E, et al. Assessing treatment success or failure as an outcome
+in randomised clinical trials of COPD exacerbations. A meta-
+epidemiological study. Biomedicines 2021;9:1837.
+
+Wootton DG, Dickinson L, Pertinez H, Court J, Eneje O, Keogan L,
+et al. A longitudinal modelling study estimates acute symptoms of
+community acquired pneumonia recover to baseline by 10 days.
+Eur Respir J 2017;49:1602170.
+
+El Moussaoui R, Opmeer BC, Bossuyt PM, Speelman P, de
+Borgie CA, Prins JM. Development and validation of a short ques-
+tionnaire in community acquired pneumonia. Thorax 2004;59:
+591 5.
+
+Kirkham JJ, Gorst S, Altman DG, Blazeby JM, Clarke M, Devane D,
+et al. Core outcome set-STAndards for reporting: the COS-STAR
+statement. PLoS Med 2016;13:e1002148.
+
+Kirkham JJ, Davis K, Altman DG, Blazeby JM, Clarke M, Tunis S,
+et al. Core outcome set-STAndards for development: the COS-
+STAD recommendations. PLoS Med 2017;14:e1002447.
+
+Van Norman GA. Phase II trials in drug development and adaptive
+trial design. JACC Basic Transl Sci 2019;4:428 37.

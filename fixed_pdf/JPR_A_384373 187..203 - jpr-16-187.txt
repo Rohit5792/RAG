@@ -1,0 +1,1188 @@
+— — PAGE 1 — —
+Journal of Pain Research Dove
+
+8 CLINICAL TRIAL REPORT
+
+Effects of Hypnotic Analgesia and Transcranial
+Direct Current Stimulation on Pain Tolerance
+and Corticospinal Excitability in Individuals with
+
+Fibromyalgia: A Cross-Over Randomized Clinical
+Trial
+
+Bruno Schein!?, Gerardo Beltran'~3, Barbara Regina Franca!’, Paulo RS Sanches‘, Danton P Silva Jr4,
+Iraci Lucena Torres”, Felipe Fegni’, Wolnei Caumo(!?>®
+
+'Post-Graduate Program in Medical Sciences, School of Medicine, Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre, Rio Grande do
+Sul (RS), Brazil; *Laboratory of Pain and Neuromodulation, Hospital de Clinicas de Porto Alegre (HCPA), Porto Alegre, RS, Brazil; Institute of
+Neurosciences, Universidad Catolica de Cuenca, Cuenca, Ecuador; 4Laboratory of Biomedical Engineer, HCPA, Porto Alegre, RS, Brazil; 5Pain and
+Palliative Care Service, HCPA, Porto Alegre, RS, Brazil; 6Laboratory of Pharmacology of Pain and Neuromodulation, Experimental Research Center,
+HCPA, Porto Alegre, RS, Brazil; “Laboratory of Neuromodulation and Center for Clinical Research Learning, Physics and Rehabilitation Department,
+Spaulding Rehabilitation Hospital, Boston, MA, USA; 8Department of Surgery, School of Medicine, UFRGS, Porto Alegre, RS, Brazil
+
+Correspondence: Wolnei Caumo, Laboratory of Pain and Neuromodulation, Hospital de Clinicas de Porto Alegre at UFRGS, Ramiro Barcelos, 2350 -
+CEP 90035-003 Bairro Rio Branco, Porto Alegre, RS, Brazil, Tel/Fax +55 51- 33598083, Email wcaumo@hcpa.edu.br
+
+Objective: We compare the effect of HAS, a-tDCS on the left dorsolateral prefrontal cortex (I-DLPFC), and rest-testing on pain
+measures [(cold pressor test (CPT) (primary outcome) and heat pain threshold]. We also compare their effects on the motor evoked
+potential (MEP) (primary outcome), short intracortical inhibition (SICI), intracortical facilitation (ICF), and cortical silent period (CSP).
+Methods: This randomized, blind, crossover trial included 18 women with fibromyalgia, aged from 18 to 65 years old. They received
+at random and in a crossover order a-tDCS over the |-DLPFC (2mA), HAS, or a rest-testing.
+
+Results: HAS compared to a-tDCS increased the pain tolerance with a moderate effect size (ES) [Cohen’s f=—0.78; (CI 95%; —1.48 to
+—0.12)]. While compared to rest-testing, HAS increased the CPT with a large ES [Cohen’s f=—0.87; (CI 95%; —1.84 to —0.09)]. The
+a-tDCS compared to HAS increased the MEP amplitude with large ES [Cohen’s f=—-1.73 (CI 95%; —2.17 to —0.17)]. Likewise, its ES
+compared to rest-testing in the MEP size was large [Cohen’s f=—1.03; (CI 95%; —2.06 to —0.08)].
+
+Conclusion: These findings revealed that HAS affects contra-regulating mechanisms involved in perception and pain tolerance, while
+the a-tDCS increased the excitability of the corticospinal pathways. They give a subsidy to investigate their effect as approaches to
+counter regulate the maladaptive neuroplasticity involved in fibromyalgia.
+
+Clinical Trial Registration: www.ClinicalTrials. gov, identifier - NCT05066568.
+
+Keywords: tDCS, hypnosis, hypnotic analgesia, chronic pain, fibromyalgia, pain threshold, cold pressor test, CPM-test
+
+Plain Language Summary
+
+There is a lack of data to comprehend the difference between the effects of hypnotic analgesia suggestion and a-tDCS in fibromyalgia.
+This research was done to better understand the effects of anodal transcranial direct current stimulation (a-tDCS) and hypnotic
+suggestion analgesia (HAS) on corticospinal pathways and cortical excitability. Compared to a-tDCS and rest-testing, HAS increased
+tolerance to nociceptive stimulus. On the other hand, the a-TDCS raised excitability in cortical and cortico-spinal pathways. These
+results support the distinction between the effects of HAS and a-tDCS in corticospinal excitability. Also, they may be clinically
+relevant to creating a roadmap for customizing treatment in FM based on an individual’s characteristics. An exploratory analysis also
+revealed that patients with higher hypnotic susceptibility are likely to exhibit an increased effect of a-tDCS on MEP and SICI.
+
+Journal of Pain Research 2023:16 187—203 187
+Received: 30 August 2022 ©, 2023. Schein. et. al.. This. work is. published. and. licensed. by. Dove. Medical. Press. Limited.. The. full. terms. of. this. license. are. available. at. https://www.dovepress.com/terms..
+Accepted: 28 October 2022 Eramemmm php. and. incorporate. the Creative. Commons. Attribution. — Non. Commercial. (unported,. v3.0). License. (http://creativecommons.org/licenses/by-nc/3.0/).. By. accessing. the.
+
+work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For
+permission. for. commercial. use. of. this. work, please. see. paragraphs. 4.2. and. 5. of. our. Terms. (https://www.dovepress.com/terms.php).
+
+Published: 24 January 2023
+— — PAGE 2 — —
+Schein et al Dove
+
+Introduction
+
+Fibromyalgia encompasses widespread musculoskeletal pain, fatigue, sleep disorders and cognitive dysfunctions invol-
+ving memory and attention.’ Although the precise mechanisms underlying fibromyalgia remain incompletely understood,
+it is a nociplastic pain condition associated with a central sensitization syndrome (CSS).' CSS encompasses the impaired
+functioning of neurons and circuits in nociceptive pathways with neuronal excitability, increased synaptic efficacy, and
+reduced inhibition in the descending pain modulatory pathways.” Its multiple components include sensory, emotional,
+cognitive, and behavioral elements. It involves activity in various networks in the central nervous system (CNS).”
+
+The dysfunction of pain processing pathways in fibromyalgia has been linked with a deteriorated function of cortical
+inhibition.** In a previous study, using transcranial magnetic stimulation (TMS) measures, we found an increase in short
+intracortical inhibition (SICI) compared to healthy subjects.* However, other studies found lower intracortical facilitation
+(ICF) and SICI than controls.* Despite these mixed results, these data indicate that motor cortex excitability might be an
+index to comprehend cortical dysfunction related to pain. Motor evoked potentials (MEPs) might be a valuable tool to
+investigate the dysfunction of corticospinal excitability.” In the therapeutic expect, according to a meta-analysis, anodal
+stimulation on the M1 effectively reduces the intensity of various pain conditions, including fibromyalgia.° This effect
+has been related to influences in the sensory-discriminative networks involved in pain sensitivity processing. On the other
+hand, the prefrontal cortex (PFC) has been associated with regulating top-down modulation and maintaining pain
+inhibition. PFC is responsible for driving behavioral responses and is involved in cognitive processes, including
+attention, value encoding, working memory, creativity, decision-making, and emotional regulation.”
+
+An earlier study found that patterns in fibromyalgia's left prefrontal cortex (PFC) activation indexed by oxy-
+hemoglobin concentration using near-infrared spectroscopy might differentiate fibromyalgia patients from controls and
+discriminate subjects with more severe CSS symptoms.’ Hence, the differential cortical activation in chronic pain has
+been linked to an imbalance between excitability and disinhibition by GABA activity reduction.® In contrast, with an
+increase in NMDA receptor activity by glutamate.’ Although advances in dysfunctional processes in fibromyalgia are
+ongoing, conventional medical treatment in fibromyalgia has a limited impact on improving cognitive and emotional
+aspects related to chronic pain.'” Based on the multimodal concept of pain management, there is a growing interest in
+interventions that can complement conventional medicine, such as hypnotic suggestions.
+
+The hypnotic analgesia suggestion trains patients to manipulate focus and self-regulation to change pain experience,
+cognition, thought, and behavior.'! Its benefits on pain perception have been demonstrated in several clinical conditions,
+such as skin burns, leukemia, labor pain, and cancer, including fibromyalgia.'”'’ In addition, the hypnotic analgesia
+effect improved the emotional and cognitive symptoms of fibromyalgia.'? In an earlier study of healthy women with high
+susceptibility to hypnosis, we found that it increased heat pain threshold (HPTh), heat pain tolerance (HPTo), and cold
+pressor test (CPT) tolerance. However, in healthy women, hypnotic suggestion paradoxically reduced the inhibition of
+the descending pain modulatory system (DPMS) by conditioned pain modulation (CPM)-task. In contrast, the same study
+showed that anodal transcranial direct-current stimulation (a-tDCS) improved the efficiency of DPMS.'* Additional
+studies proved that anodal transcranial direct current stimulation (a-DCS) improves fibromyalgia symptoms related to
+pain and disability due to pain.'*'°
+
+The main target for tDCS to treat pain is the primary motor cortex (M1), influencing the sensory-discriminative
+networks evolved in pain sensitivity processing.° Anodal stimulation over DLPFC, on the other hand, has revealed
+beneficial effects on mood regulation, cognitive functions (eg, decision-making), and mechanisms underlying adaptive
+and maladaptive emotional functioning.'* a-tDCS over M1 enhances the strength of the descending pain modulating
+system in chronic pain.'” In fibromyalgia, a-tDCS over DLPFC reduced pain sensations and improved either fatigue or
+cognitive performance. In addition, anodal stimulation on DLPFC led to increased orienting and executive attention
+networks.'®'*® However, there is a lack of data to comprehend the difference between the effects of hypnotic analgesia
+suggestion and (a)-tDCS on DLPFC in fibromyalgia. Hence, as a concept proof test of the merit of a-tDCS and hypnotic
+suggestion in clinical practice, it is reasonable to determine if their effects are superior to the participants’ behavior
+alteration due to being observed (Hawthorne effect).'” A strict, controlled experimental paradigm is needed to control
+this possible bias and comprehend its therapeutic effect on pain processing. In the context of the scientific progress in
+
+188 https: Journal of Pain Research 2023:16
+
+Dove!
+— — PAGE 3 — —
+Dove Schein et al
+
+complementary therapy, control group design is among the crucial methodological issues in hypnotic suggestion
+research, likewise in the development of yoga, tai chi, and mind-body therapy research.*°
+
+Thus, we plan a randomized clinical trial to examine the effect of a-tDCS, a hypnotic analgesia suggestion (HAS),
+and a rest testing condition on psychophysical pain measures and cortical excitability measures. From a pragmatic
+viewpoint, we compared the impact of HAS on a-tDCS and rest-testing on psychophysical measures related to pain
+[(cold pressor test (CPT) (primary outcome) and heat pain threshold (HPTh)]. We also compared their effects on cortical
+excitability measures by transcranial magnetic stimulation [motor evoked potential (MEP) (primary outcome), short
+intracortical inhibition (SICD, intracortical facilitation (ICF), and cortical silent period (CSP) (secondary outcomes)]. We
+hypothesize that HAS would be more effective in reducing pain perception than a-tDCS and rest-testing. In contrast, we
+hypothesize that a-tDCS would be more effective than HAS and rest-testing to improve the excitability of the motor
+cortex.
+
+Materials and Methods
+
+Design Overview, Setting, and Participants
+The protocol of this randomized, single-center study, crossover trial was approved by the Research Ethics Committee at
+the Hospital de Clinicas de Porto Alegre (HCPA), Brazil -— Institutional Review Board IRB (CAAE
+29940720.7.00005327) in accordance with the Declaration of Helsinki. All participants provided oral and written
+informed consent before participating, and they did not receive payment in exchange for their participation.
+Recruitment was undertaken in time from July 2020 to December 2021. De-identified data relating to intervention and
+primary outcomes will be made available on request to Caumo W (wcaumo@hcpa.edu.br) with no time restriction.
+Patients were randomly assigned 1:1 to treatment order in a 3-phase crossover trial: in the first phase, a-tDCS or HAS;
+in the second phase, all subjects received the rest testing; and in the third phase, those who received HAS in the first
+phase crossed to a-tDCS or vice-versa. This way, every intervention was administered once. To prevent carry-over
+effects, we established a washout time of a minimum of 7 days between each phase, based on a previous proof of concept
+study with a similar design.”! The study is presented according to CONSORT 2010 guidelines (Appendix I). The timeline
+of this study is presented in Figure 1.
+
+Protocol Change
+
+According to the initial protocol plan, all assessments had been planned to occur face-to-face. However, due to the
+Covid-19 pandemic, we changed some procedures to maintain social distance, such as obtaining online: (1) formal online
+consent and (ii) a questionnaire about sociodemographic and previous medical history data. (ili) We excluded patients
+who contracted a covid-19 infection that reported some sequel or if they were in the first 3 months of grief. These
+changes occurred after the 12 months from the recruitment start, and this modification is shown in the timeline.
+
+Recruitment, Inclusion, and Exclusion Criteria
+
+All patients were recruited by directly contacting them from the institutional chronic pain clinic and referrals from other
+Basic Health Units of the Public Health System at Porto Alegre, Brazil. We also call volunteers registered in the database
+of fibromyalgia at the Laboratory of Pain and Neuromodulation at Hospital de Clinicas de Porto Alegre. They could also
+call the phone number of the research project announced through advertisements in groups and associations with patients
+with Fibromyalgia in Porto Alegre, Brazil. Firstly, we contact volunteers by phone to answer a screening questionnaire.
+Inclusion criteria were fibromyalgia women between 18 and 65 years old, with fibromyalgia diagnosis, according to the
+American College of Rheumatology revised criteria (ACR) 2016.” They needed to be literate, with the capacity to read
+and write in Brazilian Portuguese, and have pain scores equal to or greater than six on Numerical Pain Scale (NPS) 0-10
+on most days for the last 3 months. If they met the inclusion criteria, they were invited to answer the Waterloo-Stanford
+Group C Scale of Hypnotic Susceptibility (WSGC), validated in Portuguese.** Volunteers should also present a high
+hypnotic susceptibility, defined as a score =8 on the susceptibility scale. After this initial assessment by phone call, we
+invited them face-to-face to confirm the fibromyalgia diagnosis by a physician with pain specialization with Brazilian
+
+Journal of Pain Research 2023:16 https: 189
+
+Dove:
+— — PAGE 4 — —
+Schein et al Dove
+
+Allocation
+
+Post Pre
+
+Pre and post assessments
+
+Figure | Timeline of procedure of the study.
+
+Abbreviations: ACR, American College of Rheumatology revised criteria; STAI, State-Trait Anxiety Inventory; PSQI, Pittsburgh Sleep Quality Index; BDI-Il, Beck
+Depression Inventory, Second Edition; CSI, Central Sensitization Inventory; BP-PCS, Brazilian Portuguese Pain Catastrophizing Scale; a-tDCS, anodal transcranial direct-
+current stimulation.
+
+Board-Certified. In this assessment, we collect medical history and detailed descriptions of their symptoms. We excluded
+volunteers if they presented some of the following conditions: Pregnancy; history of alcohol or drug abuse in the
+previous 6 months; history of uncontrolled systemic diseases (ie, ischemic heart disease, renal disease, hepatic disease,
+hypothyroidism, etc.); history of cancer treatment in the last year, history of chronic inflammatory disease (eg, lupus,
+rheumatoid arthritis, and Reiter’s syndrome); had COVID-19 infection or presence of similar symptoms in the last 14
+days; suicide ideation with present risk and other uncontrolled psychiatric diseases that can interfere with the study.
+Contraindications to tDCS include a history of brain surgery, tumor, stroke, or intracranial metallic implants.”*
+
+Settings and Locations Where the Data Were Collected
+
+The experimental protocol was conducted under standardized conditions, including controlling environmental tempera-
+ture and noise, at the Laboratory of Pain and Neuromodulation at Hospital de Clinicas de Porto Alegre, Brazil.
+Interventions (HAS, a-tDCS or rest testing) are described below:
+
+a. Hypnotic analgesia session: The protocol consisted of 20-min-long induction of hypnotic analgesia according to the
+standardized hypnotic induction guide developed by Professor Jensen.*° It starts with an induction, with suggestions for subjects
+to focus their attention on a single stimulus. Thus, they were encouraged to control their breathing, guiding subjects to
+progressive relaxation. After these initial instructions, the professional gave suggestions for comfort, in which the patient had
+to imagine being in a quiet and peaceful place. In the 10 final minutes of the induction, the hypnotic suggestions for analgesia
+target decreased the subject’s pain and control over her sensations. According to the hypnotic analgesia suggestion, as told to the
+
+190. erowonmnsee Ul OF Pain Research 2023:16
+
+Dove!
+— — PAGE 5 — —
+Dove Schein et al
+
+patient, who no longer would feel pain. So, his mind would be able to control the sensations of his own body, preventing pain. We
+used the protocol of HAS previously published by Patterson, D. R., and Jensen, which follows standardized steps (see the
+
+hypnotic analgesia suggestion protocol in Appendix Il).*°
+
+The duration of experimental manipulation (induction + suggestions)
+was 20 min.
+
+b. The device and the cap used for the tDCS were developed by the Biomedical Engineering Department at the
+Hospital de Clinicas de Porto Alegre, Brazil, in partnership with the Laboratory of Pain & Neuromodulation. It is
+approved by ANVISA (Brazilian National Health Surveillance Agency) up to registration number N°80079190028. In
+this link it is possible to see details about the device and its validation, as well as the step-by-step self-administration
+process of the tDCS used at home: Home-Based Transcranial Direct Current Stimulation Device Development: An
+Updated Protocol Used at Home in Healthy Subjects and Fibromyalgia Patients (jove.com). The scalp electrodes were
+positioned according to the 10-20 system for EEG (F3 anode, 1-DLPFC) and the cathode at r-DLPFC (F4). a-tDCS
+current applied was 2mA for 20 min.”° The 35cm2 electrodes were coated in a sponge and placed inside a neoprene cap
+adjusted for the subject’s head size. Before starting the intervention, we moistened the electrodes with a saline solution
+with two silicone cannulas. tDCS devices were programmed before the session by a medical engineer.
+
+The protocol to choose the size of the cap to keep adequate contact of electrodes with the scalp followed these
+procedures: (i). The researcher measured the head circumference to define the size of the cap: Small-cap if the head
+circumference was 38 cm x 55 cm, medium if the head circumference was 39 cm x 57.5 cm, and large if the head
+circumference was 40 cm x 59 cm. The cap has a Velcro strap attached to adjust the contact with the head. Volunteers put
+the cap on and checked if the size cap was adequate to keep maintaining electrodes in touch with the scalp. (ii) The
+participants put the cap on their heads, and the researcher measured to localize the positions of the electrodes according
+to the 10—20 system for EEG. (iii) The electrodes from 35cm2 were inserted on the sponges to deliver the current to the
+scalp. The same researcher applied the a-tDCS session at the Laboratory of Pain and Neuromodulation of Hospital de
+Clinicas de Porto Alegre, Brazil.
+
+c. Rest-testing: Volunteers sat in a comfortable chair in the same room used to apply the hypnotic suggestion or tDCS.
+The room’s environment was the same as that used for other interventions. They needed to keep their eyes open, for 20
+min, without performing any other task. However, the same research team member who applied the hypnotic analgesia
+suggestion or tDCS was in the room as a mute observer.
+
+Primary and Secondary Outcomes: Definitions and Measures
+The primary outcomes were the CPT and the MEP amplitude. The secondary outcomes were HPTh, SICI, ICF, and CSP.
+
+Psychophysical Pain Measures
+
+(a) In the Cold pressor test, the volunteer was asked to immerse her dominant hand in cold water (0° to 1°C) for up to
+2 min. Volunteers could withdraw her hand at any time when the pain was intolerable.'* Cold pressor value was
+the total time in seconds during which the subject maintained her hand submerged in the cold water.
+
+(b) HPTh was assessed by quantitative sensory testing (QST) using a standardized protocol. The measure applies the
+method limits with a computer Peltier-based device thermode (30X30mm) attached to the skin on the mid-forearm
+ventral aspect. The temperature thermode was set at 32 degree Celsius (°C), and it increased at a rate of loC/s to
+a maximum of 520C. The HPTh of each patient was defined as the means of three assessments performed with an
+inter-stimulus interval of 40 s. The mean of three HPTh assessments was defined as the outcome.’
+
+Neuropsychological Measures by Transcranial Magnetic Stimulation Parameters
+
+The cortical excitability and integrity measures of the corticospinal tract were taken by magnetic stimulation parameters
+using the machine Neuro-MS/D (2800V, peak 133 magnetic field — up to 4T, Neurosoft, Ivanovo — Russia). Participants sat in
+a comfortable reclining chair and were informed about the TMS procedure and possible sensations they might experience. To
+identify the motor “hot spot”, the coil was placed over the left M1 at 45°angle to the sagittal line tangential to the scalp to
+stimulate the area of the cerebral cortex that represents the hand.** We found an optimal spot by moving the coil in 0.5—1 cm
+increments on the scalp, starting from approximately 4 cm lateral and 1 cm anterior from the head’s vertex. By 10-20 system,
+
+Journal of Pain Research 2023:16 https: 191
+
+Dove:
+— — PAGE 6 — —
+Schein et al Dove
+
+this point corresponds approximately with the area that characterizes the primary motor cortex.’” Thus, this location was used
+as an origin, and pulses were applied 0.5 cm away in four cardinal directions using frameless stereotaxy (Brainsight: Rogue
+Research Inc., Montreal, Canada). We used, on average, three pulses at each test location. If no larger EMG resulted at these
+test sites, the origin was considered the optimal site. To ensure the proper placement of the coil during cortical excitability
+assessments, researchers marked the site with a soft-tipped pen. To reduce variability, the same researcher performed all TMS
+assessments. Measurements of TMS, such as amplitudes of single and paired-pulse, latency, and duration of cortical silent
+period (CSP) measurements, were recorded on a spreadsheet and later uploaded to an online database.
+
+The surface electromyography was recorded by the EMG Neuro-MEP (4-channel amplifier NCS, EMG, and Multi-
+modality EP System). A pair of Ag-AgCl surface electrodes were placed on the right first dorsal interosseous (FDI) belly
+muscle and its corresponding tendon on the distal phalanx of the index finger. A neutral and circular electrode (ground
+electrode with cable GE-2, adult, 400 mm) was placed in the forearm, ipsilateral to the other electrodes, and linked to an
+EMG. The stimuli were applied using single or paired pulses during the resting state or contraction of the target muscle.
+Excitability measures were conducted immediately before and after interventions. They comprised single-pulse (RMT,
+MEP and CSP) and paired-pulse (ICF and SICI). The inter-stimulus interval (ISIs) of 2ms was inhibitory, and 12ms was
+facilitatory.°° However, the testing intensity of single pulse MEP was the same before and after each treatment session.
+
+c) Resting Motor Threshold (RMT) — M1 was scanned using the TMS synchronized with the electromyograph, applying
+fixed stimuli to localize the point with the most response from the right-hand dorsal interosseous muscle by the EMG.
+The RMT was the lowest intensity required to elicit MEPs of more than 50 pV peak-to-peak amplitude in 5 out of 10
+consecutive trials applied to the hotspot.”
+
+d) Motor Evoked Potential (MEP) — It was assessed by 10 stimuli with an intensity of 130% of the MT. The size of the
+MEP was determined by the mean value of the five waves with similar amplitudes registered by the EMG. Its
+amplitude reflects the excitability of the membrane potential of pyramidal neurons in M1.°
+
+e) Cortical silent period duration (CSP) — Using a handheld dynamometer, participants performed a constant isometric
+contraction equivalent to 10 pounds of force over the dominant dorsal interosseous (FDI) muscle during each trial.
+A pulse with an intensity of 120% RMT was applied 3 s after contraction initiation. Participants were instructed to
+relax 2 s after stimulation with a minimum 10-s rest interval between trials.*' Ten trials of CSP testing were
+determined by the mean of these values registered by EMG. CSP is believed to be due to inhibitory mechanisms in
+the motor cortex mediated by GABAB receptors.”
+
+f) Paired stimuli assessed short Intra-Cortical Inhibition (SICI) and Intra-Cortical Facilitation (ICF). Paired-pulse protocols
+included SICI and intracortical facilitation (ICF) using standard parameters.** There are three different tests in the SICI
+and ICF tests: (i). SICI (80% conditioning pulse (CP), 120% testing pulse (TP) with a 2ms interval); (ii). ICF (80% CP,
+120% TP with a 12ms interval); and 3. Single pulse (SP) (120% testing pulse). We collected 15 trials of each of three
+types of tests (SICI, ICF, and SP), a total of 45 trials, administered in a pseudorandom order. Then, we calculated the
+average size of the MEP of the 15 trials of each type of test (AverageSICI, AverageICF, and AverageSP). Then, the final
+value of SICI = (Average/AverageSP) and the value of ICF (AveragelCF/AverageSP). These two final values are
+reported as SICI and ICF measures. The degree to which the motor response to the test pulse is inhibited or facilitated by
+the preceding pulse, respectively, yields an index of short-interval intracortical inhibition (SICD, a marker of GABA(A)-
+ergic function and intracortical facilitation (ICF), a feature of glutamatergic function.”
+
+Other Instruments and Assessments
+
+Clinical and Psychological Measurements: CSS Symptoms, Anxiety, Depressive Symptoms, Pain Score, and
+Analgesic Use
+
+Two independent trained evaluators blinded to interventions whose subjects had been assigned conducted assessments of
+pain, psychological measures, and psychophysical tests. The State-Trait Anxiety Inventory (STAI) was used to assess
+anxiety.*> Beck Depression Inventory — Second Edition (BDI-II) was used to measure the severity of depressive
+symptoms, and sleep quality was assessed by Pittsburgh Sleep Quality Index (PSQI).***° The severity of symptoms
+related to central sensitization syndrome (CSS) was evaluated by the Central Sensitization Inventory (CSI).*° The
+
+192 https: Journal of Pain Research 2023:16
+
+Dove!
+— — PAGE 7 — —
+Dove Schein et al
+
+Brazilian Portuguese Pain Catastrophizing Scale (BP-PCS) was used to assess catastrophizing related to pain.*’ All scales
+used in this study have been validated for the Brazilian population.
+
+We evaluated demographic data and medical comorbidities using a standardized questionnaire. We requested subjects
+to provide information about their age, sex, years of education, and lifestyle habits. Patients also provided information
+about their health status, including clinical and psychiatric diagnoses. A specific questionnaire evaluated all medications
+used and their daily doses (eg, antidepressants, anticonvulsants, hypnotics, non-opioid analgesics, opioids, etc.).
+
+Sample Size
+
+We used the G*Power software to estimate the sample size. We considered the average percent change from before to
+after intervention, either in CPT or in MEP.’* The data relating to MEP was obtained from a pilot study, with
+fibromyalgia using a-tDCS with a similar montage used in the present study (data not published). For the outcome
+CPT, the effect size (d) was 0.4 for a standard deviation equal to 4.44. For the MEP, the effect size (d) was 0.5 for
+a standard deviation equal to 0.6. To obtain the effect sizes “f’, the “d” values were transformed using the Platform
+https://www.psychometrica.de/effect_size.html. Thus, we estimate the sample size equal to 16 by a two-tailed hypothesis
+
+test considering three response variables, three groups in a crossover three-phases study for a type I error of 5% and
+a type IJ error of 20%. Since the initial estimation of sample size was based on data of studies with distinct characteristics
+from the current study, for example, healthy females, long-term tDCS treatment, and the possibility of dropouts; we
+decided to increase the sample by 12.5%. Thus, the final sample size was 18 individuals.
+
+Randomization
+
+The randomization to allocate each participant has been generated by a computer program (Randomlogue) in a ratio of 1:1 to
+receive the following interventions in an incomplete crossover manner: a-tDCS or HAS. Before the recruitment phase, two
+investigators not involved in the patient’s assessments made the randomization. They prepared the envelopes that contained
+the randomization number. These envelopes were sealed and numbered sequentially, and they were opened after the
+participant consented to participate in the trial, according to the numerical order registered outside. The engineer who opened
+the envelopes and programmed the devices was not involved with the clinical measures, subjects, or evaluators.
+
+Blinding
+
+We established the following strategies to control the possible bias of assessments and allocation: (i) Two trained
+independent evaluators performed the assessments, including transcranial magnetic stimulation parameters and psycho-
+physical and pain measures. These evaluators were unaware of the intervention received in each study phase during the
+entire protocol. (ii) Two biomedical engineers (PRS and DPS) who were not involved in patients assessment prepared the
+a-tDCS device to provide active stimulation according to the randomization code. They saw the randomization code
+when they opened the envelopes according to a numerical order. (ili) The next step was for the medical engineers to
+communicate the subject’s name and the number of each envelope opened to the principal researcher to control the
+intervention sequence according to the randomization process.
+
+Statistical Analyses
+
+The values are presented as the mean (standard deviation) or frequency for descriptive statistics. To test continuous
+variables for normality, Shapiro—Wilks test was used. In the pre-specified analysis plan, endpoints related to cortical
+excitability (MEP, SICI, ICF and CSP) and psychophysical measures (CPT and HPTh) were analyzed using mixed-
+effects model repeated measures (MMRM), including sequence, period, treatment as fixed effect factors, and subject
+within the sequence and within-subject error as random factors. The difference between interventions (HAS, a-tDCS and
+rest testing) was tested using within-subject variability as the error term. We performed all analyses using two-tailed
+tests. In case of significant findings, post-hoc contrasts by the Bonferroni test were used to adjust for multiple
+comparisons. The standardized mean difference (SMD) was used to compare the changes in the outcome measures
+within groups from pre-intervention to post-intervention and the magnitude of differences in outcome measures between
+groups. The effect size (ES) based on the SMD was interpreted as follows: small, 0.20—0.4; moderate, 0.50—0.70; and
+
+Journal of Pain Research 2023:16 https: 193
+
+Dove:
+— — PAGE 8 — —
+Schein et al Dove
+
+large, 0.80 or higher. Spearman correlation (Rho) was used to evaluate the correlation between the hypnotic susceptibility
+score on WSGC with CPT and the MEP size. We accepted a type I error of 5%. To perform the analyses, we used the
+software SPSS version 22.0 (SPSS, Chicago, IL, United States).
+
+Results
+
+Demographics and Clinical Characteristics
+
+A total of 49 subjects were recruited. Eighteen did not get the cutoff point (8/12) in the WSGC scores, which were used to define
+high susceptibility to hypnosis. Thirteen patients did not find inclusion criteria for the following reasons: contraindications to
+TMS, neurologic disorders, left hand, uncontrolled psychiatric disorders, covid-19 infection, or pandemic restrictions. In the end,
+we included 18 patients in the study. Socio-demographic and clinical characteristics are presented in Table 1.
+
+The allocation was in a crossover manner. The flow of patients through each stage of the study is presented in
+Figure 2. This means that the allocation in a crossover manner in the first trial was HAS (n=9) and a-tDCS (n=9),
+respectively. In the second trial, 16 received rest-testing. In the third trial (n=8) HAS and (n=7) a-tDCS, respectively. The
+experimental design and interventions in each phase are presented in Figure 2.
+
+Table | Epidemiological and Clinical Characteristics of the Sample at Baseline, Values
+are Given as the Mean (SD) or Frequency (%) (n=18)
+
+Characteristics %* Mean (SD) | Median
+Age (years) - 48.82 (10.84) 54
+Level of education (years) - 12.94 (6.03) 12
+Smoking (yes/no) 5% - -
+Alcohol use (yes/no) 20% - -
+History of chronic disease (yes/no) 25% - -
+Diabetes Mellitus (yes/no) 5% - -
+Hypertension (yes/no) 5% - -
+Cardiac conditions (yes/no) 5% - -
+Hypothyroidism 10% - -
+Asthma (yes/no) 10% - -
+Kidney disease (yes/no) 5% - -
+Psychiatric disorder (yes/no) 65% - -
+Anxiety Disorders (yes/no) 40% - -
+Depression (yes/no) 60% - -
+Bipolar Disorder 0% - -
+Dysthymia 0% - -
+Panic Syndrome 10% - -
+Personality Disorders 0% - -
+Schizophrenia 0% - -
+Waterloo-Stanford Group C Hypnotic Susceptibility Scale - 8.89 (0.97) 9
+Adapted Resilience Scale from Wagnild & Young - 120.29 (20.64) 124
+Central Sensitization inventory - 69.82 (11.90) 73
+Pain Catastrophizing Scale - 40.88 (21.99) 4l
+Beck Depression Inventory - 28.67 (11.30) 30.5
+Pittsburgh Sleep Quality Index - 12.06 (3.70) 12.5
+State-Trait Anxiety Inventory — State - 36.94 (6.57) 38
+State-Trait Anxiety Inventory — Trait - 25.78 (4.45) 26
+ACR 2016 Fibromyalgia Diagnostic Criteria - 25.42 (4.34) 26
+
+Note: *Percentage.
+Abbreviation: SD, standard deviation.
+
+194 https: Journal of Pain Research 2023:16
+
+Dove!
+— — PAGE 9 — —
+Dove Schein et al
+
+Generalized Mixed Model to Analyze Sequence, the Effect of Group, Time, and Interaction Time vs Group in
+the Primary Outcomes
+
+GLMMs did not reveal a significant carry-over effect on the primary outcomes across the study periods. Thus, averages
+from three periods of each intervention group were combined and presented in Table 2.
+
+HAS produced a considerable effect in the tolerance during the CPT from pre- to post-intervention, with a large ES
+Cohen’s f=0.96; (mean difference) 16.17/16.84 (pooled standard deviation); CI 95% 0.90 to 1.89. HAS produced
+a significant increase in the CPT with a statistically significant effect of group (F=3.84, P=0.026) and an interaction
+between group and time (F=4.982=3, P=0.010). HAS increased the pain tolerance compared to a-tDCS with a moderate
+ES [Cohen’s f=—0.70; (CI 95%; —1.65 to —0.25)]. At the same time, HAS produced a significant increase in the CPT
+compared to rest-testing, with a moderate ES [Cohen’s f=—0.87; (CI 95%; —1.84 to —0.09)].
+
+The a-tDCS produced a considerable effect in the MEP, from pre- to post-intervention, with a large ES Cohen’s f=—1.02;
+(mean difference) 0.40/0.39 (pooled standard deviation); CI 95% —1.51 to —0.66. The a-tDCS increased the cortical
+excitability indexed by MEP size with a statistically significant effect on the group (F=3.26, P=0.004) and an interaction
+between time and group [Time vs group (F=5.74, P=0.005)]. The ES when subjects received a-tDCS compared to HAS in the
+increase in MEP amplitude was large [Cohen’s f=—1.73 (CI 95%; —2.17 to —0.17)]. Likewise, the ES produced by a-tDCS
+compared to rest-testing in the MEP size was large [Cohen’s f=—1.03; (CI 95%; —2.06 to —0.08)].
+
+Figure 3 presents the CPT presented mean pre-intervention and post-intervention (primary outcomes) according to
+intervention groups. The means were compared using GLMM, and post hoc adjusted for multiple comparisons using
+
+Excluded (n=31)
+
+- Waterloo-Stanford Group Scale of
+Hypnotic Susceptibility (score <8/12)
+(n=18)
+
+Assessed for eligibility
+(n=49)
+
+Contra indications to TMS, neurologic
+
+, disorders, left hand, severe psychiatric
+disorders decomposed, COVID-19
+(n=18) infection or pandemic restrictions (n = 13)
+a-tDCS (n=9)
+- Withdrew (n=1)
+
+Trial Il
+
+HAS (n=9)
+- Withdrew (n=1)
+
+7 days washout
+
+Rest-testing (n=8) Rest-testing (n=8)
+
+a-tDCS (n=7)
+- Withdrew (n=1)
+
+7 days washout
+
+Trial III
+
+Patients included in the analysis
+- Total HAS (n=16)
+
+- Total rest (n=16 )
+- Total a-tDCS (n=15)
+
+Figure 2 Flowchart showing recruitment and progress through the study.
+Abbreviations: TMS, Transcranial magnetic stimulation; COVID-19, Coronavirus disease 2019; HAS, hypnotic analgesia suggestion; a-tDCS, anodal transcranial direct-
+current stimulation.
+
+Journal of Pain Research 2023:16 https: 195
+
+Dove:
+— — PAGE 10 — —
+Schein et al
+
+Dove
+
+Table 2 Mean Difference from Before Interventions (B) to After Interventions (A), with Their Respective
+Standard Deviations (SD) and Confidence Intervals (95% Cl) and Percent Change of Average Post- to Pre-
+Intervention of Primary Outcomes (n = 18)
+
+Treatment Mean (SD) Before vs Mean (SD) Mean Difference P-value?
+After Treatment (Cl, 95%)*
+
+Primary outcomes
+
+Cold Pressure Test (CPT) (seconds)
+
+|. Hypnotic suggestion (n=16) 29.14 (13.82) vs 45.32 (19.86) —16.17 (-26.50 to —5.75)?3 0.003
+
+2. a-tDCS (n= 15) 30.48 (15.63) vs 32.98 (19.48) —2.51 (—10.43 to 4.92) 0.633
+
+3. Rest-testing (n=18) 29.79 (13.60) vs 30.77(15.13) —0.98 (—11.27 to 9.55) 0.440
+
+Order (F=0.008; P=0.929) Effect of groups (F= 3.845, P=0.026); Time (F=2.428, P=0.128); Time vs group (F= 4.982=3,
+P=0.010)
+
+Motor evoked-potential (MEP) (mV)
+
+|. Hypnotic suggestion (n=16) 0.72 (0.36) vs 0.65 (0.41) 0.07 (—0.08 to 0.22) 0.661
+2. a-tDCS (n= 15) 0.61 (0.43) vs 1.07 (0.49) -0.46 (-0.77 to -0.16)!'? 0.003
+3. Rest-testing (n=18) 0.64 (0.49) vs 0.61 (0.40) 0.02 (0.10 to —0.19) 0.876
+
+Order (F=0.10; P=0.7541) Effect of Groups (F=2.26, P=0.044); Time (F=1.18, P=0.284); Time vs group (F=5.74, P=0.005)
+
+Notes: Comparisons using a generalized linear mixed model (GLMM) with confidence interval according to the Bonferroni test, differences (P <
+0.05) among treatment groups are indicated via superscript numbers corresponding to the respective groups labeled | to 3. Cohen’s f (F) and
+p-value (P) of effect in outcomes by sequence, group, time and interaction time vs group are presented in grey. “Mean difference from before to
+after interventions. °P-value effect within the group from pre- to post-intervention by GLMM.
+
+Abbreviations: SD, standard deviation; Cl, confidence interval; a-tDCS, anodal direct current stimulation; mV, millivolts.
+
+Bonferroni correction (the model is presented in Table 2). HAS increased the CPT with difference statistically significant
+compared to a-tDCS and rest-testing.
+
+Figures 4 presents MEP amplitude presented as mean pre-intervention and post-intervention according to intervention
+groups. The means were compared using GLMM and post hoc adjusted for multiple comparisons using Bonferroni
+correction (the model is presented in Table 2). a-tDCS increased the MEP with difference statistically significant
+compared to HAS and rest-testing.
+
+GLMM to Analyze Sequence, the Effect of Group, Time, and Interaction Time vs
+
+Group in the Secondary Outcomes
+
+GLMMs did not reveal a significant carryover effect on the secondary outcomes across the study periods. Thus, each
+intervention group’s average from three periods was combined and presented in Table 3. The a-tDCS reduced the SICI
+considerably from pre- to post-intervention, with a moderate ES [Cohen’s f=—0.65; (CI 95%; —0.93 to —0.43)].
+
+The a-tDCS reduced the SICI with a statistically significant effect of intervention group (=5.39, P=0.007), and an
+interaction between group and time (F=3.38, P=0.024). The ES when subjects received a-tDCS compared to HAS was
+moderate [Cohen’s f=—0.79; (CI 95%; —1.49 to 0.12)]. Likewise, a-tDCS compared to rest-testing reduced the SICI with
+a large ES [Cohen’s f=—1.04; (CI 95%; —1.76 to —0.36)].
+
+Secondary Analysis: The Relationship Between Hypnotic Susceptibility and the Corticospinal Excitability
+Pathways and Pain Tolerance
+
+The Spearman correlation (Rho) between the hypnotic suggestion susceptibility and MEP or CPT and according to
+interventions is presented in Table 4. The hypnotic susceptibility score on WSGC showed a low positive correlation with
+the change on CPT independently of intervention. While the scores on WSGC showed a moderate positive non-
+parametric correlation with change in CPT and MEP size (change from pre-intervention to post-intervention). Such non-
+parametric correlation means that patients that presented higher hypnotic susceptibility showed a higher response in the
+
+I 9 6 https:
+
+Dove!
+
+Journal of Pain Research 2023:16
+— — PAGE 11 — —
+Dove Schein et al
+
+(1) HAS
+50.0 (2) a-tDCS a, b, c, e, f
+45.0 = (3) Rest-testing
+
+40.0
+35.0
+30.0
+25.0
+20.0
+15.0
+10.0
+
+5.0
+
+0.0
+
+Cold Pressure Test (seconds)
+
+Pre-intervention Post-intervention
+
+Figure 3 Average pre- to post-interventions in the Cold Pressor Test according to three experimental groups (hypnotic suggestion, a-tDCS, and rest-testing). The error
+bars indicate the standard error of the mean. Letters indicate groups and time (pre- or post-intervention), as well as the differences within groups (from pre - to post-
+intervention) and between experimental groups. All comparisons were performed by a MMRM, followed by the Bonferroni test for post hoc multiple comparisons.
+Abbreviations: TMS, Transcranial magnetic stimulation; COVID-19, Coronavirus disease 2019; HAS, hypnotic analgesia suggestion; a-tDCS, anodal transcranial direct-
+current stimulation.
+
+(1) HAS
+(2) a-tDCS
+
+=
+>
+
+= (3) Rest-testing
+a, b, c, d, f
+
+Motor Evoked Potential (mV)
+co oc 92 =
+> oa fo) = nN
+
+°
+iv
+
+Pre-intervention Post-intervention
+
+Figure 4 Average pre- to post-interventions in the Motor Evoked Potential according to three experimental groups (hypnotic suggestion, a-tDCS, and rest testing). The
+error bars indicate the standard error of the mean. Letters indicate groups and time (pre- or post-intervention), as well as the differences within groups (from pre- to post-
+intervention) and between experimental groups. All comparisons were performed by a MMRM, followed by the Bonferroni test for post hoc multiple comparisons.
+Abbreviations: TMS, transcranial magnetic stimulation; COVID-19, Coronavirus disease 2019; HAS, hypnotic analgesia suggestion; a-tDCS, anodal transcranial direct-
+current stimulation.
+
+measure of corticospinal excitability indexed on MEP size by a-tDCS. However, we did not find a statistically significant
+relationship between the hypnotic susceptibility and either effect of rest testing or HAS.
+
+Discussion
+
+HAS increased CPT, indicating higher tolerance to nociceptive stimulus than a-tDCS and rest-testing. In contrast, the
+a-TDCS increased the MEP size and decreased the SICI. So, novelty of these results is to extend the literature to
+distinguish the effect of HAS from a-tDCS in neuroplasticity markers indexed by cortical excitability measures. These
+results are relevant to comprehending how these therapeutic approaches might change the maladaptive neuroplasticity of
+neural networks involved in chronic pain. Also, they may be clinically relevant to creating a roadmap for customizing
+
+treatment in FM based on an individual’s characteristics, such as, for example, in the corticospinal excitability measure.
+
+Journal of Pain Research 2023:16 https: 197
+
+Dove:
+— — PAGE 12 — —
+Schein et al Dove
+
+Table 3 Mean Difference from Before Interventions (B) to After Interventions (A), with Their Respective
+Standard Deviations (SD) and Confidence Intervals (95% Cl) and Percent Change of Average Post- to Pre-
+Intervention of Secondary Outcomes (n = 18)
+
+Treatment Mean (SD) Before vs Mean (SD) Mean Difference P-value?
+After Treatment (Cl, 95%)*
+
+Primary outcomes
+Heat Pain Threshold (HPTh) (°C)
+
+|. Hypnotic suggestion (n=16) 36.94 (1.90) vs 37.97 (3.21) —1.03 (—2.65 to 0.58) 0.206
+2. a-tDCS (n= 15) 36.85 (2.98) vs 37.75 (2.35) —0.89 (—2.49 to 0.73) 0.282
+3. Rest-testing (n=18) 37.30 (2.02) vs 37.50 (1.67) —0.18 (—1.05 to 0.65) 0.821
+
+Sequence (F=1.36; P=0.205) Effect of Group (F=0.09, P=0.901); Time (F=1.47, P=0.232) Time vs group (F=0.41 P=0.661)
+
+Intracortical facilitation (ICF) (mV)
+
+|. Hypnotic suggestion (n=16) 1.90 (0.90) vs 2.09 (0.0.97) —0.17 (0.73 to —0.39) 0.551
+2. a-tDCS (n= 15) 1.97 (0.73) vs 1.57 (0.78) 0.29 (-0.17 to 0.97) 0.170
+3. Rest-testing (n=18) 1.86 (0.95) vs 1.93 (0.97) 0.03 (—0.53 to 0.58) 0.920
+
+Sequence (F=0.39; P=0.535) Effect of Group (F=0.75, P=0.474); Time (F=0.175, P=0.676); Time vs group (F=1.37 P=0.261)
+
+Short Intracortical inhibition (SICI) (mV)
+
+|. Hypnotic suggestion (n=16) 0.68 (0.43) vs 0.64 (0.37) —0.08 (—0.35 to 0.20) 0.751
+2. a-tDCS (n= 15) 0.73 (0.42) vs | (0.37) -0.40 (-0.67 to -0.12)'? 0.005
+3. Rest-testing (n=18) 0.67 (0.32) vs 0.58 (0.30) 0.09 (-0.18 to 0.36) 0.551
+
+Sequence (F=0.518; P=0.477) Effect of Group (F=5.396, P=0.007) Time (F=2.24, P=0.144) Time vs group (F=3.38, P=0.024)
+
+Cortical silent period (CSP) (ms)
+
+|. Hypnotic suggestion (n=16) 117.21 (26.21) vs 125.63 (28.25) 8.57 (-26.09 to 8.95) 0.334
+2. a-tDCS (n= 15) 115.69 (22.69) vs 136.67 (18.91) ~21.20 (-38.73 to —3.68) 0.018
+3. Rest-testing (n=16) 118.64 (32.34) vs 122.30 (30.48) 3.88 (-20.95 to 13.17) 0.652
+
+Sequence (F=0.39; P=0.535) Effect group (F=0.75, P=0.474); Time (F=0.175, P=0.676); Time vs group (F=1.37 P=0.261)
+
+Notes: Comparisons using a generalized linear mixed model (GLMM). Confidence interval (Cl); According to the Bonferroni test, differences
+(P < 0.05) among treatment groups are indicated via superscript numbers corresponding to the respective groups labeled | to 3. Cohen’s f (F)
+and p-value (P) of effect in outcomes by sequence, group, time and interaction time vs group are presented in grey. "Mean difference from before
+to after interventions. °P-value effect within the group from pre- to post-intervention by GLMM.
+
+Abbreviations: SD, standard deviation; Cl, confidence interval; °C, degrees Celsius; a-tDCS, anodal direct current stimulation; mV, millivolts.
+
+Table 4 Spearman Correlation (Rho) Between the Hypnotic Suggestion Susceptibility Assessed by
+the WSGC Scale with MEP and CPT in the Total Sample and According to Groups (HAS, a-tDCS,
+Rest Testing) (n=18)
+
+Motor Cold
+Evoked Pressure
+Potential Test
+(Rho) (Rho)
+Total sample (n=46)
+Score of Waterloo-Stanford group C hypnotic susceptibility scale (WSGC) 0.23 0.36°
+Analgesic hypnotic suggestion (n=16)
+Score of Waterloo-Stanford group C hypnotic susceptibility scale (WWSGC) 0.1 0.44
+Anodal transcranial direct current stimulation (a-tDCS) (n=15)
+(Continued)
+198 hetps: Journal of Pain Research 2023:16
+
+Dove!
+— — PAGE 13 — —
+Dove Schein et al
+
+Table 4 (Continued).
+
+Motor Cold
+Evoked Pressure
+Potential Test
+(Rho) (Rho)
+Score of Waterloo-Stanford group C hypnotic susceptibility scale (WWSGC) 0.66" 0.77
+Rest testing (n=16)
+Score of Waterloo-Stanford group C hypnotic susceptibility scale (WWSGC) 0.08 -0.13
+
+Notes: Correlations are 2 tailed. °< P, 0.05.
+Abbreviation: Rho, Spearman correlation.
+
+In addition, an exploratory analysis showed that patients with higher hypnotic susceptibility are prone to present a higher
+impact of a-tDCS on MEP and SICI.
+
+HAS increased pain tolerance. However, this effect on pain perception did not associate with cortical excitability
+measure changes. To date, we do not have a clear explanation for the underpinning mechanisms of HAS on pain
+tolerance, but this finding is congruent with previous studies on experimental pain in healthy subj ects. '* It also agrees
+with the results of our group’s earlier factorial clinical trial, which compared the effect between HAS and tDCS in
+healthy women, where HAS alone increased CPT compared to a-tDCS applied over left-DLPFC. It is plausible to
+hypothesize that the hypnotic suggestion shifted attention and altered the brain processing of pain. This hypothesis agrees
+with an earlier study, which observed that the hypnotic suggestion turned into attentional focus.*? According to
+a neuroimaging study, this effect of hypnotic suggestion involves the anterior cingulate and insular cortex, which are
+areas that modulate pain perception at the supraspinal level.*°
+
+Although the underlying mechanism is unclear, the effect on CPT is congruent with findings from a meta-analysis of
+studies on experimental pain, which revealed that HAS could increase pain tolerance and overall pain intensity.** In
+fibromyalgia, another meta-analysis showed the effect of hypnosis/guided imagery in reducing pain levels and other
+symptoms such as fatigue and sleep disturbances.*! Thus, the impact of hypnosis on pain tolerance might be explained by
+its effect on the affective-motivational components of pain. Likewise, its benefits on other symptoms such as catastro-
+phizing, sleep quality and depressive symptoms.** According to a meta-analysis of 85 experimental pain studies,
+hypnosis produced a moderate to a large ES on all pain outcomes.*® Besides, neuroimaging studies found that hypnosis
+changed activity in supraspinal areas responsible for the processing of pain. Such sites included the thalamus, somato-
+sensory cortex, insula, anterior cingulate cortex, and prefrontal area.*°
+
+The present study shows that a-tDCS has a critical role in the corticospinal pathway, as demonstrated by the increase
+in MEP amplitude while decreasing the SICI. The MEP amplitude slope indicates the excitability of the primary M1 to
+be unregulated and the strength of the corticospinal connections.” In this way, larger amplitudes in the MEP indicate
+higher excitability of the motor cortex, as well as higher transmission efficiency of corticospinal neurons, with up-
+regulation of the descending pain modulatory system.** Although the mechanisms underlying these findings are unclear,
+this is consistent with previous studies in humans with the therapeutic use of TMS.“* Hence, these findings suggest that
+the a-tDCS effect was not limited to the targeted cortical area but also to distant interconnected sites, including a contra-
+regulatory effect in the dysfunctional processing of the corticospinal pathways. Although the relationship of MEP
+measure in the physiopathology of fibromyalgia is still not understood, the increase in MEP size immediately after
+a-tDCS over M1 was already observed in various studies and reported in a recent systematic review.*° In summary, the
+increase in the MEP amplitude is a surrogate marker that reflects the latency of depolarization of the spinal motor neuron
+pool and the integrity and function of conduction along the efferent pathway. The change in its amplitude after a-tDCS
+suggests the potential impact of this intervention on the DPMS.
+
+The a-tDCS effect on HPTh did not get a statistically significant difference. The literature related to a-t-DCS on HPTh is
+mixed. In an earlier study conducted in our laboratory in patients with fibromyalgia, we found that HPTh increased with
+
+Journal of Pain Research 2023:16 https: 199
+
+Dove:
+— — PAGE 14 — —
+Schein et al Dove
+
+a-tDCS on left DLPFC with cathodal on supraorbital contralateral area combined with an inhibitory task.'* In contrast, another
+study in fibromyalgia with the same montage used in the current study with a-tDCS applied for 3 months (sixty sessions) did
+not increase the HPTh.'* The controversy related to the a-tDCS application on DLPFC on the analgesic effects has also been
+indicated in recent meta-analyses.©'° Indeed, this issue is in debate, and an argument to explain the discrepancy is that a-tDCS
+on DLPFC could be more prominent to reduce fatigue and improve emotional and cognitive symptoms, while pain relief of
+fibromyalgia and its effect on pain perception is more present with the application of tDCS in M1.°'° From a theoretical
+perspective, DLPFC stimulation is mainly related to the modulation of the limbic system and the anterior cingulate cortex,
+which are responsible for the affective, motivational component of pain, including beneficial effects of up-regulating
+mechanisms underlying maladaptive emotions involved in the regulation of mood and cognitive functions (eg, decision-
+making).'° Although the mechanism to explain the effect of the DLPFC stimulation on pain is not clear, according to
+neuroimage with fMRI, a-tDCS on DLPFC effects activates downstream circuits, to the anterior insula, hypothalamus,
+periaqueductal gray substance, nucleus accumbens, and rostroventral medulla.*°
+
+As for the interpretation of HPTh results, we should realize that it is a measurement based on the subject’s responses.
+This way, we need to consider the intrinsic properties of these measures, which in the case of QST identify the functional
+deficit of small nerve fibers. Hence, the variability among studies can be explained by a reduced sensibility of these fibers
+to detect HPTh, which might vary among patients with fibromyalgia. This argument is supported by an earlier study, in
+which we found that peripheral sensory dysfunction is associated with the disengagement of DPMS in fibromyalgia.”°
+Therefore, it is possible that at least part of this discrepancy involving the HPTh assessed by the QST might be related to
+intrinsic properties of the test as mentioned. Additionally, we cannot discard an error type II that can explain this
+discrepancy between the pain threshold measures of the current study with the literature.
+
+Some concerns about the design of our study must be addressed. First, although the effect of only one neuromodu-
+latory therapy session was evaluated, it is essential to realize that this study aimed to understand the acute impact of one
+session of a-tDCS and HAS in cortical processing. So, to understand how the effect of these neuromodulatory techniques
+could improve the excitatory/inhibitory balance in the corticospinal way. Hence, these findings might support the
+planning of further studies to treat fibromyalgia, such as to comprehend what technique and if it is possible to have an
+additive effect when we combine strategies to induce top-down modulatory effects. Second, we did not find significant
+differences between groups in ICF and CSP measures. However, in the a-tDCS, the duration of the CSP pre- to post-
+intervention was shorter, a result linked to a reduction of intracortical inhibition mediated by GABAB receptors.*” In
+contrast, the ICF reflects the activity within glutamatergic circuits or a loss of GABAA modulation.** Although the ICF
+did not get a variation with a statistically significant difference, the changes in their numerical values from pre- to post-
+a-tDCS are pointing to increased excitability. So, parsimony is needed in their interpretation because they represent an
+acute effect after one a-tDCS session in a small sample. Thereby, an error type-II cannot be excluded. Third, the
+crossover design in a small study population helped us to prevent overestimation of the benefits of the therapy being
+tested, making it likely that our results reflect a conservative assessment of the benefits to compare the effects of a-tDCS
+and the HAS to improve the excitability of the motor cortex and pain processing.*’ Fourth, the strength of this design is
+that the interventions under investigation were evaluated within the same patients and thus eliminated between-subject
+variability.°° Given that patients act as their own controls, the analyses could be based on paired data (using paired tests).
+The number of patients who completed the three trials provided sufficient power (80%) to reach statistical significance
+(P<0.05), despite 16.66% (3/18) of patients dropping out after the first or second phases and thus not participating in the
+subsequent phase. Fifth, we included the resting test in the intermediate phase to increase the washout period. In this
+case, the resting test occurred at a specific point for all subjects during the protocol. In contrast, the HAS or tDCS were
+allocated randomly to mitigate possible bias in the therapeutic effects of these interventions. A potential argument to
+support the validity of these results is that we did not find a carryover effect or on the intervention’s sequence of
+application. We recognize that a limitation of the present study was to pre-assuming that the rest testing would not
+influence our outcomes. Another critical point of the experimental design is that we only assessed the a-tDCS effect on
+cortical excitability. One should consider this limitation in interpreting results because the literature about the tDCS effect
+immediately after in healthy subjects is mixed about significant differences in the cortical excitability measures between
+active and sham-tDCS. Although we cannot exclude the importance of this limitation in the study design, we balanced
+
+200 https: Journal of Pain Research 2023:16
+
+Dove!
+— — PAGE 15 — —
+Dove Schein et al
+
+the potential impact of an increase in dropouts related to many assessments to the detriment of including an additional
+s-tDCS group. This argument finds support in earlier studies, which demonstrated that high level of psychological stress,
+the complexity of treatment regimens (eg, frequency of dosing), comorbid conditions, stressful events such as was the
+pandemic scenario, and fatigue would be related to less adherence.°! Specifically, we consider that a physical and
+emotional burden determined by many evaluations in a pandemic scenario could increase the dropout rate. These aspects
+are particularly relevant to a sample such as fibromyalgia subjects, who live with intense physical and emotional
+suffering determined by their disease. Although we realize that these are weaknesses in our study that need to be
+considered in interpreting these results and exploring them in future studies, we believe that our findings are reliable for
+comprehending differences in the neurophysiological process underlying the effects of a-tDCs compared to HAS. Sixth,
+we included only females, and we know that it is a limitation to extend them to other populations. We used this approach
+to reduce potential bias related to sex differences in the function of DPMS and motor cortex excitability according to sex.
+In this way, a higher amplitude in the MEP was positively correlated with the higher efficiency of DPMS.*? In addition,
+we observed that the level of hypnotizability might be a valuable index to predict individual response to a-tDCS.
+However, we know that these results are helpful for women with high hypnotic susceptibility. Finally, these findings
+extend the literature to comprehend the distinct neurobiological processes related to HAS and a-tDCS. However, they do
+not support therapeutic decision-making in a clinical setting. In conclusion, these findings revealed that HAS affects
+contra-regulating mechanisms involved in perception and pain tolerance, while the a-tDCS increased the excitability of
+the corticospinal pathways. This opens an avenue for customizing therapeutic approaches to counter regulating the
+maladaptive neuroplasticity involved in fibromyalgia.
+
+Data Sharing Statement
+After acceptance, the corresponding author accepts to submit the datasets underlying the results of this paper to the
+editorial office.
+
+Acknowledgments
+
+This manuscript was based on the author’s master dissertation intitulated “Effects of transcranial direct current stimula-
+tion and hypnotic suggestion in tolerance to pain and cortical excitability in fibromyalgia: a cross-over randomized
+clinical trial”. Reference: Corréa BSC. Efeitos da estimulacao transcraniana de corrente continua e sugestao hipnotica na
+tolerancia a dor e excitabilidade cortical na fibromialgia: um ensaio clinico randomizado cruzado. LUME UFRGS. 2022.
+http://hdl -handle.net/10183/238843. The authors would like to acknowledge Fundagado de incentivo a Pesquisa (FIPE) at
+Hospital de Clinicas de Porto Alegre.
+
+Funding
+
+The present research was supported by the following Brazilian funding agencies: (1) Committee for the Development of
+Higher Education Personnel - CAPES PROEX (grant to BS with master scholarship, Grant #2020). (11) National Council
+for Scientific and Technological Development — CNPq (grant to WC number: 420826/2018-1). (iii) Foundation for the
+Support of Research at Rio Grande do Sul (FAPERGS) Ministry of Science and Technology. National Council for
+Scientific and Technological Development — (CNPq)/ Health Secretary of state of Rio Grande do Sul, Brazil (SEARS)
+n. 03/2017 (PPSUS) (number: 17/2551-0001). (iv) Brazilian Innovation Agency (FINEP [Financiadora de Estudos
+e Projetos]) (process number 1245/13). (v) FINEP grant 0261/18 chamada publica MCTIC/FINEP/CT-INFRA 04/
+2018. (vi) Fundagao de incentivo a Pesquisa (FIPE) at Hospital de Clinicas de Porto Alegre.
+
+Disclosure
+
+Dr Paulo RS Sanches reports a patent BR2020150164500 with royalties paid to Quark Medical. Dr Felipe Fegni reports
+grants from NIH and personal fees from Neurive, outside the submitted work. The authors declare no other conflicts of
+interest in this work.
+
+Journal of Pain Research 2023:16 https: 201
+
+Dove:
+— — PAGE 16 — —
+Schein et al Dove
+
+References
+
+1.
+
+2.
+
+oS)
+
+19.
+20.
+
+2
+
+—
+
+22.
+
+23.
+
+24.
+
+25.
+26.
+
+27.
+
+28.
+
+Sarzi-Puttini P, Giorgi V, Marotto D, Atzeni F. Fibromyalgia: an update on clinical characteristics, aetiopathogenesis and treatment. Nat Rev
+Rheumatol. 2020;16(11):645—660. doi:10.1038/s41584-020-00506-w
+
+Seminowicz DA, Moayedi M. The dorsolateral prefrontal cortex in acute and chronic pain. J Pain. 2017;18(9):1027—1035. doi:10.1016/j.
+jpain.2017.03.008
+
+. Cardinal TM, Antunes LC, Brietzke AP, et al. Differential neuroplastic changes in fibromyalgia and depression indexed by up-regulation of motor
+
+cortex inhibition and disinhibition of the descending pain system: an exploratory study. Front Hum Neurosci. 2019;13:138. doi:10.3389/
+fnhum.2019.00138
+
+. Passard A, Attal N, Benadhira R, et al. Effects of unilateral repetitive transcranial magnetic stimulation of the motor cortex on chronic widespread
+
+pain in fibromyalgia. Brain. 2007;130(Pt 10):2661—2670. doi:10.1093/brain/awm 189
+
+. Kobayashi M, Pascual-Leone A. Transcranial magnetic stimulation in neurology. Lancet Neurol. 2003;2(3):145-156. doi:10.1016/S1474-4422(03)
+
+00321-1
+
+Zortea M, Ramalho L, Alves RL, et al. Transcranial direct current stimulation to improve the dysfunction of descending pain modulatory system
+related to opioids in chronic non-cancer pain: an integrative review of neurobiology and meta-analysis. Front Neurosci. 2019;13:1218. doi:10.3389/
+fnins.2019.01218
+
+Donadel DG, Zortea M, Torres ILS, Fregni F, Caumo W. The mapping of cortical activation by near-infrared spectroscopy might be a biomarker
+related to the severity of fibromyalgia symptoms [published correction appears in Sci Rep. 2021 Oct 22;11(1):21257]. Sci Rep. 2021;11(1):15754.
+doi:10.1038/s41598-021-94456-2
+
+. Valdés M, Collado A, Bargallo N, et al. Increased glutamate/glutamine compounds in the brains of patients with fibromyalgia: a magnetic
+
+resonance spectroscopy study. Arthritis Rheum. 2010;62(6):1829-1836. doi:10.1002/art.27430
+
+. Wurtman RJ. Fibromyalgia and the complex regional pain syndrome: similarities in pathophysiology and treatment. Metabolism. 2010;59(Suppl 1):
+
+S$37—-S40. doi:10.1016/j.metabol.2010.07.008
+
+. Araya-Quintanilla F, Gutiérrez-Espinoza H, Mufioz-Yanez MJ, Cavero-Redondo I, Alvarez-Bueno C, Martinez-Vizcaino V. Effectiveness of
+
+a multicomponent treatment versus conventional treatment in patients with fibromyalgia: study protocol. Medicine. 2020;99(4):e18833.
+doi: 10.1097/MD.0000000000018833
+
+. Jensen MP, Patterson DR. Hypnotic approaches for chronic pain management: clinical implications of recent research findings. Am Psychol.
+
+2014;69(2):167-177. doi:10.1037/a0035644
+
+. Kihlstrom JF. Hypnosis: applications. In: Reference Module in Neuroscience and Biobehavioral Psychology. Elsevier; 2018. doi:10.1016/B978-
+
+0-12-809324-5.21772-0
+
+. Castel A, Cascén R, Padrol A, Sala J, Rull M. Multicomponent cognitive-behavioral group therapy with hypnosis for the treatment of fibromyalgia:
+
+long-term outcome. J Pain. 2012;13(3):255—265. doi:10.1016/j.jpain.2011.11.005
+
+. Beltran Serrano G, Rodrigues LP, Schein B, et al. Comparison of hypnotic suggestion and transcranial direct-current stimulation effects on pain
+
+perception and the descending pain modulating system: a crossover randomized clinical trial. Front Neurosci. 2019;13:662. doi:10.3389/
+fnins.2019.00662
+
+. Brietzke AP, Zortea M, Carvalho F, et al. Large treatment effect with extended home-based transcranial direct current stimulation over dorsolateral
+
+prefrontal cortex in fibromyalgia: a proof of concept sham-randomized clinical study. J Pain. 2020;21(1—2):212-224. doi:10.1016/.
+jpain.2019.06.013
+
+. Conde-Anton A, Hernando-Garijo I, Jiménez-Del-Barrio S, Mingo-Gomez MT, Medrano-de-la-Fuente R, Ceballos-Laita L. Effects of transcranial
+
+direct current stimulation and transcranial magnetic stimulation in patients with fibromyalgia. A systematic review [published online ahead of print,
+2020 Oct 15]. Efectos de la estimulacion transcraneal por corriente directa y de la estimulacién magnética transcraneal en pacientes con
+fibromialgia. Revision sistematica [published online ahead of print, 2020 Oct 15]. Neurologia. 2020;S0213-4853(20)30278-4. doi:10.1016/.
+nrl.2020.07.024
+
+da Graca-Tarrago M, Lech M, Angoleri LDM, et al. Intramuscular electrical stimulus potentiates motor cortex modulation effects on pain and
+descending inhibitory systems in knee osteoarthritis: a randomized, factorial, sham-controlled study. J Pain Res. 2019;12:209-221. doi:10.2147/
+JPR.S181019
+
+. Silva AF, Zortea M, Carvalho S, et al. Anodal transcranial direct current stimulation over the left dorsolateral prefrontal cortex modulates attention
+
+and pain in fibromyalgia: randomized clinical trial. Sci Rep. 2017;7(1):135. doi:10.1038/s41598-017-00185-w
+
+Sedgwick P, Greenwood N. Understanding the Hawthorne effect. BMJ. 2015;351:h4672. doi:10.1136/bmj.h4672
+
+Sherman KJ. Guidelines for developing yoga interventions for randomized trials. Evid Based Complement Alternat Med. 2012;2012:143271.
+doi:10.1155/2012/143271
+
+. Beltran Serrano G, Pooch Rodrigues L, Schein B, et al. The Hypnotic analgesia suggestion mitigated the effect of the transcranial direct current
+
+stimulation on the descending pain modulatory system: a proof of concept study. J Pain Res. 2020;13:2297—2311. doi:10.2147/JPR.S253747
+Wolfe F, Clauw DJ, Fitzcharles MA, et al. 2016 revisions to the 2010/2011 fibromyalgia diagnostic criteria. Semin Arthritis Rheum. 2016;46
+(3):319-329. doi:10.1016/j.semarthrit.2016.08.012
+
+Carvalho C, Mazzoni G, Kirsch I, Leal I. Presentation of the Portuguese version of a hypnotic susceptibility assessment scale. Psychol Health
+Disord. 2006;7(1):3-11.
+
+Russo C, Souza Carneiro MI, Bolognini N, Fregni F. Safety review of transcranial direct current stimulation in stroke. Neuromodulation. 2017;20
+(3):215—222. doi:10.1111/ner.12574
+
+Patterson DR, Jensen MP. Hypnosis and clinical pain. Psychol Bull. 2003;129(4):495—521. doi:10.1037/0033-2909.129.4.495
+
+Brietzke AP, Antunes LC, Carvalho F, et al. Potency of descending pain modulatory system is linked with peripheral sensory dysfunction in
+fibromyalgia: an exploratory study. Medicine. 2019;98(3):e13477. doi:10.1097/MD.0000000000013477
+
+Schestatsky P, Stefani LC, Sanches PR, et al. Validation of a Brazilian quantitative sensory testing (QST) device for the diagnosis of small fiber
+neuropathies. Arg Neuropsiquiatr. 2011;69(6):943—948. doi:10.1590/s0004-282x2011000700019
+
+van de Ruit M, Perenboom MJ, Grey MJ. TMS brain mapping in less than two minutes. Brain Stimul. 2015;8(2):231—239. doi:10.1016/.
+brs.2014.10.020
+
+202 https: Journal of Pain Research 2023:16
+
+Dove!
+— — PAGE 17 — —
+Dove Schein et al
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34,
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+48.
+
+49.
+50.
+
+51.
+
+Silva LM, Silva KMS, Lira-Bandeira WG, Costa-Ribeiro AC, Aratjo-Neto SA. Localizing the primary motor cortex of the hand by the 10-5 and
+10-20 systems for neurostimulation: an MRI study. Clin EEG Neurosci. 2021;52(6):427—435. doi:10.1177/1550059420934590
+
+Di Lazzaro V, Restuccia D, Oliviero A, et al. Magnetic transcranial stimulation at intensities below active motor threshold activates intracortical
+inhibitory circuits. Exp Brain Res. 1998;119(2):265—268. doi:10.1007/s002210050341
+
+Chen M, Lixandrao MC, Prudente CN, Summers RLS, Kimberley TJ. Short interval intracortical inhibition responses to low-frequency repetitive
+transcranial magnetic stimulation under multiple interstimulus intervals and conditioning intensities. Neuromodulation. 2018;21(4):368-375.
+doi:10.1111/ner.12773
+
+Valls-Solé J, Pascual-Leone A, Wassermann EM, Hallett M. Human motor evoked responses to paired transcranial magnetic stimuli.
+Electroencephalogr Clin Neurophysiol. 1992;85(6):355—364. doi:10.1016/0168-5597(92)90048-g
+
+Fioravanti-Bastos ACM, Cheniaux E, Landeira-Fernandez J. Development and validation of a short-form version of the Brazilian State-Trait
+Anxiety Inventory. Psychology. 2011;24:485—494.
+
+Gomes-Oliveira MH, Gorenstein C, Lotufo Neto F, Andrade LH, Wang YP. Validation of the Brazilian Portuguese version of the beck depression
+inventory-II in a community sample. Braz J Psychiatry. 2012;34(4):389-394. doi:10.1016/j.rbp.2012.03.005
+
+Bertolazi AN, Fagondes SC, Hoff LS, et al. Validation of the Brazilian Portuguese version of the Pittsburgh Sleep Quality Index. Sleep Med.
+2011;12(1):70-75. doi:10.1016/j.sleep.2010.04.020
+
+Caumo W, Antunes LC, Elkfury JL, et al. The central sensitization inventory validated and adapted for a Brazilian population: psychometric
+properties and its relationship with brain-derived neurotrophic factor. J Pain Res. 2017;10:2109-2122. doi:10.2147/JPR.S131479
+
+Sehn F, Chachamovich E, Vidor LP, et al. Cross-cultural adaptation and validation of the Brazilian Portuguese version of the pain catastrophizing
+scale. Pain Med. 2012;13(11):1425-1435. doi:10.1111/j.1526-4637.2012.01492.x
+
+Thompson T, Terhune DB, Oram C, et al. The effectiveness of hypnosis for pain relief: a systematic review and meta-analysis of 85 controlled
+experimental trials. Neurosci Biobehav Rev. 2019;99:298-310. doi:10.1016/j.neubiorev.2019.02.013
+
+Jamieson GA, Sheehan PW. A critical evaluation of the relationship between sustained attentional abilities and hypnotic susceptibility. Contemp
+Hypn. 2002;19(2):62—74. doi:10.1002/ch.243
+
+Vanhaudenhuyse A, Laureys S, Faymonville ME. Neurophysiology of hypnosis. Neurophysiol Clin. 2014;44(4):343-353. doi:10.1016/.
+neucli.2013.09.006
+
+Zech N, Hansen E, Bernardy K, Hauser W. Efficacy, acceptability and safety of guided imagery/hypnosis in fibromyalgia - a systematic review and
+meta-analysis of randomized controlled trials. Eur J Pain. 2017;21(2):217-227. doi:10.1002/ejp.933
+
+Caumo W, Alves RL, Vicufia P, et al. Impact of bifrontal home-based transcranial direct current stimulation in pain catastrophizing and disability
+due to pain in fibromyalgia: a randomized, double-blind sham-controlled study. J Pain. 2022;23(4):641-656. doi:10.1016/j.jpain.2021.11.002
+Gasparin A, Zortea M, Dos Santos VS, et al. Brain-derived neurotrophic factor modulates the effect of sex on the descending pain modulatory
+system in healthy volunteers. Pain Med. 2020;21(10):2271—2279. doi:10.1093/pm/pnaa027
+
+Maeda F, Gangitano M, Thall M, Pascual-Leone A. Inter- and intra-individual variability of paired-pulse curves with transcranial magnetic
+stimulation (TMS). Clin Neurophysiol. 2002;113(3):376-382. doi:10.1016/S1388-2457(02)00008-1
+
+Biabani M, Aminitehrani M, Zoghi M, Farrell M, Egan G, Jaberzadeh S. The effects of transcranial direct current stimulation on short-interval
+intracortical inhibition and intracortical facilitation: a systematic review and meta-analysis. Rev Neurosci. 2018;29(1):99-114. doi:10.1515/
+revneuro-2017-0023
+
+Wager TD, Atlas LY. The neuroscience of placebo effects: connecting context, learning and health. Nat Rev Neurosci. 2015;16(7):403-418.
+doi: 10.1038/nrn3976
+
+Poston B, Kukke SN, Paine RW, Francis S, Hallett M. Cortical silent period duration and its implications for surround inhibition of a hand muscle.
+Eur J Neurosci. 2012;36(7):2964—2971. doi:10.1111/j.1460-9568.2012.08212.x
+
+Fedi M, Berkovic SF, Macdonell RA, Curatolo JM, Marini C, Reutens DC. Intracortical hyperexcitability in humans with a GABAA receptor
+mutation. Cereb Cortex. 2008;18(3):664—669. doi:10.1093/cercor/bhm100
+
+Grizzle JE. The two-period change-over design and its use in clinical trials. Biometrics. 1965;21:467-480). PMID: 14338679.
+
+Maclure M. The case-crossover design: a method for studying transient effects on the risk of acute events. Am J Epidemiol. 1991;133(2):144—-153.
+doi: 10.1093/oxfordjournals.aje.al 15853
+
+Cardenas-Rojas A, Castelo-Branco L, Pacheco-Barrios K, et al. Recruitment characteristics and non-adherence associated factors of fibromyalgia
+patients in a randomized clinical trial: a retrospective survival analysis. Contemp Clin Trials Commun. 2021;24:100860. doi:10.1016/.
+conctc.2021.100860
+
+Journal of Pain Research Dove
+
+Publish your work in this journal
+
+The Journal of Pain Research is an international, peer reviewed, open access, online journal that welcomes laboratory and clinical findings in the
+fields of pain research and the prevention and management of pain. Original research, reviews, symposium reports, hypothesis formation and
+commentaries are all considered for publication. The manuscript management system is completely online and includes a very quick and fair
+peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.
+
+Submit your manuscript here: https://www.dovepress.com/journal-of-pain-research-journal
+
+Journal of Pain Research 2023:16 Ei ye in > | Dove 203

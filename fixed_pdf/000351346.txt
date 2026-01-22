@@ -1,0 +1,1139 @@
+— — PAGE 1 — —
+Research Briefings
+
+Neonatology
+
+Neonatology 2013;104:171-178
+DOI: 10.1159/000351346.
+
+Received: February 4,.2013
+Accepted after revision: April 12, 2013
+Published online: August 1, 2013
+
+The SafeBoosC Phase II Randomised Clinical Trial:
+A Treatment Guideline for Targeted Near-Infrared-
+Derived Cerebral Tissue Oxygenation versus
+Standard Treatment in Extremely Preterm Infants
+
+Adelina Pellicer. Gorm. Greisen®.. Manon Benders‘ .. Olivier Claris?. Eugene Dempsey®. .
+Monica Fumagalli Christian Gluud 9 Cornelia Hagmann " Lena Hellstrom-Westas |
+Simon Hyttel-Sorensen> PetraLemmers® Gunnar Naulaers! Gerhard Pichler
+
+Claudia Roll! Frank van BelS.. Wim van Oeveren™ . Maria Skoog... Martin Wolf". .
+
+Topun Austin® ..and the SafeBoosC Trial Group.
+
+@Department of Neonatology, La Paz University. Hospital, Madrid, Spain; °»Department of Neonatology,
+Rigshospitalet, Copenhagen University, Copenhagen, Denmark; ‘Department of Neonatology, Universitair Medisch
+Centrum, Wilhelmina Children’s. Hospital, Utrecht, The Netherlands; 4Department of Neonatology, Femme Mere
+Enfants Hospital, Hospices Civils de Lyon, Lyon, France; ~Department of Paediatrics and Child Health, University
+College. Cork, Cork, Ireland; ‘Department of Clinical. Sciences.and Community. Health, Fondazione IRCCS.Ca’ Granda
+Ospedale Maggiore Policlinico Milan, Milan, Italy; Copenhagen Trial Unit, Centre for Clinical Intervention Research,
+Rigshospitalet, Copenhagen University. Hospital, Copenhagen, Denmark;."Clinic of Neonatology,
+
+University. Hospital, Zurich, Switzerland; ‘Department. of Women’s.and. Children’s. Health. Uppsala Universitet,
+Department of Neonatology, University. Hospital, Uppsala, Sweden;/Katholieke Universiteit Leuven, Leuven, Belgium;
+kDepartment of Pediatrics, Medical. University. of Graz,.Graz,. Austria; [Department of. Neonatology and Paediatric
+Intensive Care, Vest Children’s Hospital Datteln, Datteln, Germany; ™Haemoscan B.V., Groningen, The Netherlands;
+"Biomedical Optics Research Laboratory, Clinic of Neonatology, University Hospital, Zurich, Switzerland;
+
+°Rosie Maternity Hospital, University Hospitals NHS Foundation Trust, Cambridge, UK
+
+Key Words
+
+Near-infrared spectroscopy.- Newborn - Practice
+guideline - Cardiovascular agents - Hypotension - Oxygen
+consumption. -. Carbon dioxide - Hyperoxia
+
+Abstract
+
+Near-infrared spectroscopy-derived regional tissue oxygen
+saturation. of haemoglobin (rSto2) reflects venous. oxygen
+saturation. If cerebral metabolism.is stable, rSto, can be used
+as. an. estimate of cerebral oxygen delivery. The SafeBoosC
+
+phase II randomised clinical trial hypothesises that the bur-
+den of hypo- and hyperoxia can be reduced. by the com-
+bined use of close monitoring. of the cerebral rSto2 and a
+treatment guideline to. correct deviations in rSto2 outside a
+predefined target range. Aims: To describe the rationale for
+and content of this treatment guideline. Methods: Review of
+the literature and assessment of the quality of evidence and
+the grade of recommendation for each of the interventions.
+Results and Conclusions: A clinical intervention algorithm
+based on the main determinants of cerebral perfusion-oxy-
+genation. changes during the first hours. after birth was.gen-
+
+KARGER
+
+E-Mail karger@karger.com
+www.karger.com/neo.
+
+© 2013 S. Karger AG, Basel Karger
+1661-7800/13/1043-0171$38.00/0. Open access
+
+This.isan Open Accessarticle licensed. under.the.terms.of the
+Creative Commons Attribution-NonCommercial 3.0 Un-
+ported. license. (CC. BY-NC). (www.karger.com/OA-license),.
+applicable.to. the online version of the article only. Distribu-
+tion permitted for non-commercial purposes only.
+
+Adelina Pellicer, MD, PhD
+
+Department of Neonatology, La Paz. University. Hospital.
+Paseo de la Castellana.261
+
+ES-28046 Madrid (Spain)
+
+E-Mail apellicer.hulp@salud.madrid.org
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq
+— — PAGE 2 — —
+erated. The treatment guideline is presented to assist neo-
+natologists in making decisions in relation to. cerebral oxim-
+etry readings in preterm infants within the SafeBoosC phase
+Il randomised clinical trial. The evidence grades. were rela-
+tively low and the guideline cannot be recommended out-
+side a research setting. © 2013 S. Karger AG, Basel
+
+Introduction
+
+Abnormal haemodynamic adaptation during the tran-
+sitional circulation together with the impact of respira-
+tory. distress. syndrome and related. factors. on. blood flow.
+distribution [1] cause abnormalities in cerebral haemo-
+dynamics. and oxygen supply. [2-4]. Near-infrared. spec-
+troscopy (NIRS)-derived regional tissue oxygen satura-
+tion of haemoglobin (rSt02). is. an. absolute. value. corre-
+sponding to mixed blood saturation, and can be used. as.a
+surrogate. measure for. venous oxygen saturation. [5]. This.
+allows the derivation of several variables related to tissue
+oxygen dynamics, such as oxygen delivery and consump-
+tion and the ratio. between oxygen. delivery to. oxygen. ex-
+traction, the so-called cerebral fractional oxygen extrac-
+tion (FOE). [5, 6].. Theoretically, therefore, this. monitor-
+ing system could help to adjust interventions with effects
+on blood. and oxygen supply. to. the brain..
+
+The SafeBoosC phase II randomised clinical trial hy-
+pothesises that the burden of hypo- and hyperoxia can be
+reduced,.and consequently the risk of brain injury, by. the
+combined use of close monitoring of the cerebral rSto,
+and an evidence-based. treatment guideline to. correct de-
+viations in rStO, outside a predefined target range [7-9].
+Accordingly, a. treatment guideline.has.been developed .fo-
+cusing on interventions that could have.an impact on arte-
+rial oxygen. saturation. (SaO), haemoglobin. concentra-
+tion, and. cerebral blood. flow. (CBF), which are. the main
+determinants of oxygen delivery to the brain. The purpose
+of this report is to. describe the rationale for this treatment
+guideline and the treatment recommendations.
+
+Interventions That Affect Oxygen Delivery to the
+Brain.
+
+In. drawing up the treatment guideline we used. the
+premise that hypoxia and hyperoxia are risk factors for an
+adverse outcome in the preterm infant and should be
+avoided. [10-15]. In addition to. NIRS assessment of the
+cerebral. circulation, a number. of other. techniques,. par-
+
+172 Neonatology. 2013;104:171-178
+DOI: 10.1159/000351346
+
+ticularly echocardiography, are used to assess the neona-
+tal transitional circulation and related outcomes [1, 16-
+27]. For the purposes of the treatment guideline, a sys-
+tematic. review. of the literature was. carried. out. focusing.
+on clinical studies conducted on human neonates that
+used NIRS-derived variables as outcome measures sup-
+porting the. statements listed in the treatment guideline
+for intervention in the SafeBoosC phase II randomised
+clinical trial. The literature. review. was. conducted in
+March 2011 using the database PubMed and subject
+headings. (MeSH terms). There. were no date restrictions..
+The search board was kept to combine the concept of a
+neonate (or newborn) with the concepts of NIRS and
+cerebrovascular circulation. In addition, blood pressure,
+hypotension, dopamine, dobutamine, epinephrine, anae-
+mia,. blood transfusion, carbon dioxide, respiratory. dis-
+tress syndrome, patent ductus arteriosus (PDA) and
+treatment, and. blood glucose. were. also. combined. with
+the terms NIRS and newborn. This search was supple-
+mented. by. cross. references.. Two. hundred. and. twenty-.
+nine.abstracts were selected for review; among them, only
+27% were relevant for the issues to be addressed in the
+treatment guideline. Only 4% of the selected studies were
+randomised clinical trials.
+
+The. proposed treatment guideline for. the SafeBoosC
+phase II randomised clinical trial is based on interven-
+tions. that. may. optimise. cerebral oxygen. supply and.con-
+sumption. through factors. such as perfusion pressure,
+ventricular output, arterial oxygen content, arterial car-
+bon dioxide, or blood glucose concentration. We assume
+a rather steady cerebral metabolic rate of oxygen. Given
+that the SafeBoosC intervention period focuses on the
+first 3 days after an extremely low gestational age neonate
+is born [8, 9],.disease states. and related factors. most.com-
+monly present during that period were of particular inter-
+est.. The. definition. of normal range for. cerebral. rStO,, in.
+this trial (55-85%). was derived from Lemmers and van
+Bel [unpubl. data] as the 95% CI of rSto, monitoring of
+439 preterm infants. born at <32 weeks. during the first 3
+days after birth using INVOS and the Adult SomaSensor
+(Somanetics-Covidien, Dublin, Ireland). The application
+of the adult sensor in this population is considered safe as
+no.serious.adverse device. effects, such.as.skin. burns, were.
+found in these. infants. Device eligibility will be tested by
+comparison of absolute values, reproducibility, and sen-
+sitivity. to changes in oxygenation on the adult arm [28].
+Absolute values and dynamic range within 5 percentage
+points. of INVOS and reproducibility. better than 6% are
+the predefined thresholds. So far, eligible devices for the
+SafeBoosC. trial include. INVOS. 5100C. with. the Adult
+
+Pellicer et al.
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq
+— — PAGE 3 — —
+SomaSensor, NIRO 200NX (Hamamatsu Photonics, Fu-
+kuoka, Japan). with a small probe holder, and OxyPrem,
+a prototype developed by investigators in the SafeBoosC
+trial (M.W.)..
+
+We. developed. a pathophysiologically. oriented, evi-
+dence-based treatment guideline and assessed the level of
+recommendation according to the US Preventive Services
+Task Force (USPSTF) System from 2001 [29] (Appen-
+dix). A new version of the USPSTF system is currently in
+use [30] where the wording of the grade C recommenda-
+tion is possibly. the. most important. change. with. respect
+to. the previous version; it reads: “... against routinely pro-
+viding X service for Y population; there may be consider-
+ations. that. support providing the service in an individual
+patient’. One of the actions listed in the present treatment
+guideline (i.e. volume.expansion with normal saline). has
+been classified as a grade C recommendation. This, as
+well as the remaining actions included, is a suggested. but
+not. mandated intervention, and all of them should be
+considered individually.according to. the. patient’s overall
+clinical condition. Newer. developments. for. grading the
+quality of evidence and the strength of recommendations
+[31].are more rigorous, but also. more complex and time
+consuming. We, therefore, adhered to the USPSTF sys-
+tem. due to its relative ease of use.
+
+If rStO, falls out of the normal range (55-85%) and
+there is. no.reason.to. believe that it will normalise. without
+an. intervention, this treatment guideline aims to bring a
+standardised approach to correct the deviation. As the ef-
+fect. of certain interventions, such as the effect of cardio-
+vascular drugs on blood pressure, are not expected to be
+immediate, it is recommended to. choose. only one inter-
+vention at a time and reassess after 30-60 min. It must be
+kept in mind that many. routine. care-giving procedures
+in the neonatal intensive care unit, such as. handling or
+change.in posture. [32,33], endotracheal tube.reposition-
+ing or suctioning [32], or blood sampling from umbilical
+lines [34-36], among others, may have an impact on ce-
+rebral haemodynamics and oxygenation. However, since
+NIRS changes determined by these factors are usually
+transient and can be anticipated, they have not been listed
+in this. treatment guideline.
+
+Online. supplementary. figure. 1. (for. all online. suppl.
+material, see www.karger.com/doi/1159/000351346).shows
+an algorithm that describes the flow of suggested inter-
+ventions in the SafeBoosC trial when rStO, is out of the tar-
+get range.
+
+rStO,. below. the. threshold may. reflect. compromised.
+oxygen delivery. The proposed interventions are directed
+to. increasing CBF,. oxygen. transport. capacity, or. blood.
+
+Treatment Guideline for Targeted
+Cerebral. Oxygenation.
+
+oxygen content. Accordingly, the assessment of cardio-
+vascular. status, haemoglobin concentration, and Sa0,
+should be done before an intervention is chosen.
+
+Assessment/Interventions. Related to Cardiovascular
+
+Status
+
+Changes in rStO2 or FOE may follow changes in cere-
+bral perfusion pressure in infants with haemodynamic in-
+stability, which may. [37-39]. or may. not [40-42]. be. re-
+flected by concordant changes in mean arterial blood
+pressure.. Thus, this treatment guideline. would suggest to.
+check the. cardiovascular. system, primarily. considering
+clinical variables available in routine clinical practice,
+such as blood pressure, blood lactate concentration, cap-
+illary refill time, or urine output to define whether com-
+promised systemic circulation is present or not. Echocar-
+diography-derived variables on blood flow distribution,
+such as cardiac output and superior vena cava flow mea-
+surements, may. be. of value as. complementary. assess-
+ments. to. indicate. or. guide intervention.
+
+Administration of fluid bolus, vasopressor-inotropes
+(dopamine or epinephrine), or inotropes (dobutamine),
+has. a variable. effect. on blood pressure,. cardiac. perfor-
+mance, and cerebral perfusion-oxygenation [16-20, 43].
+The effect. of volume expansion on rStO, has not been
+systematically explored in infants. However, a recent ran-
+domised clinical trial has shown that delayed.cord clamp-
+ing increases cerebral rStO, at 4 and 24 h after birth in
+preterm infants [44]. This early increase in preload pos-
+sibly. ameliorates cardiovascular maladaptation during
+transitional circulation [45].
+
+Studies in neonates have shown that dopamine [38,
+43] and epinephrine [43], given to treat early systemic
+hypotension,. increase. cerebral. perfusion-oxygenation..
+The. 2-year. follow-up. of the study. population. showed
+comparable. outcomes. in. vasopressor-inotrope-treated.
+infants and infants who did not develop hypotension and
+thus did not receive cardiovascular support early after
+birth [16]. However, cautious use of vasopressors is. rec-
+ommended, as increased afterload may further compro-
+mise myocardial contractility causing additional decrease
+in cardiac output [1], and consequently, worsening cere-
+bral perfusion.
+
+The. effect of a haemodynamically. significant PDA or
+its treatment on cerebral haemodynamics and oxygen-
+ation is addressed in a number of studies. using NIRS and.
+other monitoring methods [46-61]. PDA may be a deter-
+minant in blood flow. redistribution. causing decreased.
+blood pressure and rSto2 and increased FOE [57]. How-
+ever, no. correlation. was. found. between. ductal. size. and.
+
+Neonatology. 2013;104:171-178 173
+DOF: 10.1159/000351346
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq
+— — PAGE 4 — —
+rStO [60]. Treatment of PDA may also be relevant for the
+rStO, [57]. Indomethacin has been shown to have an
+acute greater impact on cerebral perfusion and oxygen-
+ation [47,. 49, 52, 58, 59]. than. ibuprofen. [51,. 52]. How-
+ever, slower infusion rates did not have such an impact
+on brain haemodynamics [61]. Surgical closure of the
+PDA showed no consistent effects on cerebral circulation
+and oxygenation [53-56].
+
+Finally, mechanical factors, particularly lung overinfla-
+tion, may decrease preload and cause increased pulmo-
+nary. vascular. resistance. Both factors. would impair. myo-
+cardial function and cardiac output [22-25]. This. condi-
+tion should always be ruled out in case of decreasing rStO.
+
+Assessment/Interventions Related to Oxygen
+
+Transport (Blood Oxygen. Carrying Capacity).
+
+Although there is no clear correlation between haemo-
+globin concentration and tissue oxygen extraction [62,
+63],. packed-red. cell transfusion improves cerebral oxy-
+genation. in the anaemic preterm infant. [63-65]. In addi-
+tion, a randomised clinical trial has shown that placental-
+to-foetal transfusion increases rStO, [44], possibly not
+only due to increased oxygen carrying capacity but also to
+improved preload. A positive effect of this procedure on
+superior vena cava flow has been recently reported [45].
+
+Assessment/Interventions Related. to. Respiratory.
+
+Status
+
+Infants with respiratory distress syndrome have a sig-
+nificantly larger. range of cerebral rSto, and FOE and a
+stronger relation between these cerebral haemodynamic
+variables. and. mean arterial blood pressure than infants
+without respiratory distress syndrome [66]. One of the
+most. important determinants. of CBF and cerebral oxy-
+gen dynamics is partial pressure of carbon dioxide (PCO)
+[46, 63, 67-70]. It is. crucial, because. inadvertent. hyper-
+ventilation may occur as a result of mechanical ventila-
+tion during the acute phase of respiratory distress syn-
+drome. If PCO, is. below the normal range or low, even in
+the normal range, we recommend considering to decrease
+minute ventilation in case of low rStO, [63,.67-69]. Since
+the effect of manipulating minute ventilation on rSto, has
+not been tested. in a randomised trial, the. evidence level
+in this guideline is only II. The understanding of the me-
+chanics and physiology, as well as the epidemiological
+link between hyperventilation and. brain injury and.cere-
+bral palsy, however, may be seen as sufficient for a stron-
+ger recommendation (A).
+
+The effect of the type.of mechanical ventilation or air-
+way. pressure. on. the. cerebral haemodynamics. and. oxy-
+
+174 Neonatology. 2013;104:171-178
+DOI: 10.1159/000351346
+
+genation by NIRS has been the focus of some small obser-
+vational studies. in newborns. [71-75]. The way these. dif-
+ferent methods affect intrathoracic pressures would
+likely. impact the cerebral and systemic. circulation of im-
+mature neonates [76].
+
+This treatment guideline has been modified after a pi-
+lot trial [77] to specifically. warn against exceeding the up-
+per threshold of Sa0, according to local policies. There-
+fore, the fractional inspired oxygen fraction (FiO2).should
+only be increased if SaO, is below the normal range or low,
+even in. the normal range. [10].. Other. potential. actions.
+relate. to. increasing SaO, through improvement in lung
+recruitment by moderate increase in mean airway pres-
+sure [22, 26, 75]..
+
+rStO, increasing above the upper normal limit may re-
+flectimpaired oxygen utilisation or disturbed cerebral au-
+toregulation, and interventions should be directed at de-
+creasing hyperaemia. The assessment of respiratory. sta-
+tus and blood glucose content should. be done before an
+intervention is. chosen.
+
+Assessment/Interventions Related to Respiratory
+
+Status
+
+The first step would be decrease FiO, in case Sa is
+above. the. normal range or high, even in the. normal
+range [11-15]. Additional interventions would be to de-
+crease. mean. airway. pressure. [26, 75]. The. vasodilator.
+effect of PCO, should be considered, so. minute. ventila-
+tion should be increased in case of PCO, above the nor-
+mal range or. high, even in the normal range, to. lower
+PCO, [63, 67-69].
+
+Assessment of Blood Glucose Level
+
+Hypoglycaemia. would. be the. cause. of capillary. re-
+cruitment and increased CBF [27, 78]. Thus, if the blood
+glucose. level is below the normal range or.low, even in the.
+normal range, increased glucose intake should be consid-
+ered to raise blood glucose concentration.
+
+Conclusion.
+
+This. treatment guideline. for. the SafeBoosC phase IL
+trial aims. to help neonatologists to. take decisions in rela-
+tion to cerebral oximetry readings. None of the suggested
+actions. are mandatory. The. proposed clinical interven-
+tion algorithm is focused on the main determinants of
+cerebral perfusion-oxygenation changes. during the first
+hours. after. birth in the extremely. low gestational age
+neonate. population, and. is. thus. pathophysiologically.
+
+Pellicer et al.
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq
+— — PAGE 5 — —
+oriented. The evidence supporting some of these state-
+ments is. generally. rather weak. The proposed interven-
+tions, however, are all routinely used in clinical care of
+these. patients.. Particular. care. has. been. taken. on hyper-
+ventilation with low PCO, and oxygen. administration
+with high Sao, due to their association with adverse out-
+comes.. We stress that this. guideline. is not approved for.
+general use outside randomised clinical trials. We look
+forward. to. be able. to report the results. of the present
+SafeBoosC phase II randomised clinical trial and the
+planned. SafeBoosC. phase. III randomised. clinical trial
+that will evaluate the combined effect of NIRS. and this
+treatment guideline [8, 9].
+
+Acknowledgements
+
+The authors acknowledge the financial support of the Danish
+Council for Strategic Research for the SafeBoosC phase II ran-
+domised clinical trial.
+
+Disclosure Statement
+
+The authors have no potential conflict of interest.
+
+Appendix
+
+SafeBoosC Trial Treatment Guideline
+
+rStO, <55%
+
+Assess. cardiovascular status
+Blood pressure below the normal range or low, even in the normal range,
+consider:
+Vasopressor-inotropes. (I/B). [16, 43]
+Fluid bolus (normal saline) (I/C) [17, 18]
+Decrease. mean airway. pressure. (III/B). [22-25]
+Poor.systemic. circulation, consider if:
+Echocardiography shows low cardiac output and/or low superior vena cava
+flow
+Inotropes (I/B). [18-20, 40-42]
+Fluid. bolus. (normal saline). (I/C).[17,. 18]
+Decrease mean airway pressure (III/B) [22-25]
+Reduce vasopressor (II/B). [1]
+Echocardiography. not available. but has.at.least. two. of the following signs:
+Lactate >3.5 mmol/l
+CRT >3.s
+Urine. output <1. ml/kg/h
+Consider:
+Inotropes (I/B). [18-20, 40-42]
+Fluid. bolus (normal saline). (I/C).[17,. 18]
+Decrease mean airway pressure (III/B) [22-25]
+Reduce vasopressor (II/B). [1]
+PDA, consider:
+Medical treatment (II-2/B) [21, 23, 24, 57]
+
+Treatment Guideline for Targeted
+Cerebral. Oxygenation.
+
+Assess oxygen. transport
+Haemoglobin below the normal range or low, even in the normal range,
+consider:
+
+Red blood cell transfusion (I/B). [44, 63-65]
+
+Assess respiratory status
+
+Sa0,. below the normal range. or low, even. in the normal range, consider:
+Increase FiO, (II-1/A) [10] (attention: be careful not to exceed the
+upper target threshold of Sao.)
+Increase. mean airway. pressure. (III/B). [22, 26, 75]
+
+PCO; below. the. normal range or. low,. even. in. the normal range, consider:
+Decrease minute ventilation (II-2/A) [63, 67-69]
+
+rStOz >85%
+
+Assess respiratory. status
+
+SaO, above the normal range or high, even in the normal range, consider:
+Decrease FiO, (II-2/A) [11-15]
+Decrease mean airway. pressure (III/B).[26,.75]
+
+PCO) above the normal range or high, even in the normal range, consider:
+Increase minute ventilation (II-2/A) [63, 67-69]
+
+Assess. blood. glucose. level
+Blood glucose <2.5 mmol/l, consider:
+Increase. glucose. intake (II-2/A).[27, 78]
+
+The recommendation according to the US Preventive Services Task
+Force. (USPSTF). System. for 20001. [29].. The. Roman. number refers. to. the
+level of evidence hierarchy. the recommendation originates from (I; II-1;II-2;
+II-3; III) and the letter is our recommendation according to the USPSTF
+grading (A;.B;.C;.D; I).
+
+Level of Type of study
+
+evidence
+
+I evidence obtained from at least one properly
+randomised controlled trial
+
+II-1 evidence obtained from. well-designed controlled.
+trials without randomisation
+
+1-2 evidence. obtained from. well-designed cohort or
+case-control analytic studies, preferably. from more.
+than one.centre.or. research group
+
+II-3 evidence obtained from multiple time series with
+or without intervention; dramatic results in
+uncontrolled experiments (such as the results of the
+introduction of penicillin. treatment in the 1940s)
+can also be regarded as.this type. of evidence
+
+Ul opinions of respected authorities, based on clinical
+experience, descriptive studies and case reports, or
+reports of expert committees
+
+Neonatology. 2013;104:171-178 175
+
+DOI. 10.1159/000351346
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq
+— — PAGE 6 — —
+Quality of evidence Net benefit
+
+substantial moderate small zero/negative
+Good A C D
+Fair B C D
+
+Poor = I
+
+Standard recommendation.
+
+A =.strongly recommended (good evidence that the intervention improves.important health outcomes.
+
+language and benefits. substantially. outweigh harms)
+B = recommended (at least fair evidence that the intervention improves important health outcomes and
+benefits substantially outweigh harms)
+C. = no.recommendation for or against routine. provision of the intervention (fair. evidence that the.
+service can improve health outcomes but the balance of the. benefits and harms is too close.to justify. a
+general recommendation)
+D.=.recommends against routinely. providing. the. intervention. (at least. fair.evidence. that the service is. 9
+ineffective or that harms outweigh benefits) 2
+I = insufficient to recommend for or against routinely providing the intervention (evidence that the 3B
+intervention is effective is lacking, of poor quality, or conflicting and the balance of benefits and harms 6
+cannot be determined) g
+a
+a
+9
+8
+3
+References. 3
+o
+1 Kluckow M, Seri I: Clinical presentations of 9 Hyttel-Sorensen S, Austin T, van Bel F, Bend- 15 SUPPORT Study Group of the Eunice Ken- 3
+neonatal shock: the VLBW infant during the ers M, Claris O, Dempsey E, Fumagalli M, nedy Shriver NICHD Neonatal Research Net- 7
+first postnatal day; in. Kleinman. CS, Seri I Greisen. G,. Grevstad. B,. Hagmann. C, Hell- work, Carlo. WA, Finer. NN,. Walsh. MC, et al:. =
+(eds): Hemodynamics. and. Cardiology. Neo- str6m-Westas L, Lemmers P, Lindschou Han- Target ranges. of oxygen. saturation. in ex- s
+natology.Questions.and.Controversies..Phila- sen J, Naulaers G,.van Oeveren W,. Pellicer A, tremely. preterm infants. N. Engl J. Med. 2010; 3
+delphia, Saunders, 2008, pp 147-177. Pichler G, Roll C, Skoog M, Winkel P, Wolf 362:1959-1969. 3
+2 Osborn DA, Evans N, Kluckow M: Hemody- M, Gluud C: SafeBoosC: a randomised clini- 16 Pellicer A, Bravo MC, Madero R, Salas S, Que- 3
+namic.and antecedent risk factors. of early.and. cal. phase. II trial on. cerebral. near. infrared. ro. J, Cabafias. F:. Early. systemic. hypotension. 5
+late. periventricular/intraventricular. hemor- spectroscopy. on extremely. preterm. infants and vasopressor. support in. low. birth weight 8
+rhage. in premature. infants. Pediatrics. 2003;. during the first three days.-.the protocol. Tri- infants: impact. on neurodevelopment.. Pedi- a
+112:33-39. als 2013;14:120. atrics 2009;123:1369-1376. g
+3 Meek JH, Tyszczuk L, Ellwell CE, Wyatt JS: 10 Schulze A, Whyte RK, Way RC, Sinclair JC: 17 Lundstrom K, Pryds O, Greisen G: The hae- 3
+Low. cerebral blood flow. is.a risk factor. for.se- Effect of the arterial oxygenation level. on car- modynamic effects. of dopamine and. volume. Ss
+vere. intraventricular. haemorrhage. Arch. Dis. diac output, oxygen. extraction, and. oxygen expansion in sick preterm infants. Early Hum. @
+Child Fetal Neonatal Ed 1999;81:F15-F18. consumption. in low birth. weight infants. re- Dev. 2000;57:157-163. g
+4 Goldstein RF, Thompson RJ Jr, Oehler JM, ceiving mechanical ventilation. J Pediatr 18 Osborn D, Evans N, Kluckow M: Random- s
+Brazy JE: Influence of acidosis, hypoxemia, 1995;126:777-784. ized trial of dobutamine versus dopamine in 8
+and hypotension on. neurodevelopmental 11. Collins. MP, Lorenz JM, Jetton JR,. Paneth. N: preterm infants. with low systemic blood flow. g
+outcome. in very. low. birth. weight infants. Hypocapnia and other ventilation related. risk J Pediatr 2002;140:183-191. 3
+Pediatrics. 1995;95:238-243. factors. for cerebral palsy. in low. birth. weight 19. Osborn DA, Evans. N,.Kluckow M, Bowen JR, 8
+5 Pellicer A, Bravo MC: Near-infrared spectros- infants. Pediatr Res 2001;50:712-719. Rieger I: Low superior vena cava flow and ef- a
+copy: a methodology focused-review. Semin 12 Tin W, Milligan DWA, Pennefather P, Hey E: fect of inotropes on neurodevelopment to 3
+Fetal Neonatal Med.2011;16:42-49.. Pulse. oximetry,. severe. retinopathy. and. out- years.in preterm infants. Pediatrics. 2007;120:
+6. Yoxall CW, Weindling AM: Measurement of come. at one year. in babies of less than 28 372-380.
+cerebral oxygen. consumption. in the. human. weeks gestation. Arch Dis Child Fetal Neona- 20. Osborn DA, Paradisis M, Evans. N: The effect.
+neonate using near infrared spectroscopy: ce- tal Ed 2001;84:F106-F110. of inotropes on morbidity and mortality in
+rebral oxygen. consumption increases with 13. Chow.L, Wright KW, Sola A: Can. changes. in. preterm. infants with low. systemic. or. organ.
+advancing gestational age. Pediatr. Res 1998; clinical practice decrease the incidence. of se- blood flow. Cochrane Database Syst Rev.2007;
+44:283-290. vere. retinopathy. in very low birth weight in- 1:CD005090..
+7. Greisen. G,. Leung T, Wolf M:. Has. the time. fants?. Pediatrics. 2003;111:339-345... 21. Jim WT, Chiu NC, Chen MR, Hung HY, Kao.
+
+come to use near-infrared spectroscopy as a
+routine clinical tool in. preterm.infants under-
+going intensive care? Philos Transact A. Math.
+Phys. Eng Sci 2011;369:4440-4451.
+
+SafeBoosC phase II trial group. http://www.
+clinicaltrials.gov/ct2/results?term=NCT0190316.
+
+14 Anderson CG, Benitz WE, Madan A: Reti-
+
+nopathy. of prematurity.and pulse oximetry: a.
+national survey.of recent practices..J. Perinatol
+2004;24:164-168.
+
+176
+
+DOI: 10.1159/000351346
+
+Neonatology. 2013;104:171-178
+
+HA, Hsu CH, Chang JH: Cerebral hemody-
+namic. change. and. intraventricular. hemor-
+rhage in. very. low. birth weight infants. with.
+patent ductus arteriosus. Ultrasound Med
+Biol 2005;31:197-202.
+
+Pellicer et al.
+— — PAGE 7 — —
+22.
+
+23.
+
+24.
+
+25
+
+26
+
+27
+
+28
+
+29
+
+30.
+
+31.
+
+32.
+
+33.
+
+34
+
+Trang TT,. Tibballs. J,. Mercier. JC, Beaufils. F:.
+Optimization of oxygen transport in mechan-
+ically ventilated newborns using oximetry
+and pulsed Doppler-derived cardiac output.
+Crit Care. Med 1988;16:1094-1097..
+
+Skinner JR, Boys. RJ, Hunter. S, Hey. EN: Pul-
+monary.and systemic arterial pressure.in hya-
+line membrane disease. Arch Dis Child 1992;
+67:366-373.
+
+Evans. N, Kluckow. M: Early. determinants. of.
+right and left ventricular. output. in. ventilated.
+preterm infants. Arch Dis Child Fetal Neona-
+tal Ed 1996;74:F88—F94.
+
+Kluckow M, Evans N: Relationship between
+blood pressure.and cardiac output in preterm.
+infants. requiring mechanical ventilation. J.
+Pediatr 1996;129:506-512.
+
+de Waal KA, Evans N, Osborn DA, Kluckow
+M: Cardiorespiratory effects of changes in
+end expiratory. pressure. in. ventilated new-
+borns.. Arch Dis. Child Fetal Neonatal Ed.
+2007;92:F444-F448.
+
+Pryds O, Christensen NJ, Friis-Hansen B: In-
+creased. cerebral blood flow. and. plasma epi-
+nephrine in hypoglycemic preterm neonates..
+Pediatrics. 1990;85:172-176.
+
+Hyttel-Sorensen S, Sorensen LC, Riera J, Grei-
+sen G: Tissue oximetry: a comparison of mean
+values.of regional tissue saturation, reproduc-
+ibility. and. dynamic. range. of four. NIRS-in-
+struments. on. the human. forearm. Biomed.
+Opt Express 2011;2:3047-3057.
+
+Harris RP, Helfand M, Woolf SH, Lohr KN,
+Mulrow.CD,.Teutsch SM,. Atkins. D, Methods.
+Work Group, Third. US. Preventive. Services.
+Task Force: Current methods of the US Pre-
+ventive Services Task Force: a review of the
+process. Am J Prev Med 2001;20:21-35.
+Barton. MB, Miller. T,. Wolff. T,. Petitti D, Le
+Fevre. M,. Sawaya. G,. Yawn. B,. Guirguis-Blake.
+J, Calonge.N, Harris. R,. US. Preventive Servic-
+es Task Force: How to read the new recom-
+mendation statement: methods update from
+the U.S. Preventive Services. Task Force. Ann.
+Intern. Med. 2007;147:123-127..
+
+GRADE Working Group: Grading quality. of
+evidence and strength of recommendations.
+BMJ. 2004;328:1490-1494.
+
+Limperopoulos C, Gauvreau. KK,.O’Leary. H,.
+Moore M, Bassan H,. Eichenwald EC, Soul JS,.
+Ringer. SA, Di Salvo. DN,. du Plessis. AJ:. Cere-
+bral hemodynamic changes during intensive
+care. of preterm. infants.. Pediatrics. 2008;.
+122:e1006-e1013.
+
+Pellicer.A, Gaya. F, Madero. R, Quero J, Caba-
+fias. F: Noninvasive.continuous. monitoring of.
+the effects of head position on brain hemody-
+namics. in ventilated. infants. Pediatrics. 2002;.
+109:434-440.
+
+Schulz G,. Keller E, Haensse D,. Arlettaz R,
+Bucher HU, Fauchére JC: Slow blood sampling
+from an umbilical artery catheter prevents a
+decrease. in. cerebral oxygenation. in the. pre-
+term. newborn. Pediatrics 2003;111:e73-e76...
+
+Treatment Guideline for Targeted
+Cerebral. Oxygenation.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+AO.
+
+Al.
+
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+47.
+
+Roll C, Hiining B, Kaunicke M, Krug J,
+Horsch. S:: Umbilical artery. catheter. blood
+sampling volume and velocity: impact on ce-
+rebral blood volume and oxygenation in very-
+low-birthweight infants.. Acta Paediatr. 2006;.
+95:68-73..
+
+Hiining BM, Horsch. S, Roll C: Blood sam-
+pling via umbilical vein catheters decreases
+cerebral oxygenation and blood volume in
+preterm infants. Acta Paediatr. 2007;96:1617-
+1621...
+
+Tsuji M, Saul JP, du Plessis A, Eichenwald E,
+Sobh J, Crocker R, Volpe JJ: Cerebral intravas-
+cular oxygenation correlates with mean arte-
+rial pressure in critically ill premature infants.
+Pediatrics. 2000;106:625-632..
+
+Munro. MJ,. Walker AM, Barfield. CP: Hypo-
+tensive extremely low birth weight infants
+have reduced cerebral blood flow. Pediatrics
+2004;114:1591-1596.
+
+Wong FY, Leung TS, Austin T, Wilkinson M,
+Meek JH,.Wyatt JS, Walker. AM: Impaired au-
+toregulation in preterm infants identified by
+using spatially. resolved. spectroscopy..Pediat-
+rics 2008;121:e604-e611.
+
+Takami T, Sunohara D, Kondo. A, Mizukaki
+N, Suganami Y, Takei Y, Miyajima T, Hoshika
+A: Changes in cerebral perfusion in extremely
+LBW. infants. during the first 72.h after. birth..
+Pediatr. Res. 2010;68:435-439.
+
+Moran M, Miletin J,.Pichova K,. Dempsey.EM:
+Cerebral tissue oxygenation index and supe-
+rior vena cava blood flow in the very low birth
+weight infant. Acta. Paediatr. 2009;98:43-46..
+Kissack CM, Garr. R,. Wardle SP,. Weindling
+AM: Cerebral fractional oxygen extraction in
+very low birth weight infants is high when
+there is low left ventricular output and hypo-
+carbia but is. unaffected. by. hypotension. Pedi-
+atr. Res 2004;55:400—405...
+
+Pellicer A, Valverde E, Elorza MD, Madero R,
+Gaya F, Quero J, Cabafias F: Cardiovascular
+support for low birth weight infants and cere-
+bral hemodynamics:. a. randomized, blinded,
+clinical trial. Pediatrics 2005;115:1501-1512.
+Baenziger. O,. Stolkin F, Keel M, von. Sieben-
+thal K, Fauchere JC, Das Kundu S, Dietz V,
+Bucher. HU,. Wolf M:. The influence. of the
+timing of. cord clamping on postnatal cerebral.
+oxygenation. in preterm. neonates:.a random-
+ized, controlled. trial. Pediatrics 20073119:
+455-459.
+
+Sommers. R,. Stonestreet. BS, Oh. W,. Laptook
+A,.Yanowitz TD, Raker C, Mercer J: Hemody-
+namic. effects.of delayed. cord. clamping in pre-
+mature. infants. Pediatrics. 2012;.129:e667-
+e672.
+
+Adcock LM,. Wafelman. LS,. Hegemier.S,. Moi-
+se AA, Speer ME,.Contant.CF, Goddard-Fine-
+gold J:. Neonatal intensive.care applications of
+near-infrared spectroscopy. Clin Perinatol
+1999;26:893-903.
+
+Edwards. AD, Wyatt JS, Richardson. C, Potter.
+A,. Cope. M,. Delpy. DT, Reynolds. EO: Effects
+of indomethacin on. cerebral haemodynamics.
+in very preterm infants. Lancet 1990;335:
+1491-1495.
+
+48
+
+49
+
+50.
+
+51
+
+52
+
+53.
+
+54.
+
+55.
+
+56
+
+57
+
+58
+
+59
+
+Naulaers G, Delanghe G, Allegaert K,. Debeer.
+A,.Cossey. V, Vanhole C,. Casaer. P,. Devlieger.
+H, Van Overmeire B: Ibuprofen and cerebral
+oxygenation and circulation. Arch Dis Child
+Fetal Neonatal Ed 2005;90:F75-F76...
+Keating P, Verhagen. E,. van Hoften. J,. ter.
+Horst H,. Bos. AF: Effect. of indomethacin. in-
+fused over 30 min on cerebral fractional tissue
+oxygen extraction in preterm newborns with
+a patent ductus arteriosus. Neonatology 2010;
+98:232-237.
+
+Underwood MA, Milstein. JM, Sherman. MP:
+Near-infrared spectroscopy as a screening
+tool for patent ductus arteriosus in extremely
+low. birth. weight infants. Neonatology. 2007;
+91:134-139.
+
+Patel J, Roberts. I, Azzopardi D,. Hamilton P,
+Edwards AD: Randomized double-blind con-
+trolled trial comparing the effects of ibupro-
+fen. with. indomethacin on cerebral hemody-
+namics in preterm infants with patent ductus
+arteriosus.. Pediatr. Res.2000;47:36-42.
+
+Mosca F, Bray M, Lattanzio M, Fumagalli M,
+Tosetto. C: Comparative evaluation. of the. ef-
+fects of indomethacin and ibuprofen on cere-
+bral perfusion and. oxygenation. in preterm.
+infants with patent ductus arteriosus. J Pedi-
+atr 1997;131:549-554.
+
+Hiining BM, Asfour.B, Kénig S,. Hess. N,. Roll
+C: Cerebral blood volume.changes. during clo-
+sure. by. surgery. of patent. ductus. arteriosus.
+Arch Dis Child Fetal Neonatal Ed 2008;
+93:F261-F264.
+
+Zaramella P, Freato. F,Quaresima V,. Ferrari
+M, Bartocci M, Rubino M, Falcon. E,. Chian-
+detti L: Surgical closure of patent ductus arte-
+riosus reduces the cerebral tissue oxygenation
+index in preterm infants: a near-infrared
+spectroscopy. and. Doppler. study.. Pediatr. Int
+2006;48:305-312...
+
+Lemmers. PM, Molenschot MC, Evens J,.Toet.
+MC, van Bel F: Is cerebral oxygen supply com-
+promised in preterm infants undergoing sur-
+gical closure for patent ductus. arteriosus?
+Arch. Dis. Child Fetal) Neonatal Ed 2010;
+95:F429-F434,
+
+Vanderhaegen J, De Smet D, Meyns B, Van
+De. Velde. M,. Van. Huffel S, Naulaers.G: Surgi-
+cal closure of the patent ductus arteriosus.and
+its effect on. the cerebral tissue oxygenation.
+Acta Paediatr. 2008;97:1640-1644.
+
+Lemmers PM, Toet MC, van Bel F: Impact of
+patent ductus.arteriosus.and.subsequent ther-
+apy. with indomethacin on cerebral oxygen-
+ation in preterm infants. Pediatrics 2008;121:
+142-147.
+
+Benders MJ, Dorrepaal CA, van de Bor M, van
+Bel F:. Acute. effects. of indomethacin. on cere-
+bral hemodynamics and. oxygenation.. Biol
+Neonate 1995;68:91-99.
+
+Liem KD, Hopman JC, Kollée LA, Oeseburg
+B: Effects of repeated indomethacin adminis-
+tration. on cerebral. oxygenation. and. haemo-
+dynamics in. preterm infants: combined. near.
+infrared. spectrophotometry. and Doppler. ul-
+trasound study. Eur J Pediatr 1994;153:504-
+509, erratum Eur J Pediatr 1994;153:782.
+
+Neonatology. 2013;104:171-178
+DOI: 10.1159/000351346
+
+177
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq
+— — PAGE 8 — —
+60
+
+61
+
+62
+
+63.
+
+64.
+
+65.
+
+66.
+
+Petrova A, Bhatt M, Mehta R: Regional tissue
+oxygenation. in preterm. born infants. in asso-
+ciation with echocardiographically. signifi-
+cant patent ductus. arteriosus. J Perinatol
+2011;31:460-464.
+
+Christmann V, Liem KD, Semmerkrot BA,
+van.de. Bor. M:.Changes.in.cerebral, renal, and.
+mesenteric blood flow velocity.during contin-
+uous. and. bolus. infusion. of indomethacin..
+Acta Paediatr 2002;91:440-446.
+
+Bailey SM, Hendricks-Mufioz KD, Wells JT,
+Mally. P: Packed red blood. cell transfusion in-
+creases. regional cerebral and. splanchnic tis-
+sue oxygen saturation. in anemic. symptom-
+atic preterm infants. Am J Perinatol 2010;27:
+445-453.
+
+Wardle. SP,. Yoxall CW,. Weindling AM:. De-
+terminants. of cerebral. fractional oxygen. ex-
+traction. using near. infrared. spectroscopy. in.
+preterm neonates. J Cereb Blood Flow Metab
+2000;20:272-279.
+
+Dani C,. Pezzati. M,. Martelli E,. Prussi C, Ber-
+tini G, Rubaltelli FF: Effect. of blood. transfu-
+sions.on.cerebral haemodynamics.in preterm.
+infants. Acta Paediatr 2002;91:938-941.
+Dani.C, PratesiS, Fontanelli G, Barp.J,.Bertini
+G: Blood transfusions. increase cerebral,
+splanchnic, and renal oxygenation. in anemic.
+preterm infants. Transfusion 2010;50:1220-
+1226.
+
+Lemmers. PM,. Toet M,. van. Schelven. LJ,. van.
+Bel F:. Cerebral oxygenation and cerebral oxy-
+gen extraction in. the preterm infant: the im-
+pact of respiratory distress syndrome. Exp
+Brain Res 2006;173:458-467.
+
+67
+
+68.
+
+69.
+
+70
+
+71.
+
+72.
+
+Pryds O, Greisen G, Skov LL, Friis- Hansen B:
+Carbon. dioxide-related. changes. in cerebral
+blood. volume .and.cerebral blood flow. in.me-
+chanically ventilated preterm. neonates:.com-
+parison of near infrared spectrophotometry
+and 133Xenon clearance. Pediatr Res 1990;27:
+445-449...
+
+Dietz. V,. Wolf M,. Keel M,. v. Siebenthal K,
+Baenziger. O, Bucher. H: CO, reactivity. of the
+cerebral hemoglobin concentration in healthy
+term newborns measured by near infrared
+spectrophotometry.. Biol Neonate. 1999;75:
+85-90..
+
+Vanderhaegen J,. Naulaers. G,. Vanhole. C, De
+Smet D, Van Huffel S, Vanhaesebrouck S,
+Devlieger H: The effect of changes in tPCO,
+on the fractional tissue.oxygen extraction —.as.
+measured. by. near-infrared spectroscopy. in
+neonates. during the first. days. of life. Eur. J
+Paediatr Neurol 2009;13:128-134.
+
+Mosca F, Bray M, Colnaghi MR, Fumagalli M,
+Compagnoni G: Cerebral vasoreactivity.to.ar-
+terial carbon dioxide tension in preterm in-
+fants: the effect of ibuprofen. J. Pediatr. 1999;
+135:644-646.
+
+Zaramella P,.Freato.F, Grazzina N,.SaraceniE,.
+Vianello. A, Chiandetti L: Does helmet CPAP.
+reduce. cerebral blood. flow. and. volume. by.
+comparison with Infant Flow driver CPAP in
+preterm neonates? Intensive Care Med 2006;
+32:1613-1619..
+
+Palmer. KS, Spencer SA, Wickramasinghe YA,
+Wright T, Southall DP, Rolfe P: Effects of pos-
+itive and negative pressure ventilation on ce-
+rebral blood volume of newborn infants. Acta
+Paediatr. 1995;84:132-139...
+
+178
+
+DOI: 10.1159/000351346
+
+Neonatology. 2013;104:171-178
+
+73
+
+74.
+
+75.
+
+76
+
+77.
+
+78
+
+Dani C,. Bertini G, Cecchi A, Corsini I,. Pra-
+tesi S, Rubaltelli FF: Brain haemodynamic ef-
+fects of nasal continuous airway pressure in
+preterm infants of less than 30 weeks’ gesta-
+tion. Acta Paediatr. 2007;96:1421-1425...
+Noone. MA, Sellwood.M, Meek JH,. Wyatt JS:
+Postnatal adaptation. of cerebral blood flow
+using near infrared spectroscopy in extremely
+preterm infants undergoing high-frequency
+oscillatory ventilation. Acta Paediatr. 2003;92:
+1079-1084.
+
+Cantagrel S, Cloarec S, Suc. AL, Chamboux C,
+Tessier V, Saliba E, Laugier J: Consequences
+of pulmonary inflations (sighs) on cerebral
+haemodynamics. in neonates. ventilated. by.
+high-frequency. oscillation. Acta Paediatr.
+1999;88:1004—1008.
+
+Valverde E, Pellicer A, Madero R, Elorza D,
+Quero J, Cabafias F: Dopamine versus epi-
+nephrine. for. cardiovascular. support in low.
+birth weight infants: analysis of systemic. ef-
+fects. and neonatal clinical outcomes. Pediat-
+rics 2006;117:e1213-e1222.
+
+Hyttel-Sorensen S, Austin. T, van Bel F, Bend-
+ers. M, Claris. O,. Dempsey. E,. Fumagalli M,
+Gluud. C, Hagmann. C, Hellstrém-Westas. L,
+Lemme rs P, Naulaers G, van Oeveren W, Pel-
+licer A, Pichler G, Roll C, Saem Stoy L, Grei-
+sen G: Clinical use. of cerebral oximetry. in ex-
+tremely. preterm infants is feasible. Dan Med.
+J.2013;60:A4533.
+
+Skov L, Pryds O: Capillary recruitment for
+prevention of cerebral glucose influx in hypo-
+glycemic, preterm. newborns: evidence for. a
+glucose sensor? Pediatrics. 1992;90:193-195..
+
+Pellicer et al.
+
+GZ0Z 48q0}90 60 UO ysanB Aq Jpd'gpELGEOOO/9PLEETE/LLL/E/POL 4Pd-alo1We/OaU/WOosJabie>//:d}jYy WO papeojuMoq

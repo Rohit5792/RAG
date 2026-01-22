@@ -1,0 +1,1520 @@
+— — PAGE 1 — —
+ydiuosnuey Jouiny yduosnuey\ souny }diosnuey Jouiny
+
+yduosnuey souiny
+
+ALTH
+e WEALTH @ ,
+
+SERVIC
+
+v
+%
+“tavaaa
+
+~» — HHS Public Access
+S¢
+
+Author manuscript
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+
+Published in final edited form as:
+Contemp Clin Trials. 2022 November ; 122: 106935. doi:10.1016/j.cct.2022.106935.
+
+Acceptability of an intravaginal ring for simultaneously
+preventing HIV infection and pregnancy: Qualitative findings of
+the Kisumu Combined Ring Study, 2019
+
+Eleanor McLellan-Lemal?, Stacie R. Deaton®’, Joshua E. Betts®, Ken Ondenge*®, Victor
+Mudhune*, Siobhan M. O’Connor’, Beatrice Nyagol°, Andrea R. Thurman“, Gustavo F.
+Doncel®, Shannon A. Allen®, Renee Heffron‘, Nelly R. Mugo’9, Kisumu Combined Ring
+Study (KCRS) Team
+
+aCenters for Disease Control and Prevention, National Center for HIV/AIDS, Viral Hepatitis, STD,
+and TB Prevention, Division of HIV/AIDS Prevention, Atlanta, GA, USA
+
+DICF, Atlanta, GA, USA
+
+°Kenya Medical Research Institute, Center for Global Health Research, Kisumu, Kenya
+4CONRAD, Eastern Virginia Medical School, Norfolk, VA, USA
+
+®United States Agency for International Development, Washington, DC, USA
+
+‘University of Washington, Department of Global Health, International Clinical Research Center,
+Seattle, WA, USA
+
+9IKenya Medical Research Institute, Center for Clinical Research, Nairobi, Kenya
+
+Abstract
+
+Multipurpose prevention technology intravaginal rings (MPT IVRs) may offer a promising
+solution for addressing women’s multiple sexual and reproductive health needs. We describe
+MPT IVR acceptability perspectives and examine user experiences of 25 cisgender women
+aged 18—34 years enrolled in a phase Ila randomized, partially blinded, placebo-controlled
+
+“Corresponding author at: ICF 2635 Century Center Parkway, Suite 1000, Atlanta, GA 30329, USA. snd0@cdc.gov (S.R. Deaton).
+Author contribution(s)
+
+Eleanor McLellan-Lemal (EML), Stacie R. Deaton (SD), Joshua E. Betts (JB), Ken Ondenge (KO), Victor Mudhune (VM), Siobhan
+M. O’Connor (SO), Beatrice Nyagol (BN), Andrea R. Thurman (AT), Gustavo F. Doncel (GD), Shannon A. Allen (SA), Renee
+Heffron (RH), and Nelly R. Mugo (NM) authors were significantly involved intellectually in the drafting, revising, and finalization of
+this article.
+
+EML, SO, GD, NM, RH, and VM contributed significantly to the conceptualization and development of the research study, study
+implementation, and critical review of this manuscript.
+
+EML, SD, JB, VM, BN, and KO were involved significantly in the analysis and/or interpretation of data.
+
+VM, NM, BN, and KO were involved substantially in the acquisition of data and administration of the study.
+
+EML, SC, and SA were significantly involved in the oversight of the award for this project.
+
+AT and GD provided oversight of biomedical technology and adverse events.
+
+Disclaimer statement
+The contents in this article are the sole responsibility of the authors and do not necessarily reflect the official position of the
+institutions, CDC, USAID, PEPFAR, and/or the United States Government.
+
+Financial conflicting interests statement
+The authors declare no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Non-financial competing interests statement
+The authors declare that they have no non-financial competing interests.
+— — PAGE 2 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al. Page 2
+
+evaluation of tenofovir-based IVRs with and without contraceptive co-formulation. All took part
+in an individual, audio-recorded, semi-structured qualitative interview. A thematic analysis of
+transcribed interviews was completed in MaxQDA. Participants shared little to no knowledge of or
+experience with IVRs prior to joining the study. Four MPT IVR themes were identified: physical
+well-being, method reliability, personal management, and societal endorsement. Commonly cited
+of concern, but less described as being experienced, were physical discomforts (e.g., painful
+insertion/removal; inability to carry out daily activities/chores; foreign body sensation; expulsion;
+sexual interference, or debilitating side effects). Uncertainty regarding efficacy influenced
+perspectives about intended prevention benefits. Personal choices in managing reproduction and
+sexual behaviors had to be congruent with sociocultural values and norms for acceptance beyond
+the individual user level. Participants viewed broader community acceptance as likely to be mixed
+given community opposition to the use of modern family planning methods. They also shared
+concerns that IVR use could lead to infertility, especially among nulliparous women, or that
+
+it would encourage premarital sex or high-risk sexual behaviors among adolescent and young
+women. While a MPT IVR may not be suitable for all women, first-hand testimonials could help
+influence collective receptivity. Additional community acceptability research is needed.
+
+Clinical Trial Registration—The study is registered at http://ClinicalTrials.gov under the
+identifier NCT03762382.
+
+Keywords
+
+HIV prevention; Multipurpose intravaginal rings; Acceptability; User experience; Women; Kenya
+
+1. Introduction
+
+For sexually active women of reproductive age, reducing risks for human immunodeficiency
+virus (HIV) infection, other sexually transmitted infections (STIs), and unintended
+pregnancy remain public health priorities, especially in high prevalence settings. While
+condoms are effective in preventing pregnancy, HIV, and some STIs, partner agreement with
+correct and consistent use are required. Multipurpose technologies (MPTs) offer a promising
+solution to simultaneously address women’s sexual and reproductive health prevention needs
+[1]. Given that women have different preferences and circumstances, MPT products include
+a variety of drug configurations (some with hormones), delivery methods, designs, and
+indications or purposes [2]. Among 24 MPT products currently in development or testing,
+
+16 are used vaginally (e.g., vaginal gels, films), with intravaginal rings (I[VRs) accounting
+for a little over half of the vaginal MPTs [2]. The availability of a single, multi-indication,
+user-friendly, and discreet prevention product may also help reduce stigma associated with
+use of existing HIV and STI or pregnancy prevention options, increase product acceptability
+and adherence, and provide consumer cost-savings [3]. Market research suggests women in
+sub-Saharan Africa would prefer MPTs offering simultaneous protection against HIV and
+unintended pregnancy, rather than separate methods [4].
+
+Daily oral pre-exposure prophylaxis with tenofovir disoproxil fumarate/emtricitabine (daily
+oral PrEP) can effectively prevent HIV among women at-risk of infection [5]; however,
+behavioral, social, and structural factors may have a role in limiting awareness and uptake of
+daily oral PrEP among women globally [6,7]. Recently, a dapivirine IVR [8] and long-acting
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 3 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 3
+
+injectable cabotegravir [9] were found to be safe and effective for HIV prevention in
+cisgender women aged 18 years or older. Like daily oral PrEP, these two non-MPT products
+do not offer a more holistic sexual and reproductive health approach for women.
+
+Studies of acceptability of HIV prevention technologies are plentiful [10]. A systematic
+review of MPT IVR acceptability among women in 25 low- and middle-income countries,
+including 17 sub-Saharan African countries, suggests high acceptability but platform
+preferences may not be generalizable within or across age groups and settings [11]. Given
+the potential complexities of MPT IVR acceptance and uptake, available lessons learned
+from daily oral PrEP [12,13] and contraception [14,15] should be considered. A systematic
+review and meta-analysis of IVRs for HIV or pregnancy prevention found IVRs acceptable
+among most women who used it but received low hypothetical acceptability among non-IVR
+users [16]. Qualitative research (acceptability and user experience studies) may enhance our
+understandings of intended users’ needs, preferences, circumstances and concerns, and to
+gain insights on contextual factors that may influence decision-making and action-taking.
+We describe acceptability perspectives and personal experiences of Kenyan women enrolled
+in a phase IIa clinical trial.
+
+2. Material and methods
+
+Study design
+
+A phenomenological, lived experience theoretical framework was used for our qualitative
+research design [17,18]. This approach examines individuals’ narratives of personal feelings
+and experiences related to a specific event, space, or object (things) with the aim of being
+able to understand and describe its “essence” (i.e., the essential structure of meaning)
+[17,18]. Research participants are asked to reflect on a specific experience they have already
+lived through. Our focus was on the lived experience of using an investigational IVR that
+might prevent both HIV and pregnancy.
+
+2.2. Sample
+
+Our qualitative sample was derived from women taking part in a phase Ia randomized,
+partially blinded, placebo-controlled IVR clinical trial (henceforward referred to as the
+Kisumu Combined Ring Study (KCRS)). All KCRS participants were eligible to take
+
+part in a one-time, individual, audio-recorded qualitative interview. The duration of study
+IVR use depended on each participant’s date of enrollment relative to the August 2019
+expiry date for all study IVRs. Hence, qualitative interviews corresponded with participant-
+level completion of study IVR removals following one, two, or three menstrual cycles,
+respectively.
+
+2.2.1. Brief Kisumu combined ring study overview—KCRS evaluated the safety,
+pharmacokinetics, pharmacodynamics, markers of tolerability, and acceptability of two types
+of 90-day continuous delivery tenofovir (TFV)-based IVRs for HIV prevention with and
+without pregnancy prevention at one clinical research site in Kisumu, Kenya. It enrolled
+healthy women aged 18-34 years who scored <4 on the validated Vaginal and Oral
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 4 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 4
+
+Interventions to Control the Epidemic (VOICE) HIV risk assessment tool [19]. KCRS
+clinical trial analyses and results are being published elsewhere.
+
+Briefly, trial participants were randomized (2:2:1) to use one of the three [VRs: a TFV-alone
+IVR; a TFV/levonorgestrel (LNG) IVR, or a placebo IVR. Insertion and removal of IVRs
+was performed by a study clinician. The study clinic staff and participants were blinded
+
+to the randomization assignments; however, the trial was partially blinded because the
+TFV/LNG IVR appeared different from the TFV-only IVR. Although the TFV/LNG and
+placebo IVRs appeared the same, study clinicians may have been able to detect differences
+in the IVRs during insertion and removal. All participants visually inspected and briefly
+practiced self-insertion and removal of a placebo study IVR before randomization following
+standard biosafety and operation procedures. At all study visits, participants received non-
+spermicidal male condoms (as needed), HIV and pregnancy risk reduction counseling, and
+discussion of any potential side effects of using the IVRs. Participants were provided with
+24-h telephone phone number to report all medical occurrences whether or not they were
+product related. Additionally, general health and genital examinations were completed at
+each study visit and participants were asked to document in a guidebook and to report all
+side-effects experienced. Clinical evaluation and management of side effects were handled
+separately from the qualitative interview. Participants randomized to use the TFV/LNG IVR
+might have also experienced changes in menstrual bleeding due to possible LNG-induced
+anovulatory cycles or breakthrough bleeding. Blinding was maintained until 1) the last
+enrolled participant had completed follow-up, 2) all endpoint data were entered into the
+study database, and 3) these data were verified as ready for final analysis. Planned [VR
+removal varied depending on each participant’s date of enrollment and ranged from one to
+three menstrual cycles.
+
+2.3. Data collection
+
+The Scientific and Ethical Review Unit of the Kenya Medical Research Institute and an
+institutional review board at the University of Washington reviewed and approved the study
+protocol, written informed consent, and the interview guide. Qualitative interviews were
+conducted using a semi-structured interview guide to gather trial participants’ perspectives
+on the acceptability of a MPT IVR and to describe their IVR lived experiences. Data were
+collected from April 2019 to August 2019. Participants received 1000 Kenya Shillings
+(approximately $10 USD) for taking part in the qualitative interview.
+
+Two interviewers with language proficiency in English, Kiswahili, and Dholuo used a
+semi-structured interview guide in the language preference of each participant. Interviewers
+were part of a community mobilization team and were not involved in the clinical care of
+any participants. The English interview guide developed by the research team underwent
+Swahili and Dholuo translation and interviews of non-English speaking participants were
+translated into English by Kisumu team members. Table 1 provides questions specific to this
+analysis (i.e., the textual data set). Written consent in the participant’s preferred language
+(English, Kiswahili, or Dholuo) to take part in a qualitative interview was obtained as part of
+trial enrollment. Before conducting the qualitative interview, a verbal re-consenting process
+was completed.
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 5 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 5
+
+To describe the qualitative sample, we used demographic and behavioral data collected at
+clinical trial screening via electronic case report forms and IVR data were collected post
+enrollment. Variables are described below.
+
+2.4. Data analysis
+
+All audio recordings underwent transcription in preparation for thematic analysis. The
+
+local study team completed an English translation and transcription for each non-English
+audio recording. Each transcript was reviewed for accuracy against its audio recording by
+the original interviewer. Codebook development closely followed the approach described
+
+by MacQueen, et al. [20] A systematic, iterative, and inductive thematic analysis method
+was applied. Specifically, the process outlined by Braun and Clarke [21] was used to
+perform the thematic analysis. Coding and analysis of each English-based transcript was
+done in MaxQDA (VERBI Software, GmbH, Berlin, Germany, 2018). Thomas and Harden’s
+[22] coding consistency approach was used to verify coding. Each transcript underwent
+independent coding by three analysts (EML, SD, and JB), which was followed by group
+discussions of overlaps and divergences, to resolve coding differences, and to update the
+MaxQDA analysis project. Coding constructs, analytical scheme, and thematic findings were
+reviewed independently by three in-country authors (KO, BN, and VM) overseeing the data
+collection.
+
+Given that key themes were multi-faceted, representational elements of participants’ views
+and lived experiences, they were not firmly quantifiable, fixed, or ordered. Descriptive
+indicators (e.g., common, shared, occasional, rare, unique) were used to present thematic
+findings. To reduce the possibility of inadvertent participant identification, quotes do not
+include participant demographic or behavioral details. To avoid too many quotes from a
+single participant, we limited each interview to a maximum of two quote extractions. We
+followed Roller and Lavrakas’ approach for selecting quotes that best help to illustrate our
+key data interpretations [23]. In selecting divergent views, quotes selection was often limited
+to a few participants or a singular one. It should also be noted that quotes were not extracted
+from all interviews. Quotes selected to illustrate a particular finding may include information
+on other thematic constructs.
+
+Descriptive statistics summarizing demographic information collected at study screening
+(age, highest level of education), participant behaviors at screening (sexually active in
+
+the past 3 months, family planning use in past 6 months), and post-IVR insertion data
+(randomization arm, days of IVR use, IVR discontinuation before end of study IVR
+removal) were calculated using SAS 9.4 (SAS Institute Inc., Cary, NC, USA). Family
+planning methods response options included none, hormonal or non-hormonal intrauterine
+devices, implants, injectables, male or female condoms, and natural methods, such as
+withdrawal or rhythm method.
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 6 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 6
+
+3. Results
+
+3.1. Sample characteristics
+
+Twenty-five out of the 27 trial enrollees consented to take part in a qualitative interview.
+Ten had been randomized to the TFV-only IVR arm, 10 to the TFV/LNG arm, and 5 to the
+placebo arm. Reasons for declination were not collected from the two enrollees who did not
+complete a qualitative interview.
+
+While 36.0% of the participants had fully completed planned IVR use before taking part
+
+in a qualitative interview, none had undergone intervention arm unblinding. As shown in
+Table 2, the mean participant age was 21.9 years (range 18-34 years) and 68.0% reported
+having completed secondary education or higher. At screening, more than half (64.0%)
+reported having been sexually active in the past 3 months. Overall, 88.0% of the qualitative
+interview sample reported that they had not used any family planning method over the past
+6 months. No HIV seroconversions took place. The median days of IVR use was 70 (range
+16 to 92 days). Five of the qualitative interview participants (24.0%) discontinued IVR use
+earlier than planned. One participant reported experiencing vulvovaginitis and repeated IVR
+dislodgment.
+
+3.2. Key themes
+
+Figs. 1 and 2 display the thematic classifications applied to recurrent types of information
+shared by participants. Our analysis identified four themes with one or more intersections
+(or co-occurrences) related to MPT IVR acceptability: 1) physical well-being; 2) method
+reliability: 3) personal management, and 4) societal endorsement. For societal endorsement,
+we further found that that if a MPT IVR was incongruent with either sociocultural
+reproductive management practices or sexual norms, broader community acceptance was
+unlikely.
+
+3.2.1. Physical well-being — Participants commonly expressed that they had little to no
+prior knowledge of IVRs before study recruitment activities took place in their communities.
+Participant recall of their initial reactions to [VR use focused on physical well-being fears
+that emphasized the likelihood of painful vaginal insertion and removal of the IVR; non-
+tolerability with prolonged use; physical discomfort (unnatural or foreign body sensation);
+the potential for the IVR to fall out or move within the body and possibly require
+
+surgical removal; disruption in women’s daily activities or inability to perform chores;
+non-acceptance by the participant’s significant others; the IVR being felt during sex, and
+concerns regarding infertility or other side effects that were comparable to or worse than
+those experienced with modern family planning methods.
+
+“The first time I heard about the ring I was not willing to use it. I was afraid that
+maybe it had side effects and maybe it could cause infertility for someone who has
+not delivered.... As for me I was scared since I thought even my parents would not
+allow me to use it and my partner too. So, the first time I heard about it, I told them
+give me time and that I was still going to think about it and ask my partner. If they
+were comfortable with it, then I would contact you.”
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 7 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 7
+
+(60-day user randomized to TFV-only IVR).
+
+Some participants expressed that overall safety of a MPT IVR was not a concern given
+
+that they had been assured by study staff that the government would not “a//ow something
+harmful to come to Kenya”. However, for a small minority of participants this translated
+
+to mean that the study IVRs had no side effects. With minor exceptions, participants
+described their [VR use experiences as positive (e.g., “very much okay”, “very satisfied”,
+“very happy”, “T loved it’). Feelings toward the IVR following actual use were depicted in
+terms of contentment (pleased with product) or discontentment (displeased with product).
+Product contentment was predominately attributed to having little to no side effects,
+physical discomfort, hindrance of daily activities, interference with sexual activities, or IVR
+expulsion. Some participants emphasized the benefit of not feeling the IVR and the ability to
+forget that it was in place.
+
+“Sometimes I would not even be thinking about having the ring, but they [friends]
+would ask me how I was feeling on that day the way girls love to joke. I would ask
+them what they were talking about, and they would tell me to stop pretending. At
+that point they would remind me that I was wearing the ring and that was when I
+would remember that I had the ring and tell them I was not feeling anything. They
+would then accuse me of lying to them.”
+
+(30-day user randomized to the TFV/LNG IVR).
+
+Overall, participants indicated that study IVR side effects were temporary or manageable.
+While increased vaginal discharge was described by participants from each IVR group,
+mention by those randomized to the TFV/LNG IVR was more common. Participants
+indicated that increased vaginal wetness made daily use of pantyliners (provided by the
+study) necessary. They stated that the potential for increased vaginal wetness had been
+explained to them early on, so they felt prepared for it to occur. Despite considering
+
+the study IVR better than other contraceptive methods, one participant expressed product
+discontentment:
+
+“The one [side effect] that I experienced that I was not happy about is that I was so
+much wet every now and then.”
+
+(30-day user randomized to the TFV/LNG IVR).
+
+Concerns commonly noted by participants before IVR insertion included menstrual cycle
+suppression or increased bleeding. After initiating IVR use, abnormal vaginal bleeding (e.g.,
+between cycle spotting, heavy menstrual flow) was occasionally described by participants.
+Heavy or prolonged menstrual cycles were rare. Lighter, and shorter menstrual cycles
+
+were reported by some participants. Participants did not express if lighter bleeding and
+shorter menstrual days were preferred. Those with a prior hormonal contraceptive history,
+commonly freely elicited assessments that the IVR made their periods “normal”.
+
+“My menses are shorter unlike before it was 5 [days] then it reduced to 3 [days]
+and this is less. I mean the flow is not heavy like before I would get heavy periods.
+When you are on your period, I could wear a pad early in the morning then by 6:30
+have to change. Right now, if I wear a pad at 7:00 in the morning, I can wear it up
+to 1:30 pm and then you change and get a fresh one at night.”
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 8 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 8
+
+(90-day user randomized to TFV/LNG IVR).
+
+Among the occasional participants who reported experiencing side effects associated with
+study IVRs, some indicated that the side effects diminished over time, while others
+encountered the same side effect or set of side effects throughout the study IVR use period.
+In some cases, side effects perceived to be related to IVR use may have been due to an
+undiagnosed medical condition (e.g., anemia as suggested by the quote below).
+
+“Okay the ring is good, but it has a lot of side effects for me. But I think now it is
+good because when we use it, it doesn’t hinder any of your activities. Okay, as in,
+you have something like craving for something —some foods, but it usually comes
+sometimes like you just feel like eating this, next week you feel like eating...chips/
+soil [dirt]. Yes, I mean odowa [a type of soft stone], cookies, the queen cakes and
+yoghurt. Okay you feel cold, and then you have an appetite for food, and then
+sometimes when you stand you feel like...I don’t know, something is pulling down
+something in your vagina. You feel like something is about to be expelled from
+your vagina. Then you feel like your breasts are enlarged and some pain on this
+sides, and sometimes you get a headache then it disappears. And you sleep a lot.”
+
+(90-day user randomized to TFV/LNG IVR).
+
+Along with the participant quoted above, a few participants described sensations of the IVR
+repositioning, slipping down, or slipping out of place.
+
+“One day, I felt as if it was hanging but it did not come out. I just washed my hands
+and I pushed it inside.... I pushed it in, and it did not come down again.”
+
+(30-day user randomized to TFV-only IVR).
+
+“The ring made me feel uncomfortable. The ring was inserted, and I was told to
+come back after one week. In the evening, I started feeling the ring and it turned out
+to be a routine that I kept positioning the ring every morning by pushing it upward.
+So, I do not know if this happened to everyone (laughs)....and that is why I think
+the ring was removed early.”
+
+(User randomized to TFV/LNG IVR who underwent
+IVR discontinuation within ~30 days).
+
+Participants otherwise indicated that the [VR remained in place despite their initial concerns
+that menses, physical activities, sex, or body elimination processes would expel it. Being
+able to feel the IVR created some physical discomfort to a few participants.
+
+“What bothered me after wearing the ring is just that I felt it.... I had abdominal
+pain. It was like it was moving. It was taking its position. You just feel like
+something is moving. I contacted them [study staff], and they told me that it was
+usual, and I would be just comfortable.”
+
+(60-day user randomized to TFV-only IVR).
+
+Despite frequent statements by participants by that side effects would greatly influence [VR
+acceptance, descriptions regarding side effect reporting and management experiences were
+limited. While the majority of participants who experienced side effects stated that they “did
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 9 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 9
+
+as instructed” and sought out assistance from the study clinicians in managing their side
+effects, there was one participant who acknowledged inconsistent reporting.
+
+“Okay, there are some that I usually share with them, but they just saw that it is not
+an issue, and that they never heard from people, and I just keep quiet.”
+
+(90-day user, randomized to TFV/LNG IVR).
+
+Participant comments related to the IVR’s physical properties were rare. A few participants
+mentioned that they recalled having size concerns (i.e., “too big’) prior to using the study
+IVR. After experiencing IVR use, only one participant commented that the community may
+not accept an MPT IVR unless the size is made smaller.
+
+3.2.2. Method reliability — While participants acknowledged the unproven efficacy of
+study IVRs and spoke of being randomized to one of three rings, a few participants were
+unclear on the prevention aim of all the [VRs beyond there being one to prevent HIV. While
+unique, the design (“‘ wide open’) of the IVR raised pre-use questions for a few participants
+as to how the IVR worked or could be effective. Other participants either questioned how the
+drug would get released into their bodies from the IVR or if the [VR would be “a protective”
+delivery mode [i.e., would actually work in providing protection from pregnancy or HIV].
+
+In discussing acceptance, participants commonly framed their responses around a MPT
+IVR “helping women”, “saving lives” and “being useful’ and recommended that the IVR’s
+benefits be prominently highlighted. Participants indicated that questions or uncertainties
+regarding efficacy would nonetheless be present; however, such concerns could best be
+addressed by allowing users to share their experiences with the community at large or
+
+inviting women the opportunity to try it out for themselves.
+
+Some participants stressed the importance of not restricting use of a MPT IVR to particular
+groups. These participants highlighted the appropriateness of making an efficacious MPT
+IVR accessible to adolescent and young women. Conversely, other participants firmly
+maintained that a MPT IVR should not be used by women without a history of at least
+
+one childbirth or by those who are not yet married.
+
+“’.. [can just talk about how others were telling me. Like they were telling me that,
+“you know you are young, you are not supposed to wear that ring. That ring is for
+women with 5 children and above and you know you just have one. So, you are not
+supposed to wear it. So, you want to be a specimen and it will maybe cause you not
+to have children and yet you do not have children.’ So, I was worried.”
+
+(User randomized to TFV-only IVR who underwent IVR
+removal within~30 days).
+
+Participants explained that the availability of an IVR for preventing HIV infection would
+help alleviate societal and personal HIV burdens, especially given that there is no available
+cure for HIV. Concerns for the welfare of children who had one or both parents die
+
+from HIV were common. The idea of a MPT IVR providing an effective method for
+avoiding unplanned pregnancy, especially among adolescent girls and young women, was
+generally viewed favorably (e.g., supports child spacing, improves health and socioeconomic
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 10 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al. Page 10
+
+outcomes for women and their children). This was also considered potentially controversial
+given personal and hearsay accounts of side effects due to family planning methods and
+viewpoints that family planning methods could cause infertility or negative birth outcomes.
+Participants also indicated that a MPT IVR would help get around needing to use a condom
+or convincing a sexual partner that condoms were necessary. The need to combine condom
+use with a MPT IVR to prevent STIs was rarely mentioned.
+
+Participants often spoke of an accidental HIV exposure (e.g., needle stick, coming into
+contact with an injured person’s blood, unknown HIV status of a sexual partner) or
+pregnancy resulting from non-consensual sex. Hence, a MPT IVR was viewed as being
+highly beneficial in the context of physically forced or unwanted [tricked, manipulated, or
+coerced] sex, having an HIV-positive partner, or having a sexual partner who engaged in
+sexual behaviors that placed a woman at increased risk for HIV infection. Although not
+
+a property of MPT IVRs, a few women believed that a MPT IVR would also afford men
+protection.
+
+“*’..you know there are different kinds of men. There are people who are rude, they
+will reject it, but you are the one who is supposed to tell the person how it is going
+to help him, not only the woman but also him, because even for him, she cannot tell
+what he does when he is out there. And if she has it [the IVR], if the man goes out
+there to be with other partners, he will still not get infected.”
+
+(90-day user randomized to TFV-only IVR).
+
+3.2.3. Personal management—A commonly perceived benefit of a MPT IVR centered
+on avoiding daily medication necessary to either treat or prevent HIV. Along with a MPT
+IVR being longer acting than oral contraceptives, it was viewed as less burdensome (no
+
+need to remember to take daily) given that the user could potentially insert and remove the
+IVR, especially if pregnancy was desired or side effects were problematic. A minority of
+participants mentioned that a drawback of the user removing the MPT IVR for any reason
+was the immediate absence of protection. One participant shared that curiosity led her to
+remove the study IVR temporarily to observe changes in the device. Of note, while all study
+IVRs remained the same size when inside and outside of the vagina, this participant held that
+environmental-related expansion and contraction differences were observed.
+
+“{I] wanted to see if the drugs were getting absorbed or they were just constant...
+the drugs were still there though they had moved a bit. And again, the more it stays
+inside is the more it continues to swell and when you remove it. It resembles a
+tortoise that has just come out from water and shrinks. If the ring takes two hours
+outside the vagina it will reduce, that is how I know it.”
+
+(90-day user randomized to the TFV-only IVR).
+
+Participants indicated that having to expend less time and effort (e. g., travel time, time
+away from work, frequency of clinic visits) to access a MPT IVR through existing medical
+channels could further product appeal and acceptance. Participants stated that the fewer
+challenges a woman faced in using a MPT IVR, the better user compliance and adherence
+could potentially be for them. A MPT IVR was also described by some participants as
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 11 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 11
+
+having the added benefits of either minimizing or helping to overcome stigma (i.e., “won’t
+look down upon you’). They explained that unlike daily oral PrEP or contraceptives, such
+as oral pills or an implant, others in the community would not likely be aware that a woman
+was using a MPT IVR.
+
+Although all participants reiterated the dual HIV and pregnancy prevention in discussing
+a potential MPT IVR, they rarely explicitly stated (as illustrated by the quote below) that
+having two products in one offered convenience to the user, as opposed to having to use
+various products for each indication.
+
+“We can tell them the advantages of this method. It is one method, but it prevents
+two things. Instead of using this method, and again use the other one, I mean if it is
+a tablet, it is one tablet, but it prevents two things and it will be easy to use. If they
+accept this thing is something that after insertion it stays there until its expiry date,
+it is not something that is not inserted every day and you will not feel it, you will
+just be the same.”
+
+(60-day user randomized to TFV/LNG IVR).
+
+3.2.4. Societal endorsement— After initiating IVR use, participants commonly held
+that an IVR that simultaneously protected against HIV and pregnancy would be favorably
+received by others in the community. However, participants also acknowledged a stronger
+likelihood that receptivity within the community would be mixed and that it was mainly
+attributed to the contraceptive co-formulation of a MPT IVR. Participants shared that despite
+community recognition of the negative socioeconomic, health, interpersonal, and structural
+consequences of unplanned pregnancy, some sexual partners, family members, influential
+leaders, and decision-makers would be reticent to accept a MPT IVR. Participants noted
+that the hesitancy could be due to existing unfavorable attitudes toward modern family
+planning methods, including condoms. Often, family planning methods were described as
+being inconvenient, requiring compliance (on-time, every time) which was often difficult,
+and leading to potential side effects, such as heavy prolonged bleeding, the inability to
+conceive, and cervical cancer.
+
+User testimonial and endorsement by local health professionals were perceived to be
+essential in attaining community support. Opposition by family, friends, village elders,
+religious leaders, and others could discourage IVR knowledge and use. Men were described
+as less willing to accept a MPT IVR. In addition to the health and female sexuality
+concerns, any potential for diminished sexual interest or desires on a woman’s part or the
+IVR being felt during sex was perceived to limit acceptance by men. Participants stressed
+the importance of educating the community about MPT I'VR risks and benefits given the
+significant role that rumors, and misinformation could have on acceptance and permission
+by partners and family members to use it. Having a MPT I'VR that was tried and tested
+within the community was perceived to further foster support for the IVR.
+
+From a sociocultural perspective, a few participants shared that the IVR should only be used
+by women who had already given birth to one or more children, given the potential for the
+IVR to prevent them from having children in the future. Community members opposed to
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 12 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 12
+
+a MPT IVR were described as likely to focus on family planning concerns, to believe that
+an IVR would increase premarital and extramarital sexual activity, sexual promiscuity, and
+participation in transactional sex by women.
+
+“I know they cannot accept because there are side effects, there are people who
+believe that family planning causes cancer, so some people do not agree easily if
+they are not taught, and they understand. Again, you also find that some people
+believe that if you use family planning when you are still a girl/young woman, you
+cannot give birth; it is not easy for you to get a child later.”
+
+(90-day user randomized to TFV-only IVR).
+
+“But now if that method is made available it will make people not care they just...
+when they put that method on then they say that even if I do this I will not get this
+HIV and I will not become pregnant, they will be irresponsible. ...I mean it can lead
+young girls into doing bad things like being prostitutes because they know they will
+not become pregnant.”
+
+(90-day user randomized to TFV/LNG IVR).
+
+Pros and cons of being able to discreetly use an IVR without a partner’s knowledge were
+discussed by most participants. Non-acceptance by partners was often attributed to concerns
+regarding a woman’s fidelity.
+
+“Now it is better for a wife to be open and tell her husband that ‘the reason I am
+using this thing is because I want to protect our status and also to preserve our life
+plus our children’”.
+
+(90-day user randomized to Placebo IVR).
+
+Some participants informed their sexual partners about the IVR in advance given that
+study staff had indicated that male partners might be able to feel the IVR during sexual
+intercourse. Others opted not to disclose study IVR use to anyone, including their partners.
+Descriptions of partners being able to feel a study IVR were uncommon.
+
+4. Discussion
+
+This is the first lived experience qualitative study of women in sub-Saharan Africa
+evaluating an IVR with intended to prevent HIV and pregnancy. Our findings suggest that
+MPT IVR acceptance and user experience may be influenced under four broad themes:
+physical well-being, method reliability, personal management, and societal endorsement.
+Acceptance beyond the individual-user level may necessitate that personal choices in
+managing reproduction and sexual behaviors had to be congruent with sociocultural values
+and norms. HIV microbicide research has similarly shown that community [24,25] and
+partner acceptance [26] are critical in targeting prevention technologies for women.
+
+Our findings indicate participants’ recollections of their initial reactions about the study
+IVRs (i.e., their pre-use expectations) did not align with their actual lived experience of
+using the study IVRs. In a previous crossover study of four vaginal dosage forms, delivery
+by IVR increased the most in popularity between pre-insertion and after use interviews [27].
+Consistent with single-purpose IVR studies [11,28 ,29], we found that women were pleased
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 13 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 13
+
+with the IVR and experienced minimal side effects, physical discomfort, sexual interference,
+and expulsions. While not reported as problematic, increased vaginal wetness was present
+across study groups but more common among the TFV/LNG IVR group. Similar findings
+were reported for at least two US-based studies of HIV prevention-only IVRs [30,31].
+Longitudinal examination of changes in abundances of individual bacterial taxa for the
+KCRS trial showed no evidence that either the TFV/LNG or TFV IVR significantly affected
+a woman’s genital bacterial or diversity of Candida sp. [32] While increased vaginal
+discharge may not require treatment [33], it could negatively affect MPT IVR acceptance,
+uptake, and continued use.
+
+Consistent with other research, our participants expressed concerns about partner acceptance
+and negative partner reaction to feeling the IVR during sex [11,34,35]. The potential
+
+for unfavorable MPT receptivity given beliefs that contraception should not be used by
+nulliparous women in light of perceived potential fertility side effects has also been shown
+in other research [36,37]. Misperceptions that contraceptive drugs will lead to an inability
+for a woman to have children may also have broader negative social and psychological
+consequences [38]. Apprehensions about the potential for female sexual promiscuity and
+behavioral disinhibition have been addressed in oral PrEP studies with no indication that risk
+compensation occurred [39]. Further insights on the connection between the sociocultural
+context and MPT preferences and expectations would be useful. Limited research is
+available on the influence that perceived community norms [34] and spousal acceptance
+
+[35] may have on individual choices and decision making. Recent research on covert
+contraceptive use suggests that implants and injectables are preferred among married women
+in Kenya [40]. Systematic review of motivating factors for covert contraceptive use are
+largely accounted for by women’s misconceptions or side-effects, along with male partner
+disapproval, and fertility cultural beliefs/social expectations [41]. A qualitative study in three
+sub-Saharan African countries proposes that covert contraceptive use as an act of female
+disobedience within a patriarchal social system [42]. Tanner et al. [43] emphasize social
+context, in particular the idea that women’s bodies are shared space; this idea is important in
+positioning women’s microbicide product preferences. Conversely, a number of reproductive
+[44], sexual, and HIV treatment studies have shown that the sociocultural context supports
+
+a “my body, my choice” body ownership. Participants in our study frequently spoke of the
+influence that sexual partners, family, and others in the community made in their choices,
+including decisions on disclosing or not disclosing IVR use. While our study possibly hints
+at a key role partners, family, and community may have in MPT IVR acceptance, closer
+examination is warranted.
+
+5. Limitations
+
+Interviews with participants before IVR insertion may have been useful given the possibility
+that both recall issues and an epistemological shift due to actual [VR use may have made it
+challenging for participants to fully return to their initial pre-['VR use thoughts and concerns.
+Interviews with participants’ sexual partners were not conducted. Given the importance of
+participants’ perceptions of partner acceptance, future trials may benefit from collecting data
+from partners to better understand relationship factors supporting or hindering actual IVR
+use. The time point for conducting the qualitative interview differed for each participant,
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 14 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 14
+
+based on the IVR insertion date and IVR expiry date compelling removal. We, however, did
+not discern any thematic differences based on duration of IVR use. IVR use in our study
+relied heavily on clinician assistance and may have consequentially influenced positive
+perspectives toward and experiences with the study IVRs. Sparse details regarding side
+effect reporting and management may have been influenced by routine clinical trial inquiry
+regarding such events. Participants may have been reluctant to talk about side effects that
+had not been previously introduced or those that differed from their own family planning
+experiences or expectations. Social desirability as well as interviewer rapport may have also
+
+affected experiences shared.
+
+6. Summary
+
+In this study of women with experience using an IVR, acceptability was good and product
+contentment was common. Women speculated that a MPT IVR may not be suitable for
+
+all women, and that there may be non-acceptance by partners, family, and the community.
+While first-hand testimonials may help foster MPT IVR awareness, closer examination of
+broader community acceptance as well as the role of partners and family in decisions around
+MPT IVR use may be needed to develop appropriate education, messaging, and pathways
+
+for message delivery.
+
+Acknowledgements
+
+We extend our appreciation to the women who took part in the study, the broader Kisumu community, Jecinter A.
+Oruko, Isdorah Akoth Odero, and Eucabeth Awuonda for their roles in in the conduct of these interviews. A special
+thanks to Drs. Kenneth Ngure, Jeffrey Wiener, Elizabeth Bukusi, and Taraz Samandari for their technical guidance
+and support.
+
+Funding statement
+
+This work was supported by the United States Centers for Disease Control and Prevention (CDC) and the United
+States Agency for International Development (USAID, under the U.S. President’s Emergency Plan for AIDS
+Relief (PEPFAR)) through cooperative agreement U01PS005183, 2017-2021 (registered at http://ClinicalTrials.gov
+under the identifier NCT03762382), and was made possible by the support of the American people through
+
+these governmental agencies and programs. Funding from USAID’s Cooperative Agreements with CONRAD/
+Eastern Virginia Medical School (AID-OAA-A-14-00010 and AID-OAA-A-14-00011) was used to support the
+manufacturing and clinical qualification of the intravaginal rings and CONRAD’s personnel time and effort.
+
+Data availability statement
+
+Abbreviati
+
+The data that support the findings of this study are available from the CDC but restrictions
+apply to the availability of these data, which were used under license for the current study,
+so are not publicly available. Data are, however, available from the authors upon reasonable
+
+request and with permission of CDC.
+
+ons:
+CDC United States Centers for Disease Control and Prevention
+HIV Human immunodeficiency virus
+IVR Intravaginal ring
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 15 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 15
+KCRS Kisumu Combined Ring Study
+
+LNG Levonorgestrel
+
+MPTs Multipurpose prevention technologies
+
+PrEP Pre-exposure prophylaxis for HIV infection
+
+STIs Sexually transmitted infections
+
+TEV Tenofovir
+
+US United States
+
+USAID United States Agency for International Development
+USD United States dollars
+
+VOICE Vaginal and Oral Interventions to Control the Epidemic
+
+References
+
+1]. Brady M, Manning J, Lessons from reproductive health to inform multipurpose prevention
+technologies: don’t reinvent the wheel, Antivir. Res 100 (Suppl) (2013) S$25-S31, 10.1016/
+j.antiviral.2013.09.019. [PubMed: 24188700]
+
+2]. Coalition Advancing Multipurpose Innovations (CAMI), MPT Product Development Database,
+Public Health Institute, Sacramento, CA, 2022. http://mpts101.org/mpt-database/mpts-gels.
+Accessed December 4, 2020.
+
+3]. Abdool Karim SS, Abdool Karim Q, Kharsany AB, et al. , Tenofovir gel for the prevention
+of herpes simplex virus type 2 infection, N. Engl. J. Med 373 (6) (2015) 530-539, 10.1056/
+NEJMoal410649. [PubMed: 26244306]
+
+4]. El-Sahn M, Lucas J, Aikenhead M, et al. , Understanding the potential for multipurpose
+prevention of pregnancy and HIV: Results from surveys assessing four hypothetical concept
+profiles of multipurpose prevention technologies (MPTs) in Uganda, Nigeria and South
+Africa: AVAC: Global Advocacy for HIV Prevention. http://www.theimpt.org/documents/
+UnderstandingPotentialMPT-HIVpregnancy.pdf, 2016.
+
+5]. Thomson KA, Baeten JM, Mugo NR, et al. , Tenofovir-based oral PrEP prevents HIV infection
+among women, Curr. Opin. HIV AIDS 11 (1) (2016) 18, 10.1097/COH.0000000000000207.
+[PubMed: 26417954]
+
+6]. Bradley E, Forsberg K, Betts JE, et al. , Factors affecting pre-exposure prophylaxis implementation
+for women in the United States: a systematic review, J. Women’s Health 28 (9) (2019) 1272-
+1285, 10.1089/jwh.2018.7353.
+
+7]. Warren EA, Paterson P, Schulz WS, et al. , Risk perception and the influence on uptake and use
+of biomedical prevention interventions for HIV in sub-Saharan Africa: a systematic literature
+review, PLoS One 13 (6) (2018), 10.1371/journal.pone.0198680.
+
+8]. Nel A, Kapiga S, Bekker LG, Devlin B, Borremans M, Rosenberg Z for the IPM 027/The
+ring study research center teams. Safety and efficacy of dapivirine vaginal ring for HIV-1
+prevention in African women (Abstract #110LB), CROI, Boston, MA. [abstract], 2016, 2020
+February 22-25, https://www.croiconference.org/abstract/safety-and-efficacy-dapivirine-vaginal-
+ring-hiv-1-prevention-african-women. Accessed July 26 2021.
+
+[9]. World Health Organization (WHO), Trial results reveal that long-acting
+
+injectable cabotegravir as PrEP is highly effective in preventing HIV
+
+acquisition in women, World Health Organization Newsletter, Geneva,
+
+2022. https://www.who.int/news/item/09- 11-2020-trial-results-reveal-that-long-acting-injectable-
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 16 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+[10].
+
+[11].
+
+[12].
+
+[13].
+
+[14].
+
+[15].
+
+[16].
+
+[17].
+[18].
+
+[19].
+
+[20].
+
+[21].
+
+[22].
+
+[23].
+
+[24].
+
+[25].
+
+[26].
+
+[27].
+
+[28].
+
+Page 16
+
+cabotegravir-as-prep-is-highly-effective-in-preventing-hiv-acquisition-in-women. Accessed
+November 10 2020.
+
+Beckham SW, Crossnohere NL, Gross M, Bridges JF, Eliciting preferences for HIV
+prevention technologies: a systematic review, Patient 14 (2) (2021 Mar) 151-174, 10.1007/
+s40271-020-00486-9. |[PubMed: 33319339]
+
+Griffin JB, Ridgeway K, Montgomery E, et al. , Vaginal ring acceptability and related preferences
+among women in low- and middle-income countries: a systematic review and narrative synthesis,
+PLoS One 14 (11) (2019), e0224898, 10.137 1/journal.pone.0224898. [PubMed: 31703094]
+
+Celum C, Baeten J, PrEP for HIV prevention: evidence, global scale-up, and emerging options,
+Cell Host Microbe 27 (4) (2020) 502-506, 10.1016/j.chom.2020.03.020. [PubMed: 32272075]
+
+Eakle R, Venter F, Rees H, Pre-exposure prophylaxis (PrEP) in an era of stalled HIV prevention:
+can it change the game? Retrovirology 15 (1) (2018) 29, 10.1186/s12977-018-0408-3. [PubMed:
+29609619]
+
+Delany-Moretlwe S, Mullick S, Eakle R, et al. , Planning for HIV preexposure prophylaxis
+introduction: lessons learned from contraception, Curr. Opin. HIV AIDS 11 (1) (2016) 87-93,
+10.1097/coh.0000000000000221. [PubMed: 26575146]
+
+Seidman D, Weber S, Carlson K, et al. , Family planning providers’ role in offering PrEP to
+women, Contraception 97 (6) (2018) 467-470, 10.1016/j.contraception.2018.01.007. [PubMed:
+29408284]
+
+Mayo AJ, Browne EN, Montgomery ET, Torjesen K, Palanee-Phillips T, Jeenarain N, Seyama
+L, Woeber K, Harkoo I, Reddy K, Tembo T, Acceptability of the dapivirine vaginal ring for
+HIV-1 prevention and association with adherence in a phase III trial, AIDS Behav. 25 (8) (2021)
+2430-2440, 10.1007/s10461-021-03205-z. [PubMed: 33713213]
+
+Moustakas C, Phenomenological research methods, Sage, Thousand Oaks, CA, 1994.
+
+van Manen M, Researching lived experience: Human science for an action sensitive pedagogy,
+SUNY Press, New York, NY, 1990.
+
+Balkus JE, Brown ER, Palanee-Phillips T, et al. , Performance of a validated risk score to predict
+HIV-1 acquisition among African women participating in a trial of the dapivirine vaginal ring,
+JAIDS 77 (1) (2018), e8, 10.1097/QAI.000000000000 1556. [PubMed: 28961677]
+
+MacQueen KM, McLellan E, Kay K, Milstein B, Codebook development for team-based
+qualitative analysis, Cam. J 10 (2) (1998) 31-36.
+
+Braun V, Clarke V, Using thematic analysis in psychology, Qual. Res. Psychol 3 (2) (2006)
+77-101, 10.1191/1478088706qp0630a.
+
+Thomas J, Harden A, Methods for the thematic synthesis of qualitative research in systematic
+reviews, BMC Med. Res. Methodol 8 (1) (2008) 45, 10.1186/1471-2288-8-45. [PubMed:
+18616818]
+
+Roller MR, Lavrakas PJ, Applied Qualitative Research Design: A Total Quality Framework
+Approach, Guilford Press, New York, 2015.
+
+Domanska CA, Teitelman AM, Factors that affect acceptance of HIV microbicides among
+women, Collegian 19 (2012) 23-32, 10.1016/j.colegn.2011.09.006. [PubMed: 22482279]
+Nuttall J, Microbicides in the prevention of HIV infection, Drugs 70 (2010) 1231-1243,
+10.2165/10898650-000000000-00000. [PubMed: 20568831]
+
+Lanham M, Wilcher R, Montgomery ET, et al. , (2014), engaging male partners in women’s
+microbicide use: evidence from clinical trials and implications for future research and
+microbicide introduction, J. Int. AIDS Soc 17 (2014) 19159, 10.7448/TAS.17.3.19159. [PubMed:
+25224618]
+
+Montgomery ET, Beksinska M, Mgodi N, et al. , End-user preference for and choice of
+
+four vaginally delivered HIV prevention methods among young women in South Africa and
+Zimbabwe: the Quatro clinical crossover study, J. Int. AIDS Soc 22 (5) (2019 May), 10.1002/
+jia2.25283 e25283. [PubMed: 31069957]
+
+Montgomery ET, van der Straten A, Chitukuta M, et al. , Acceptability and use of
+a dapivirine vaginal ring in a phase III trial, AIDS 31 (8) (2017) 1159-1167, 10.1097/
+qad.0000000000001452. [PubMed: 28441175]
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 17 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+[29].
+
+[30].
+
+[31].
+
+[32].
+
+[33].
+
+[34].
+
+[35].
+
+[36].
+
+[37].
+
+[38].
+
+[39].
+
+[40].
+
+[41].
+
+[42].
+
+[43].
+
+[44].
+
+Page 17
+
+van der Straten A, Browne EN, Shapley-Quinn MK, et al. , First impressions matter: how
+initial worries influence adherence to the dapivirine vaginal ring, JAIDS 81 (3) (2019) 304-310,
+10.1097/QAI.0000000000002028. [PubMed: 30844995]
+
+Watnick D, Keller MJ, Stein K, et al. , Acceptability of a tenofovir disoproxil fumarate vaginal
+ring for HIV prevention among women in new York City, AIDS Behav. 22 (2) (2018) 421-436,
+10.1007/s10461-017-1962-8. [PubMed: 29147810]
+
+van der Straten A, Panther L, Laborde N, et al. , Adherence and acceptability of a multidrug
+vaginal ving for HIV prevention in a phase I study in the United States, AIDS Behav. 20 (11)
+(2016) 2644-2653, 10.1007/s10461-016-1299-8. [PubMed: 26837628]
+
+Dabee S, Mugo N, Mudhune V, et al. , Genital microbiota of women using a 90 day tenofovir or
+tenofovir and levonorgestrel intravaginal ring in a placebo controlled randomized safety trial in
+Kenya, Sci. Rep 12 (2022) 12040, 10.1038/s41598-022-13475-9. [PubMed: 35835755]
+
+Lete I, Cuesta MC, Marin JM, et al. , Vaginal health in contraceptive vaginal ring users—a review,
+
+Eur J Contracept Reprod Health Care 18 (4) (2013) 234-241, 10.3109/13625187.2013.801954.
+[PubMed: 23790132]
+
+Dynes M, Stephenson R, Rubardt M, et al. , The influence of perceptions of community norms
+on current contraceptive use among men and women in Ethiopia and Kenya, Health Place 18 (4)
+(2012) 766-773, 10.1016/j.healthplace.2012.04.006. [PubMed: 22579117]
+
+Lasee A, Becker S, Husband-wife communication about family planning and contraceptive use in
+Kenya, Int. Fam. Plan. Perspect 23 (1997) 15-33, 10.2307/2950781.
+
+Kungu W, Khasakhala A, Agwanda A, Use of long-acting reversible contraception among
+adolescents and young women in Kenya, PLoS One 15 (11) (2020), e0241506, 10.1371/
+journal.pone.0241506. [PubMed: 33170851]
+
+Black K, Lotke P, Buhling KJ, Zite NB, Intrauterine contraception for nulliparous women:
+translating research into action (INTRA) group. A review of barriers and myths preventing the
+more widespread use of intrauterine contraception in nulliparous women, Eur J Contracept
+Reprod Health Care 17 (5) (2012) 340-350, 10.3109/13625187.2012.700744. [PubMed:
+22834648]
+
+Ochako R, Mbondo M, Aloo S, et al. , Barriers to modern contraceptive methods uptake among
+young women in Kenya: a qualitative study, BMC Public Health 15 (1) (2015) 118, 10.1186/
+$12889-015-1483-1. [PubMed: 25884675]
+
+Fonner V, Dalglish S, Kennedy C, Oral tenofovir-based HIV pre-exposure prophylaxis
+
+(PrEP) for all populations: a systematic review and meta-analysis of effectiveness, safety,
+behavioural, and reproductive health outcomes, AIDS 30 (12) (2016) 1973-1983, 10.1097/
+QAD.0000000000001145. [PubMed: 27149090]
+
+Akoth C, Oguta JO, Gatimu SM, Prevalence and factors associated with covert contraceptive
+use in Kenya: a cross-sectional study, BMC Public Health 21 (1) (2021) 1-8, 10.1186/
+s12889-021-11375-7. [PubMed: 33388037]
+
+Blackstone SR, Nwaozuru U, Iwelunmor J, Factors influencing contraceptive use in sub-
+Saharan Africa: a systematic review, Int. Q. Commun. Health Educ 37 (2) (2017) 79-91,
+10.1177/0272684x 16685254.
+
+Kibira Simon P.S., Karp Celia, Wood Shannon N., Desta Selamawit, Galadanci Hadiza, Makumbi
+Fredrick E., Omoluabi Elizabeth, et al. , Covert use of contraception in three sub-Saharan African
+countries: a qualitative exploration of motivations and challenges, BMC Public Health 20 (2020)
+1-10, 10.1186/s12889-020-08977-y. [PubMed: 31898494]
+
+Tanner AE, Zimet G, Fortenberry JD, et al. , Young women’s use of a vaginal microbicide
+
+surrogate: the role of individual and contextual factors in acceptability and sexual pleasure, J. Sex
+Res 46 (1) (2009) 15-23, 10.1080/00224490802398407. [PubMed: 19012060]
+
+Sundstrom B, Szabo C, Dempsey A, “My body. My choice”: a qualitative study of the influence
+of trust and locus of control on postpartum contraceptive choice, J. Health Commun 23 (2)
+(2018) 162-169, 10.1080/10810730.2017.1421728. [PubMed: 29297766]
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 18 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Perceived Acceptability Rationale
+
+Page 18
+
+THEME: PHYSICAL
+WELLBEING
+
+Creates little to no
+problems
+
+IVR remains in place
+
+Has no negative effect on
+menstrual cycle or other
+side effects
+
+Has no negative effect on
+@ woman's ability to
+perform her work or carry
+out her responsibilities
+
+Sex was the same and IVR
+not felt by the woman or
+her partner during sex
+
+Fig. 1.
+
+Helps avoid HIV infection
+
+THEME: METHOD
+
+RELIABILITY
+
+Addresses HIV and
+
+pregnancy
+prevention needs
+
+Eliminates the need for
+aking medications daily to
+prevention or treat HIV
+
+Protects those at risk by
+circumstance (undisclosed
+HIV status of partner and
+other "accidental" risks)
+
+Offers protection when
+partner is HIV+ or engages i
+
+behaviors that place woman
+at risk for HIV infection
+
+Protects those at risk given
+their sexual choices/actions
+
+Alleviates concerns with
+having HIV (death, quality of
+life issues, etc.)
+
+Circumvents condom non-
+use issues, including
+refusal by partner
+
+Helps avoid unplanned
+
+pregnancy
+
+Supports child spacing,
+family size, and improves
+child health and
+socioeconomic outcomes
+
+THEME: PERSONAL
+MANAGEMENT
+
+Offers ease of use
+
+Supports user control
+
+Offers discrete use and
+can be kept secret
+
+Enables self insertion and
+removal
+
+THEME: SOCIETAL
+ENDORSEMENT
+
+Promoted by users
+and endorsed by
+others
+
+Convenient
+
+Offers
+endorsement/testimonial by
+actual users
+Easy to access and less
+burdensome to the user
+given that IVR is longer-
+acting
+Offers locally
+“tried and tested" assurance
+Ideally, is able to support
+use by a wide range of
+women (no age or risk
+restrictions)
+Receives sexual partner
+approval or endorsement
+
+Offers explanations of how it
+works and its benefits
+
+Favorable receptivity toward a multipurpose prevention technology intravaginal ring. [VR =
+
+intra vaginal ring.
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 19 — —
+yduosnuey\ souiny }diosnuey Jouiny yduosnuey\ souny
+
+ydiuosnuey Jouiny
+
+McLellan-Lemal et al.
+
+Page 19
+
+Perceived Non-Acceptability Rationale
+
+-—W_ldagmma_JqvA Av
+
+THEME: PHYSICAL
+WELLBEING RELIABILITY
+
+Has side effects Doubts or questions
+
+— efficacy
+
+Replicates or increases
+
+THEME: METHOD
+
+(Causes physical pain,
+
+side effects experienced discomfort, or wearability
+with other FP methods issues
+| Protects women but not
+men
+Leads to fertility and
+fetus development Easily expelled
+problems Protection ends or is
+disrupted with IVR
+removal
+Causes health
+
+complications (female-
+cancers, chronic fatigue,
+organ damage)
+
+Painful to insert or remove
+
+Causes female sexual Shifts or migrates to
+disinterest or discomfort other parts of the body--
+surgical removal possibly
+required
+
+IVR can be felt (by
+woman or partner)
+
+Fig. 2.
+
+THEME: SOCIETAL
+ENDORSEMENT
+
+Conflicts with
+sociocultural beliefs or
+norms
+
+te
+
+Sub-theme: Reproductive Sub-theme: Sexual norms
+
+__ manoge: ent sociocultural congruency
+sociocultural congruency
+. . . Promotes engagement in Increases sexual activity sae tnfielalt
+Conflicts with procreation commercial or (adolescent and young Hides infidelity and
+
+expectations or desires promiscuity
+
+transactional sex women in particular)
+
+Contradicts belief that
+women must have one
+child before ever using FP)
+methods
+
+Removes concern for
+unplanned pregnancy
+
+Allows women to conceal
+that they are using FP
+
+Non-favorable receptivity toward a multipurpose prevention technology intravaginal ring. FP
+
+= family planning.
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 20 — —
+yduosnuey\ soulny ydiosnuey Joulny yduosnuey\ souny
+
+yduosnueyy Jouny
+
+McLellan-Lemal et al. Page 20
+
+Table 1
+
+Interview guide acceptability and experiential questions, Kisumu Combined Ring Study, 2019.
+
+Domain of Inquiry: Dual Pregnancy and HIV Prevention Acceptability
+
+In your community, how acceptable is it to have a family planning method that also prevents HIV?
+How would other women that you know react to a family planning method that also prevents HIV?
+What about men, what would their reaction to be?
+
+What are ways that non-acceptance can be overcome?
+
+What information would help create dialogue in the community about methods that prevent both pregnancy and HIV?
+
+Domain of Inquiry: Study Intravaginal Ring Experiences
+
+What did you know about the vaginal rings before you became involved in this study?
+
+Tell me about your experiences using the ring.
+
+Tell me about any instances when either the ring fell out or felt like it was about to fall out.
+
+How did your partner react to you using the ring?
+
+Describe any times that the ring was removed by you or at the request of your partner. (omit if participant has not had sex during the ring use
+phase)
+
+What were your experiences with the ring during sexual intercourse? (omut if no sex during the ring use phase)
+Tell me about any hygiene concerns that you had with keeping the ring in for 90 days.
+
+How satisfied with the ring were you?
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 21 — —
+yduosnuey\ soulny ydiosnuey Joulny yduosnuey\ souny
+
+yduosnueyy Jouny
+
+McLellan-Lemal et al. Page 21
+
+Table 2
+
+Demographic and behavioral characteristics of qualitative interview participants (77 = 25) by treatment group,
+Kisumu Combined Ring Study, 2019.
+
+n(%)
+ra IVR (n= rhaaid IVR (= placebo IVR (n= 5) Total (N= 25)
+
+Screening visit characteristic
+Age (mean (SD)) 21.9 (3.0) 26.6 (5.5) 23.8 (4.8) 24.2 (4.8)
+Highest level of education completed
+
+None 0 (0.0) 0 (0.0) 1 (20.0) 1 (4.0)
+
+Primary school 0 (0.0) 1 (10.0) 1 (20.0) 2 (8.0)
+
+Some secondary school 1 (10.0) 4 (40.0) 0 (0.0) 5 (20.0)
+
+Secondary school 8 (80.0) 3 (30.0) 2 (40.0) 13 (52.0)
+
+College/university 1 (10.0) 2 (20.0) 1 (20.0) 4 (16.0)
+Current relationship status
+
+Single/never married 8 (80.0) 6 (60.0) 4 (80.0) 18 (72.0)
+
+Married/living as married 2 (20.0)4 3 (30.0) 1 (20.0) 6 (24.0)
+
+Divorced/separated 0 (0.0) 1 (10.0) 0 (0.0) 1 (4.0)
+
+Widowed 0 (0.0) 0 (0.0) 0 (0.0) 0 (0.0)
+Sexually active in the past 3 months
+
+Yes 7 (70.0) 6 (60.0) 3 (60.0) 16 (64.0)
+
+No 2 (20.0) 4 (40.0) 2 (40.0) 8 (32.0)
+
+No Response 1 (10.0) 0 (0.0) 0 (0.0) 1 (4.0)
+Main or steady sexual partner in the past 3
+months
+
+Yes 8 (80.0) 7 (70.0) 5 (100.0) 20 (80.0)
+
+No 2 (20.0) 3 (30.0) 0 (0.0) 5 (20.0)
+Currently lives with a sexual partner
+
+Yes 2 (20.0) 2 (20.0) 0 (0.0) 4 (16.0)
+
+No 8 (80.0) 8 (80.0) 5 (100.0) 21 (84.0)
+Ever been pregnant
+
+Yes 4 (40.0) 6 (60.0) 4 (80.0) 14 (56.0)
+
+No 6 (60.0) 4 (40.0) 1 (20.0) 11 (44.0)
+Contraceptive use in the past 6 months
+
+None 8 (80.0) 9 (90.0) 5 (100.0) 22 (88.0)
+
+Oral Contraception 1 (10.0) 1 (10.0) 0 (0.0) 2 (8.0)
+
+Male Condom 2 (20.0) 0 (0.0) 0 (0.0) 2 (8.0)
+Days of IVR use (mean (SD)) 54.7 (29.9) 76.3 (27.0) 73.0 (20.6) 67.0 (28.0)
+IVR discontinuation before end of study?
+
+Yes 3 (30.0) 2 (20.0) 0 (0.0) 5 (20.0)
+
+No 7 (70.0) 8 (80.0) 5 (100.0) 20 (80.0)
+
+TFV = tenofovir; LNG = levonorgestrel; IVR = intravaginal ring.
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.
+— — PAGE 22 — —
+yduosnuey\ soulny ydiosnuey Joulny yduosnuey\ souny
+
+yduosnueyy Jouny
+
+McLellan-Lemal et al. Page 22
+
+“One participant reported that she was in a polygamous marriage.
+b
+Multiple clinical indications for early IVR removal may have been present for a participant. Reasons included menorrhagia related to IVR
+
+use, symptomatic BV, recurrent dislodgement of the IVR for one participant, vulvovaginitis, and pregnancy (clinical outcomes data published
+elsewhere).
+
+Contemp Clin Trials. Author manuscript; available in PMC 2024 July 23.

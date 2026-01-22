@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 from src.vectorstore import FaissVectorStore
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, AIMessage
-from langsmith import traceable
 load_dotenv()
 
 
@@ -32,7 +31,7 @@ class RAGSearch:
         )
 
         self.chat_history = []
-    @traceable
+    
     def search_and_summarize(self, query: str, top_k: int = 5) -> str:
         results = self.vectorstore.query(query, top_k=top_k)
         texts = [r["metadata"].get("text", "") for r in results if r.get("metadata")]

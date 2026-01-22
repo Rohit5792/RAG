@@ -1,0 +1,1339 @@
+— — PAGE 1 — —
+Immunology and inflammation
+
+TT __ttsmunoto gy ana intiammation
+LUPUS
+
+SCIENCE &
+MEDICINE”
+
+To. cite: Furie RA, Hough DR,
+Gaudy A, ef a/. Iberdomide
+
+in patients with systemic
+
+lupus erythematosus: a
+randomised, double-blind,
+placebo-controlled, ascending-
+dose, phase. 2a study.
+
+Lupus Science & Medicine
+2022;9:e000581. doi:10.1136/
+lupus-2021-000581
+
+> Additional supplemental
+
+material is published online. only.
+
+To. view, please. visit the. journal
+online. (http://dx.doi.org/10.
+1136/lupus-2021-000581).
+
+Received. 13. September. 2021
+Accepted. 14 January 2022
+
+® Check for updates
+
+© Author(s) (or their.
+employer(s)). 2022. Re-use
+permitted under. CC. BY.
+Published by. BMJ.
+
+For numbered affiliations see
+end. of article.
+
+Correspondence to
+Dr Richard A Furie; RFurie@
+northwell.edu
+
+Iberdomide in patients with systemic
+lupus erythematosus: a randomised,
+double-blind, placebo-controlled,
+ascending-dose, phase 2a study
+
+Richard A Furie © ,' Douglas R Hough,’ Allison Gaudy,? Ying. Ye,* Shimon Korish,°
+Nikolay Delev,° Michael Weiswasser,° Xiaojiang. Zhan,° Peter H Schafer,”
+
+Victoria P Werth © ®
+
+XBSTRXCT
+
+Objective To evaluate safety, pharmacokinetics,
+pharmacodynamics and efficacy of iberdomide in patients
+with SLE. lberdomide is. a high-affinity. cereblon. ligand that
+targets the hematopoietic transcription factors Ikaros and
+Aiolos for. proteasomal degradation.
+
+Methods A 12-week, multicentre, double-blind,
+placebo-controlled, dose-escalation study in active SLE
+was followed by a 2-year, open-label active treatment
+extension. phase (ATEP) (NCT02185040). In the. dose-
+escalation phase, adults with active SLE were randomised
+to. oral placebo. or iberdomide. (0.3.mg. every. other day,
+
+0.3 mg once daily, 0.6 mg and 0.3 mg alternating once
+daily, or 0.6mg_once daily). Primary endpoints. were safety
+and tolerability.
+
+Results. The dose-escalation phase enrolled 42 patients,
+with 33 completing this phase and 17 patients enrolling
+into. the ATEP. In the. dose-escalation phase, the. most
+common treatment-emergent adverse events (TEAEs;
+iberdomide/placebo. groups) were nausea (20.6%/12.5%),.
+diarrhoea (17.6%/12.5%) and upper respiratory tract
+infection (11.8%/12.5%). Most TEAEs were mild or.
+moderate in severity and more common in the highest
+dose groups in. both. study. phases. In the dose-escalation
+phase, Physician’s Global Assessment and Cutaneous
+Lupus Erythematosus. Disease Area and Severity. Index
+(CLASI) activity scores improved relative to baseline and
+placebo. in all iberdomide groups, with a trend toward
+continued score improvements in the ATEP. In the dose-
+escalation. phase, iberdomide treatment resulted in dose-.
+dependent reductions in total B cells and plasmacytoid
+dendritic. cells in blood. Improvements in CLASI activity
+scores correlated with plasmacytoid dendritic cell
+depletion.
+
+Conclusions These proof-of-concept findings suggest a
+favourable benefit/risk ratio in SLE for iberdomide, a drug.
+with a novel immunomodulatory mechanism of action,
+supporting further. clinical. investigation.
+
+INTRODUCTION
+
+SLE is a complex, heterogeneous, multi-
+system autoimmune disease that typically
+occurs in premenopausal women and can
+
+Key messages
+
+What is already known about this subject?
+
+> SLEis acomplex, heterogeneous, multisystem. auto-
+immune. disease. with few. approved treatments.
+
+> lberdomide. (CC-220) is a high-affinity cereblon li-
+gand that promotes. ubiquitination and subsequent
+degradation of Aiolos (/KZF3) and Ikaros (/KZF1),
+transcription factors associated with immune cell
+development and SLE pathology.
+
+What does this study add?
+
+> This phase 2a study provides. proof-of-concept find-
+ings. suggesting. a favourable benefit/risk ratio. of.
+iberdomide in patients with SLE.
+
+> lberdomide was well tolerated and directional clini-
+cal activity was observed for multiple endpoints.
+
+How might this impact on clinical practice or future
+
+developments?
+
+> Continued investigation of iberdomide. in patients.
+with SLE is supported by these findings.
+
+adversely affect quality of life and lead to
+increased morbidity and mortality.’ * Despite
+numerous trials of novel agents, only two new
+agents (belimumab, anifrolumab) have been
+approved for the treatment of SLE in the past
+five decades.” * More effective and safer treat-
+ments for patients with SLE remain an unmet
+need, particularly in those with disease that
+proves refractory to conventional immuno-
+suppressive therapy.*
+
+Ikaros (IKZF ) and Aiolos (JKZF3) are
+transcription factors with crucial roles in
+immune cell development and homeostasis.”
+IKZF and IKZF3 mRNA are overexpressed
+in the peripheral blood mononuclear cells
+of patients with SLE,° contributing to lupus
+disease pathology.’ Polymorphisms in both
+IKZF and IKZF3 are associated with a risk of
+developing SLE.*"”
+
+BM)
+
+Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+
+LUPUS |!
+
+FOUNDATION OF AMERICA
+— — PAGE 2 — —
+Lupus Science & Medicine o|
+
+Iberdomide (CC-220) is a high-affinity cereblon ligand
+that promotes ubiquitination and subsequent degrada-
+tion of Aiolos and Ikaros by the proteasome." In B cells
+from healthy donors and patients with SLE, iberdomide
+reduces Aiolos and Ikaros protein levels, thereby inhib-
+iting BAFF-induced and CD40L-induced proliferation,
+plasmablast differentiation and IgG secretion in vitro.”
+In cultures of peripheral blood mononuclear cells from
+patients with SLE, iberdomide inhibited anti-dsDNA and
+anti-phospholipid IgM autoantibody production in vitro.°
+
+The effects of iberdomide on cell populations in
+healthy volunteers were examined in a single-ascending
+dose study.° At oral doses of 0.3-6mg once daily (QD),
+iberdomide decreased intracellular Aiolos levels in B
+cells and T cells, decreased absolute CD19+ Bcell counts
+in peripheral blood, increased interleukin (IL)-2 and
+decreased IL-1B production ex vivo.° In a multiple-
+ascending dose study in healthy volunteers, iberdomide
+exposure increased in a dose-proportional manner,” with
+a terminal half-life of 9-13 hours following a single dose.
+Iberdomide decreased peripheral CD19+ B lymphocytes
+(maximum effect (E,.), 92.4%; half maximal effective
+concentration (EC,,), 0.718ng/mL) and more modestly
+reduced CD3+ T lymphocytes (E,,., 34.8%; EC,,,
+0.932 ng/mL). In ex vivo whole blood samples, levels of
+lipopolysaccharide-stimulated proinflammatory cytokines
+IL-1 and IL-1B8 were reduced, but anti-CD3-stimulated
+IL-2 and interferon (IFN)-y levels were increased in
+blood from iberdomide-treated versus placebo-treated
+subjects. Thus, dose-dependent, differential immuno-
+modulatory effects on B and T lymphocytes were noted
+in healthy volunteers receiving iberdomide, consistent
+with iberdomide-induced reductions in Ikaros and Aiolos
+levels within T lymphocytes.
+
+The observed effects of iberdomide on B and T lympho-
+cytes as well as cytokine levels in these studies suggest that
+it may represent a unique approach to the treatment of
+SLE. Iberdomide safety, pharmacokinetics (PK), phar
+macodynamics and efficacy were therefore explored in a
+phase 2 proof-of-concept study of patients with SLE.
+
+METHODS
+Trial design
+CC-220-SLE-001 (NCT02185040) was a multicentre phase
+2 study consisting of two parts. The 12-week, double-blind,
+placebo-controlled, dose-escalation phase randomised
+patients 4:1 (via interactive voice response system) to
+oral iberdomide at one of four dose levels (0.3 mg every
+other day (QOD), 0.3mg QD, 0.6mg and 0.3mg QD
+on alternating days, or 0.6mg QD), or placebo. Dose
+interruptions of up to 14 days were allowed for patients
+experiencing a clinically significant iberdomide-related
+adverse event (AE); for patients unable to remain on
+their assigned dose, iberdomide doses were reduced to
+the next lower dose level.
+
+Following the 12-week dose-escalation phase, eligible
+patients could enrol directly into the 2-year, open-label,
+
+active treatment extension phase (ATEP). Patients may
+have had a period of no treatment between the study parts
+as they waited for study amendment to enrol in the ATEP.
+Those who discontinued the dose-escalation phase early
+or did not consent to enter the ATEP were followed for
+12 weeks. The iberdomide dose in the ATEP was assigned
+based on the dose received in the dose-escalation phase
+(online supplemental figure 1).
+
+Patients
+
+Eligible patients were 218 years of age with a diagnosis
+for 26 months of SLE per American College of Rheu-
+matology 1997 criteria’’ and a hybrid Safety of Estro-
+gens in Systemic Lupus Erythematosus National Assess-
+ment (SELENA)-Systemic Lupus Erythematosus Disease
+Activity Index (SLEDAI) score'* of >4 points at baseline.
+This cut-off value was used to increase patient recruitment
+for this phase 2 study focused on safety, PK and phar-
+macodynamics. Patients could have qualified based on
+serology scores alone; however, all patients who entered
+the study had active disease and pertinent clinical scoring
+(skin and/or joints and/or other organ involvement).
+The hybrid SELENA-SLEDAT score is differentiated from
+the SELENA-SLEDAI score based on the definition of
+proteinuria, in which the hybrid SELENA-SLEDAT score
+uses >0.5¢/24 hours and the previous definition of ‘new
+onset or recent increase of >0.5¢/24 hours’ has been
+removed. Oral corticosteroids (<10mg prednisone or
+equivalent daily) and/or antimalarials (hydroxychloro-
+quine, chloroquine, and/or quinacrine) were allowed
+if doses had been stable for 4 weeks prior to randomi-
+sation. No other systemic immunosuppressive treatments
+were permitted during the dose-escalation phase. Meth-
+otrexate, sulfasalazine or leflunomide were permitted
+during the ATEP. Patients may have taken alternative
+standard-of-care therapies between study phases. Key
+exclusion criteria were unstable lupus nephritis (esti-
+mated glomerular filtration rate <50mL/min/1.73 m’),
+active central nervous system disease requiring thera-
+peutic intervention within 6 months of screening and the
+presence of infectious disease.
+
+Endpoints. and. assessments
+
+For the dose-escalation phase, the primary endpoint
+was safety and tolerability. The secondary endpoint was
+PK as measured by parameters including area under the
+plasma concentration-time curve calculated from time
+zero to infinity (AUC, ,), maximum observed plasma
+concentration (C,), time to peak serum concentra-
+tion (T),,,), terminal elimination half-life (t,,,), apparent
+clearance from plasma and apparent volume of distribu-
+tion during the terminal phase. Exploratory endpoints
+included leucocyte subset determinations in peripheral
+blood on days 1, 29, 57 and 85 as measured by flow cytom-
+etry. Efficacy measures were also exploratory endpoints,
+and included change from baseline in Cutaneous Lupus
+Erythematosus Disease Area and Severity Index (CLASI)
+activity and damage,’ '° hybrid SELENA-SLEDAI,
+
+max
+
+2 Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+— — PAGE 3 — —
+Immunology and inflammation
+
+Physician’s Global Assessment (PGA) scores, and swollen
+and tender joint count. These were assessed on days 1,
+15, 29 and 57, at final treatment visit (day 85), and during
+follow-up visits at 4 and 12 weeks post-treatment. In the
+ATEP, these efficacy measures were assessed at weeks 1, 4
+and 12, every 3 months thereafter, and at final treatment
+and observational follow-up. In the ATEP, the primary
+endpoints were long-term safety and tolerability, and
+secondary endpoints were long-term efficacy measures.
+
+Blood samples for PK analysis were obtained during
+the dose-escalation phase only. Sparse PK samples were
+collected from all patients predose on days 15, 29, 57
+and 85. A subset of patients (four per treatment group)
+participated in intensive PK sampling collected on days |
+and 29 predose and at 1, 2, 3, 4, 6-8 and 24 hours post-
+dose, in addition to sparse PK sampling times. Concentra-
+tions of iberdomide were determined by validated liquid
+chromatography-tandem mass spectrometry assay.’
+Peripheral blood samples for pharmacodynamic analysis
+were collected at baseline, days 29 and 57, and at the final
+study visit.
+
+Statistical analysis
+
+The safety population was defined as all patients who
+received 21 dose of iberdomide. The intent-to-treat popu-
+lation was defined as all patients randomised according
+to the protocol who received 21 dose of iberdomide. The
+PK and pharmacodynamic populations were defined as
+all patients in the safety population with 21 non-missing
+plasma concentration and pharmacodynamic §assess-
+ment, respectively. This was a proof-of-concept study,
+and no formal sample size or power calculations were
+performed. Both parts of the trial used descriptive statis-
+tics (eg, mean, SD, and no p values were provided. AEs
+were coded using the Medical Dictionary for Drug Regu-
+latory Activities V.21.0 and were summarised by system
+organ class, preferred term, severity and relationship
+to iberdomide. PK parameters were determined from
+patients in the intensive PK subset by non-compartmental
+analysis method (Phoenix WinNonLin V.6.3). For
+patients entering the ATEP, new baseline values for effi-
+cacy measures were determined at ATEP entry; original
+baseline values from dose-escalation phase were not
+used for ATEP efficacy analyses. Statistical analyses were
+performed using SAS V.9.2 or higher.
+
+RESULTS
+
+Patient disposition. and. baseline. characteristics
+
+The study was initiated in December 2014 and 42 patients
+were enrolled in the double-blind, placebo-controlled,
+dose-escalation phase of the study; 93% were female,
+the mean age was 47 years, 64% were white (table 1).
+The most common concomitant medications were
+hydroxychloroquine (62%) and prednisone (48%; at
+doses <10mg of prednisone equivalent). At baseline,
+all patients had skin and/or joint involvement as deter
+mined by CLASI and joint counts, respectively. Baseline
+
+mean (SD) CLASI scores varied considerably between
+treatment groups, from a low of 4.3 (5.9) in the placebo
+group to a high of 17.6 (12.9) in the iberdomide 0.3mg
+QOD group. At baseline, 78.6% (33 of 42) and 66.7% (28
+of 42) of patients had at least one tender joint or one
+swollen joint, respectively. Baseline mean (SD) hybrid
+SELENA-SLEDAI scores ranged from 5.5 (2.1) in the
+0.3mg QD group to 8.4 (4.1) in the 0.3mg QOD group,
+with hybrid SELENA-SLEDAT scores in between for the
+other dose groups. All patients had a baseline hybrid
+SELENA-SLEDAI score of 24 except one patient who had
+baseline hybrid SELENA-SLEDAI score of 2 after having
+a qualifying hybrid SELENA-SLEDAI score at screening.
+In the iberdomide groups, eight patients (23.5%) discon-
+tinued prior to dose-escalation study completion, most
+commonly due to AEs (n=5 patients) (online supple-
+mental figure 2; table 1).
+
+Seventeen of the 33 eligible patients (52%) enrolled in
+the ATEP. The median time between completion of dose
+escalation and the start of ATEP was 311 days (range,
+3-527) and the last study visit occurred in September
+2018. Nine patients received iberdomide 0.3mg QD;
+eight received iberdomide 0.6/0.3 mg on alternating days.
+Demographics and characteristics of patients entering the
+ATEP were similar to those in the dose-escalation phase.
+Ten (59%) patients in the ATEP discontinued treatment,
+including five (29%) who discontinued due to treatment-
+emergent AEs (TEAEs), of whom four (24%) were in the
+iberdomide 0.6/0.3 mg on alternating days and one (6%)
+was in the iberdomide 0.3mg QD group.
+
+Safety
+
+Mean (SD) treatment duration in the double-blind,
+placebo-controlled, dose-escalation phase ranged from
+9.5 (4.4) to 11.8 (0.5) weeks (online supplemental table
+1). TEAEs were reported in five (62.5%) patients in the
+placebo group and 30 (88.2%) patients in the iberdomide
+groups (table 2). Among iberdomide-treated patients in
+the dose-escalation phase, the most common TEAEs were
+nausea (20.6%), diarrhoea (17.6%) and upper respira-
+tory tract infection (11.8%) (table 2). All four patients
+with vitamin D deficiency had low vitamin D levels prior
+to receiving iberdomide. Neutropenia and pneumonia
+(8.8% each) were reported in the two highest iberdomide
+dose groups.
+
+In the longer duration ATEP (mean (SD) duration 75.6
+(32.9) weeks (iberdomide 0.3mg QD) and 49.5 (37.4)
+weeks (iberdomide 0.6/0.3mg on alternating days)),
+TEAEs were also primarily gastrointestinal or infectious
+in origin. The most common were upper respiratory
+tract infection (41.2%), bronchitis (35.3%), diarrhoea
+(23.5%) and urinary tract infection (23.5%). In both the
+dose-escalation phase and the ATEP, most TEAEs were of
+mild or moderate severity.
+
+During the dose-escalation phase, one patient each
+receiving iberdomide 0.6/0.3 mg on alternating days and
+iberdomide 0.6mg QD group had severe pneumonia, and
+one patient in the latter group had severe neutropenia.
+
+Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581 3
+— — PAGE 4 — —
+Lupus Science & Medicine (6)
+
+Table 1
+extension phases
+
+Disposition of patients and baseline* patient and disease characteristics in the dose-escalation and active treatment
+
+Dose escalation ATEP
+Iberdomide Iberdomide
+Iberdomide. Iberdomide 0.6/0.3mg  Iberdomide Iberdomide  0.6/0.3mg
+Placebo 0.3mg QOD 0.3mgQD ALTN 0.6mg QD 0.3mg QD ALTN
+n (%) (n=8) (n=8) (n=8) (n=9) (n=9) (n=9) (n=8)
+Completed 7 (88) 6 (75) 7 (88) 7 (78) 6 (67) 6 (67) 1 (13)
+Discontinued 1 (13) 2 (25) 1 (13) 2 (22) 3 (33) 3 (33) 7 (88)
+Reasons for discontinuation
+Adverse event 1 (13) 0 0 2 (22) 3 (33) 1 (11) 4 (50)
+Withdrawal by 0 1 (13) 0 1 (11) 1 (13)
+patient
+Lack of efficacy 0 0 0 0 0
+Lost to follow-up 0 1.(13) 0 0 2. (25)
+_ Other 0 0 1.(13) 0 1.(11) 0
+Continued to part2 3 (38) 2 (25) 5 (63) 3 (33) 4 (44) NA NA
+Age, mean (SD), 44.8 (6.6) 46.0 (8.6) 48.0 (10.9) 49.8(13.1) 47.2 (13.6) 51.2 (10.2) 47.1 (13.7)
+years
+Female, n (%) 7 (88) 8 (100) 7 (88) 8 (89) 9 (100) 8 (89) 8 (100)
+Race
+White 5 (63) 6 (75) 4 (60) 7 (78) 5 (56) 4 (44) 6 (75)
+Black or African 2 (25) 2 (25) 4 (50) 1.(11) 4 (44) 5 (56) 1.(13)
+American
+Other 1 (13) 0 0 1 (11) 0 0 1 (13)
+Weight, mean (SD), 82.0 (13.2) 78.5 (13.7) 96.3 (26.1) 74.3.(14.8) 76.5.(21.5) 87.5 (9.4) 67.5.(11.8)
+kg
+Duration. of SLE, 13.3.(10.0) 7.9 (9.7) 9.8 (9.2) 8.2 (4.3) 10.5 (8.3) 8.9 (9.0) 12.2 (8.3)
+mean (SD), years
+CLASI score, mean. 4.3. (6.9) 17.6. (12.9) 6.3. (9.1) 8.4 (8.6) 12.4 (16.5) 7.2. (9.0) 12.3. (10.1)
+(SD)
+>1 tender joint, n(%) 6 (75) 6 (75) 7 (88) 8 (89) 6 (67) 7 (78)T 3 (38)t
+>1 swollen joint, n 5 (63) 5 (63) 6 (75) 8 (89) 4 (44) 6 (67)t 2 (25)t
+(%)
+Hybrid SELENA- 6.8 (1.8) 8.4 (4.1) 5.5 (2.1) 6.7 (3.2) 5.7 (1.9) 4.9 (2.9) 6.3 (2.1)
+SLEDAI score, mean
+(SD)
+PGA score, mean 0.95 (0.52) 1.50.(0.65) 1.50.(0.61) 1.22(0.35)  1.40.(0.60) 1.17. (0.78) 1.08. (0.62)
+(SD)
+
+*For patients in ATEP previously enrolled in dose escalation, values are from time of ATEP enrolment.
+
+TFor. ATEP. population,. number. of. patients. with. non-zero. tender/swollen. joint counts.
+
+ALTN, alternating. once daily;. ATEP, active treatment extension. phase;. CLASI,. Cutaneous. Lupus. Erythematosus Disease. Area and Severity.
+Index;. NA, not applicable;. PGA,. Physician’s. Global Assessment;. QD, once. daily; QOD, every. other. day; SELENA-SLEDAI, Safety. of Estrogens
+in Systemic. Lupus. Erythematosus. National Assessment-Systemic. Lupus. Erythematosus Disease. Activity. Index.
+
+During the ATEP, five severe TEAEs (gastroenteritis,
+seizure, vitreous detachment, pulmonary embolism and
+SLE) were reported in the iberdomide 0.6/0.3 mg alter-
+nating days group, whereas no patient in the iberdomide
+0.3mg QD group had a severe TEAE.
+
+During the dose-escalation phase, serious TEAEs were
+reported in two iberdomide-treated patients (5.9%; both
+pneumonia in the two highest iberdomide dose groups,
+one of which was considered treatment related) and in
+
+two (25.0%) patients in the placebo group (deep vein
+thrombosis, schizoaffective disorder and SLE). In the
+ATEP, serious TEAEs occurred in four patients (23.5%;
+pulmonary embolism, seizure, SLE and vitreous detach-
+ment); all were observed with the higher iberdomide
+dose (0.6/0.3mg on alternating days), and none were
+considered treatment related.
+
+In both the dose-escalation phase and the ATEP, as
+expected, patients receiving iberdomide who had lower
+
+4 Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+— — PAGE 5 — —
+Immunology and inflammation
+
+Table 2 Overview of treatment-emergent adverse events. (TEAEs)
+
+Dose. escalation ATEP
+Iberdomide
+Iberdomide Iberdomide 0.6/0.3mg. Iberdomide Iberdomide Iberdomide
+Placebo 0.3mg QOD 0.3mg QD ALTN 0.6mg. QD 0.3mg QD 0.6/0.3mg ALTN
+n.(%) (n=8) (n=8) (n=8) (n=9) (n=9) (n=9) (n=8)
+Any TEAE 5 (62.5) 7 (87.5) 7 (87.5) 8 (88.9) 8 (88.9) 9 (100) 7 (87.5)
+Any.treatment-related 1. (12.5) 2 (25.0) 2 (25.0) 4 (44.4) 6 (66.7) 2 (22.2) 5 (62.5)
+TEAE
+Severe TEAE 1 (12.5) 0 1 (11.1) 2 (22.2) 5 (62.5)
+Serious. TEAE 2 (25.0) 1.(11.1) 1.(11.1) 4 (50.0)
+Any. serious treatment- 0 0 0 1.(11.1) 0 0
+related TEAE
+TEAEs leading to drug 1 (12.5)* 0 0 2 (22.2)t 3 (33.3)+ 1 (11.1)§ 4 (60.0)4]
+withdrawal
+TEAEs leading to death 0 0 0 0 0 0 0
+TEAEs in >5% of patients**
+URTI 1.(12.5) 1.(12.5) 1. (12.5) 1.(11.1) 1.(11.1) 4 (44.4) 3.(87.5)
+Diarrhoea 1 (12.5) 1 (12.5) 1 (12.5) 2 (22.2) 2 (22.2) 1 (11.1) 3 (37.5)
+Nausea 1.(12.5) 1.(12.5) 3 (87.5) 3 (33.3) 0 2 (22.2) 0
+Bronchitis 0 0 2 (25.0) 0 3 (33.3) 3.(37.5)
+Urinary. tract. 0 1.(12.5) 0 1.(11.1) 0 2 (22.2) 2. (25.0)
+infection
+Neutropenia 0 0 0 1.(11.1) 2 (22.2) 1.(11.1) 1.(12.5)
+Pneumonia 0 0 0 2 (22.2) 1 (11.1) (11.1) 1 (12.5)
+Cough 0 0 0 1.(11.1) 1.(11.1) 2 (25.0)
+Nasopharyngitis 1 (12.5) 0 0 1 (11.1) 2 (22.2) 0
+Pain in extremity 0 1.(12.5) 0 1.(11.1) 2 (22.2) 0
+Vitamin. D. 0 0 1. (12.5) 2 (22.2) 1.(11.1) 0 0
+deficiencytT
+Vomiting 1.(12.5) 0 1.(12.5) 1.(11.1) 1.(11.1)
+Maculopapular rash O 1.(12.5) 0 1.(11.1) 1.(11.1)
+Musculoskeletal pain 0 0 0 0 0 1 (11.1) 2 (25.0)
+Osteoarthritis 0 0 0 1.(11.1) 0 2 (22.2) 0
+Sinusitis 0 0 0 0 0 2 (22.2) 1 (12.5)
+
+*Deep vein thrombosis.
+
+tPneumonia/diarrhoea and. ecchymosis/maculopapular rash.
++Pneumonia, dermatitis. and neutropenia.
+
+§Small fibre neuropathy.
+
+q|Bronchitis, gastroenteritis, decreased. neutrophil count, oral candidiasis, and. pulmonary embolism.
+
+*In combined dose-escalation and ATEP. safety. populations (N=59).
+t+tPresent prior to treatment.
+
+ALTN, alternating. once daily; ATEP, active treatment extension. phase; QD, once daily; QOD, every other day;. URTI, upper respiratory tract infection.
+
+neutrophil counts at baseline were more likely to expe-
+rience a higher grade of neutropenia. The neutropenia
+was reversible, and patients recovered to prior neutrophil
+counts after temporary interruption of iberdomide. No
+other clinically meaningful changes in laboratory values,
+vital signs, weight or ECG findings were observed during
+the dose-escalation phase or the ATEP.
+
+Eight iberdomide-treated patients (23.5%) — discon-
+tinued prior to completion of the dose-escalation phase,
+most commonly due to AEs (five patients (14.7%)). These
+consisted of pneumonia (n=2), neutropenia, dermatitis, diar-
+rhoea, ecchymosis and maculopapular rash (n=1 each); none
+
+were in the iberdomide 0.3mg dose groups. In the ATEP, the
+higher iberdomide dose group (0.6/0.3mg on alternating
+days) had a higher incidence of TEAEs leading to treatment
+interruption or withdrawal (four of eight (50%); bronchitis,
+gastroenteritis, decreased neutrophil count, oral candidiasis
+and pulmonary embolism, one each) than the iberdomide
+0.3mg QD group (one of nine (11.1%); small fibre neurop-
+athy). No opportunistic infections were reported and no
+clinically meaningful changes in vital signs or ECG findings
+were observed. Two cases of thromboembolic events were
+observed in the study: one pulmonary embolism in the iber-
+domide 0.3/0.6 alternating days group in the ATEP and
+
+Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581 5
+— — PAGE 6 — —
+Lupus Science & Medicine o|
+
+A
+
+change from baseline in hSS
+
+Mean (SE)
+
+0 Day 15 Day 29 Day 5? Day 85
+
+Place =e Iberdo!
+
+rdomide 0.3 mg QO —elberdomice 0.6mg QD w= Ierdomide 0.3 mE QOD te Iberdorvice 0,6/0,3 mg ALTH QD
+(neB} (ne) ne)
+
+w
+5
+g
+<
+oO
+2
+s
+Fi
+£
+Fy
+Ff
+€
+ia
+&
+5
+£
+6
+4
+«
+FA
+2
+
+Placebo —®=Iberdemide 0,3 mg QD —e=iberdamide 0.6 mg QO m= Iberdomide 0,3 mg QO0 te Iherdamide 0.6/0.3 mg ALTN QO
+
+(eB) ine v8) ine
+
+Mean (SE) change from baseline in SJC
+
+Placedo —t=Iberdomide 0.3 mg QO —e=Iberdomide 0,6mg QD =~ Iberdomide 0.3 mg QOD —w~Iberdorvice 0,6/0,3 mg ALTH QD
+{n=B) (a9) insB} 9)
+
+B
+
+Mean (SE) change from baseline in CLAS!
+
+0 Day 15 Day 29 Day 57 Day 85
+Study day
+
+Mean (SE) change from baseline in TIC
+
+0 Day 15 Day 29 Day 57 Day 85
+Study day
+
+—*Placebs —t=Iberdomide 0.3 mg QD —e=lberdamide 0.6mq QD = Ibercomide 0,3 mg Q00 te lberdomide 0.6/0.3 mg ALTN QO
+in=8} (m8) ine9) in8. (n-9)
+
+n
+
+rith baseline CLAS! 10
+
+Mean (SE) change from baseline in CLAS!
+
+for patien
+
+0 Day 15 Day 29 Day 57 Day 85
+Study day
+1
+
+Placebo —@=Ibercomide 0,3 mg QO —®-iberdarride 0.6m QD = Iberdomide 0,3 mg QO0 w= lberdomide 0.6/0.3 mg ALTN GO
+Inet} feet m4) tere6 {3}
+
+Figure 1 Mean change from baseline in (A) hybrid SELENA-SLEDAI scores, (B) CLASI scores, (C) PGA scores, D) tender
+joint count (TJC) and (E) swollen joint count (SJC) in the ITT population. during the dose escalation part, and (F). mean change
+from baseline in CLASI score in patients with baseline CLASI >10. ALTN, alternating once daily; CLASI, Cutaneous Lupus
+Erythematosus Disease Area and Severity. Index; hSS, hybrid SELENA-SLEDAI; ITT, intent to treat; PGA, Physician’s Global
+Assessment; QD, once daily; QOD, every other day; SELENA-SLEDAI, Safety of Estrogens in Systemic Lupus Erythematosus
+National Assessment-Systemic. Lupus. Erythematosus Disease Activity Index.
+
+one deep vein thrombosis in the placebo group during the
+double-blind treatment period; both subjects discontinued
+the study with no known complications. There were no fatal
+AEs in the study.
+
+Efficacy
+
+Efficacy was an exploratory objective in this study, which was
+not powered for statistical significance; however, evidence of
+clinical activity with iberdomide was observed for multiple
+endpoints. In the placebo-controlled dose-escalation phase,
+mean hybrid SELENA-SLEDAI scores showed a trend toward
+improvement in all groups, including placebo (figure 1A).
+At day 85, 22%-50% of patients in the iberdomide groups
+achieved a 24point reduction from baseline in hybrid
+SELENA-SLEDAI scores!” compared with 13% in the
+placebo group. Improvements were greatest in the iberdo-
+mide 0.6/0.3mg alternating days group, with a mean (SD)
+
+reduction of 2.9 (3.4) points on day 85. The trend toward
+hybrid SELENA-SLEDAI score improvement continued
+during the ATEP in both iberdomide groups, with improve-
+ment in the 0.3mg QD group consistently greater than in
+the 0.6/0.3mg alternating days group after week 4 (online
+supplemental figure 3). At week 96, two of five patients in
+the 0.3mg QD group and none in the 0.6/0.3 mg alternating
+days group had achieved a 24point reduction in hybrid
+SELENA-SLEDAI score from ATEP baseline.
+
+In the dose-escalation phase, a trend toward improve-
+ment from baseline in CLASI score through week 12 was
+observed in the iberdomide groups, with minimal changes
+observed in the placebo group (figure 1B). At day 85, the
+mean (SD; percentage change from baseline) change from
+baseline in CLASI scores was +0.4 (1.8; +9.5%) in the placebo
+group and —7.8 (10.2; -35.3%), -5.0 (9.6; -63.4%), -4.3 (6.3;
+
+6 Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+— — PAGE 7 — —
+Immunology and inflammation
+
+-25.3%), and -6.0 (9.7; -39.8%) in the iberdomide 0.3mg
+QOD, 0.3mg QD, 0.6/0.3mg alternating days, and 0.6mg
+QD groups, respectively. The minimal clinically important
+difference in CLASI score of —4 (16) was exceeded in all iber
+domide groups but not in the placebo group at day 85, and
+a trend toward improved CLASI score over time in the iber-
+domide groups was also evident among patients with base-
+line CLASI score 210 (figure 1F). Improvements in CLASI
+score relative to baseline also were observed in the ATEP by
+the first post-baseline time point (week 1), and mean values
+remained below ATEP baseline values throughout the treat-
+ment period (online supplemental figure 4).
+
+In the dose-escalation phase, PGA scores improved in
+all iberdomide treatment groups (but not the placebo
+group), exceeding the minimal clinically important differ
+ence of -0.3' '* at days 57 and 85 (figure 1C). The greatest
+improvements in PGA scores at day 85 were noted in the
+iberdomide 0.3mg QD and 0.6mg QD groups. Improve-
+ments in PGA scores from ATEP baseline through week 96
+were also noted in the ATEP (online supplemental figure
+5). At ATEP week 96, mean (SD; percentage change from
+baseline) PGA scores were —0.52 (0.6; -47.8%) and -0.20
+(no SD (n=1); -14.3%) relative to ATEP baseline in the
+iberdomide 0.3mg QD and 0.6/0.3mg alternating days
+groups, respectively.
+
+In the dose-escalation phase, tender joint counts and
+swollen joint counts appeared to decrease in all iberdo-
+mide dose groups at day 85 (figure 1D and E). This trend
+continued during the ATEP in the iberdomide 0.3mg
+group only.
+
+PK and pharmacodynamics
+PK samples were available for 33 patients; all were
+included in the PK analysis. Iberdomide plasma PK was
+characterised by rapid absorption, with C, occurring
+at a median T, of 2-6hours for all dose levels (online
+supplemental table 2). The geometric mean t,,, ranged
+from approximately 8-12hours. Plasma concentrations
+showed dose-related increases between dosing groups
+(online supplemental figure 6), with accumulation ratios
+of approximately 1.6 (AUC and C_) upon multiple
+dosing in non-alternating cohorts at steady state. A PK/
+pharmacodynamic analysis demonstrated decreasing
+CD19 B cells and plasmacytoid dendritic cells (pDCs)
+with increasing exposure to iberdomide (online supple-
+mental figure 7A,B). There was no relationship between
+iberdomide plasma levels and CD3 T cells or neutrophils
+at the doses studied, but an increase in peripheral blood
+plasma cells with increasing iberdomide C,, ,, levels was
+observed (online supplemental figure 7C-E).
+Iberdomide treatment resulted in dose-dependent
+reductions in total CD20 B cells, immature B cells,
+switched memory B cells and CD268 (BAFFR) B cells
+as well as pDCs (figure 2). There were no significant
+changes in CD4+ T cells in any groups; at the highest
+iberdomide dose group, 0.6mg QD, there was a trend
+for an increase in CD8+ T cells (figure 2). Anti-dsDNA
+antibody levels were within the normal range at baseline
+
+for many patients (with median values of 12TU/mL in
+each treatment group). The least-squares mean increase
+in anti-dsDNA was 99.61U/mL in the placebo group at
+week 12, and the iberdomide groups had moderate mean
+increases or decreases (<25TU/mL) over 12 weeks. There
+was a strong correlation between CLASI improvement
+and pDC depletion in all patients (figure 3A), as well as
+in patients with baseline CLASI score 210 (figure 3B).
+In contrast, depletion of B cells did not correlate with
+improvements in CLASI score in either of these groups
+(figure 3C,D).
+
+DISCUSSION
+
+Iberdomide, an orally available agent which binds to
+the cereblon E3 ubiquitin ligase complex, results in the
+proteasomal degradation of key immune cell transcrip-
+tional regulators Ikaros and Aiolos. Preclinical and ex
+vivo evidence suggests that iberdomide could represent
+a unique approach to the treatment of SLE. The present
+two-part proof-of-concept study was designed primarily
+to determine the safety and tolerability of iberdomide in
+patients with SLE.
+
+In both the dose-escalation phase and the ATEP, the
+most commonly reported TEAEs in patients receiving
+iberdomide were gastrointestinal events and infections;
+most were mild or moderate in severity. TEAE frequency
+and severity appeared to be dose dependent. Serious or
+severe TEAEs were observed only in the highest iberdo-
+mide dose groups (0.6/0.3 mg alternating days and 0.6 mg
+QD); most discontinuations due to TEAFs occurred in
+the two highest iberdomide dose groups.
+
+Neutropenia was an expected AE. In vitro studies indi-
+cated an inhibitory effect of iberdomide on neutrophil
+maturation, but with full recovery of normal maturation
+following a 5-day drug-free period (data on file). In the
+present study, neutropenia AEs were relatively infrequent
+(11.1% and 12.5% in the iberdomide 0.3mg QD and
+0.6/0.3 mg alternating days groups, respectively) over the
+prolonged course of treatment (median 95.9 and 60.6
+weeks, respectively) in the ATEP. Cases of neutropenia
+were addressed with temporary dose interruptions with
+recovery to the prior count level in most instances. The
+long duration of iberdomide treatment suggests that
+iberdomide is well tolerated and TEAEs can be effectively
+managed.
+
+Iberdomide was rapidly absorbed, with dose-related
+increases in systemic exposure over the dose range. Effi-
+cacy, as previously noted, was an exploratory endpoint in
+this study, which was not powered for hypothesis testing
+and for which statistical significance was not assessed.
+Mean PGA scores improved relative to baseline in all
+iberdomide groups (but not the placebo group) during
+dose escalation and continued to improve over the course
+of the ATEP, which was not placebo controlled. Hybrid
+SELENA-SLEDAI scores trended toward improved values
+in all groups, including placebo in the dose-escalation
+phase of the study, but with a greater percentage of
+
+Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581 7
+— — PAGE 8 — —
+Lupus Science & Medicine o|
+
+A
+
+Median % change from
+baseline in CD20+ B ceils
+
+Day 29 Oay 57 Day 85
+Study day
+4 1
+5 ‘
+5 4
+4
+
+4 4
+
+—ePlacebo —@=Iberdomide 0.3 mg QO —e=Iberdomide 0.6mg QD —e- Iberdomide 0.3 mg QOD ke berdarvide 0.6/0.3 ma ALTN GD
+(e-8) (n-8) (m9 c in-%
+
+-100
+Day 29 Day 57 Day 85
+Study day
+4
+‘ 3
+3 . . 4
+‘ ‘ 4 4
+9 ‘ 5 5
+—e-Placeto —@-Iberdomide 0.3 mg QD —e-lberdomide 0.6 mg QD -#- Iberdomide 03mg QO0  —t- Ibercemide 0.6/0.1 mg ALTN OD
+(n-8) (n=) in=9) (n=8) m9)
+
+Median % change from baseline
+in myeloid dendritic cells
+
+Day 29 Day 57 Day 85
+Study day
+Piscata 5 4 2 1
+rr) 5 ‘
+0 5 ‘
+A003 mg : 4 4 ‘
+Osmeco 9 ? ?
+
+—ePlacebo t= berdamide 0.3 mg QO —e=Iberdomide 0.6mg QD e= Iberdomide 0,3 mg QOD te Iberdaride 0.6/0.3 mg ALTN GO
+(er) in-8) (m9 NB) ine
+
+Median % change fram
+baseline in CD4+ T cells
+
+100
+Day 29 Day 57 Day 85
+Study day
+Foccbo 5 4 } 1
+almgqo 7 5 : ‘
+‘ 5 $ 4
+
+0.60.2 mgALTH CO 7
+DAmECo 9 7 ‘ 7
+—*Placebo t= Ierdomide 0.3 mg QO e-Iberdomide 0.6y OD w+ Iberdomide 0.3 mg QOD te Iberdarvide 0.6/0.3 mg ALTN QD
+
+(n=) (n=B) (r=) nea) Ine
+
+B
+
+150 4
+
+\
+
+/ /
+
+\
+\
+
+Median % change from
+baseline in immature B cells
+
+Day 29 Day 57 Day 85
+Study day
+
+2 3
+
+3 4
+
+—*Placebo —#—Iberdomide 03mg QO —e-Iberdomid= 0.6 mE QD —e-iberdomide 0.3 mg QOD 4 Iberdommide 0.6/0.3 mg ALTN QO
+i ) (r=8} knw n=8) (r=9}
+
+Median % change from
+baseline in BAFFR+ B cells
+
+Day 29 Day 57 Day 85
+Study day
+
+Placebo <= Inerdomide 0.3 mg QD w= lbercomide 0.6 mg QD wm Iberdomide 0.3 mg QOD te Iberdomiie 0.6/0,3 mg ALTW CO
+ine) tr=8) (er (n=) {n=9}
+
+nn
+
+Median % Change from
+
+Day 29 Day 57 Day 85
+Study day
+
+—ePlacebo —e=Iberdomide 03mg QD —e=Iberdomide 0.6 meQD w+ Iberdomide 0.3 mg QOD = Iberdamide 0.6/0.3 mg ALTN CO
+(m8) in=B} ind (n=)
+
+8
+
+|
+
+Mextian % change from
+&
+
+baseline in CD8+ T cells
+
+& 8
+
+Day 29 Day 57 Day 85
+Study day
+
+p 7 t 7
+—ePlacebo —®=Ibercomide 0.3 mg QD —weiberdemide 0.6 mg QD w+ herdaride 0.3 mg QOD te Iberdomide 0.6/0.3 mg ALTN QD
+in-8) in=9)
+
+ina) ina) (n=9}
+
+Figure 2. Changes in. (A) CD20+.B. cells, (B). immature B. cells, (C). switched memory. B. cells, (D). BAFFR+. B. cells, (E). myeloid.
+dendritic cells, (F) plasmacytoid dendritic cells, (G) CD4+ T cells, (H) CD8+ T cells following dosing with placebo or iberdomide
+in. the. part. 1.PD. population.. *Significantly. different from. placebo. using two-sided. 95%. Cls. based. on. analysis. of covariance.
+model with the percentage change from baseline as response variable and the treatment and baseline score as factors. ALTN,
+alternating. once. daily; BAFFR+,. B-cell-activating. factor. receptor positive; QD,. once daily;. QOD,. every. other. day.
+
+patients achieving reductions of 24 points relative to
+baseline among iberdomide groups. Results for tender
+and swollen joint counts in both study parts were mixed
+during dose escalation, with most iberdomide groups
+tending toward reduced mean values over time. These
+efficacy measures in the ATEP showed similar trends
+through 96 weeks (final ATEP visit).
+
+During the dose-escalation phase, a trend toward
+numerically improved CLASI scores through week 12 was
+observed for all iberdomide treatment groups (but not
+the placebo group) relative to baseline values. Notably,
+although the lowest dose iberdomide group (0.3mg
+QOD) appeared to have the greatest reductions in CLASI
+scores, patients in this cohort also had the highest mean
+
+8 Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+— — PAGE 9 — —
+Immunology and inflammation
+
+L 1 L 1 1 1 1 1 1 1 1 1
+20-4 s 2 s L
+@ 0.3me QD @ 0.3mg QD
+94 e @ 0.6mgQD 4 ‘e @ 0.6mg QD L
+® 0.3mg QOD * ©@ 0.3 mg QoD
+.
+_ e ®e © 0.6/0.3 mg ALTN QD _ - . ee © 0.6/0.3 mg ALTN QD
+# 205 e e ~~~ loess line 2 204 ‘ ~~ “loess line r
+= e 3 8
+5 404 ee ° 4 404 ‘ . b
+ca ‘e 3
+a a
+id *. w e
+a 604 Oe ae hee . & wl a eee 8s ° L
+ee. e -o- -..
+3 ” eo ge
+4 ao L
+80 e? ° e e? e e e e? ee e
+etee bd e e . a e e e e e OTT see .
+1004 a e bd ee e 1004 e e e b
+T T T T T T T T T T T T
+0 5 10 15 20 25 0 5 10 15 20 25
+CLASI decrease from baseline CLASI decrease from baseline
+20
+0 L
+2 2» b g
+g 3
+F} Fj
+zx r x
+2 3
+a ~ @ 0.3 mg QD o @ 0.3mgQ0
+@ 0.6 mg QD @ 0.6mgQD
+o ®@ 0.3 mg QOD L © 0.3mg QoD
+© 0.6/0.3 mg ALTN QD © 0.6/0.3 mg ALTN QD
+100 ~~~ loess line -~~loess line
+
+0 5 10 15 20 25
+
+CLAS! decrease from baseline
+
+0 5 10 15 20 25
+
+CLAS! decrease from haseline
+
+Figure 3. Relationships between change in CLASI score and (A) pDCs in blood in all iberdomide-treated patients, (B) pDCs in
+blood in iberdomide-treated patients with baseline CLASI score =10, (C) B cells in blood in all iberdomide-treated patients and
+(D) B cells in blood in iberdomide-treated patients. with baseline CLASI score 210. ALTN,. alternating QD; CLASI, Cutaneous
+
+Lupus Erythematosus Disease Area and Severity Index; pDCs, plasmacytoid dendritic cells; QD, once daily; QOD, every other
+
+day.
+
+CLASI score of any group at baseline (17.6). Baseline
+values in the other treatment groups ranged from 4.3 to
+12.4. These baseline differences and the small sample
+size limit conclusions regarding dose effects of iberdo-
+mide. When analysing the pharmacodynamic immune
+cell data, improvements in CLASI score were correlated
+with observed depletion in pDCs (the principal source of
+IFN- '°) but not B cells, among all iberdomide-treated
+patients as well as in those with baseline CLASI score
+210. These findings suggest that in patients with SLE
+treated with iberdomide, the trend toward improvement
+in the cutaneous manifestations of SLE was related to
+pDC depletion but not B cell number and/or activity.
+Although the IFN signature was not examined in the
+current study, these observations are consistent with
+iberdomide-mediated reduction in type I IFN response as
+its operative mechanism of action.
+
+The PK/pharmacodynamic analysis revealed a rela-
+tionship between iberdomide drug exposure levels and
+decreases in pDCs and B cells, as well as an unexpected
+increase in peripheral blood plasma cells. The increased
+plasma cell numbers in the blood, observed mainly in the
+0.6mg QD dose group, might be driven by an increased
+production of IL-2 and IL-10, which can act as plasma
+cell differentiation factors.”” This observed increase in
+plasma cells, combined with the upward trend in CD8+
+T cells, suggests that the 0.6 mg QD iberdomide dose may
+result in undesirable pharmacodynamic effects in the
+
+context of lupus treatment. No dose-dependent effects
+of iberdomide were observed on anti-dsDNA antibody
+levels at 12 weeks; however, a subsequent study showed a
+dose-dependent decrease in these antibody levels starting
+after 16 weeks of treatment in patients with baseline levels
+>81U/mL.”!
+
+Study limitations include the small sample size, the size-
+able time gap between the dose-escalation phase and the
+ATEP, and the limited (12weeks) duration of the dose-
+escalation phase, a particularly short period given that
+4 weeks may be required for the full pharmacodynamic
+effects of iberdomide to manifest. A patient population
+with mild disease activity enrolled in this study based on
+the relatively low mean baseline hybrid SELENA-SLEDAT
+scores (4.9-8.4) and the exclusion of patients receiving
+>10mg/day of prednisone or any background immuno-
+suppressants. Lower CLASI and PGA scores in the placebo
+group at baseline limit the ability to identify treatment
+differences for these outcomes.
+
+Our findings suggest a tolerable short-term (dose
+escalation) and long-term (ATEP) safety profile for
+iberdomide in patients with SLE, consistent with that
+reported in the first-in-human study.'* Multiple vali-
+dated measures, particularly PGA and CLASI scores,
+provided directional evidence of iberdomide efficacy.
+Taken as a whole, findings from this proof-of-concept
+study support further investigation of iberdomide in
+patients with SLE.
+
+Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581 9
+— — PAGE 10 — —
+Lupus Science & Medicine o|
+
+Author affiliations
+
+‘Rheumatology, Northwell Health, Great Neck, New York, USA
+
+Clinical. Research, Bristol Myers Squibb, Princeton, New Jersey, USA
+5Translational Development, Clinical Pharmacology, Bristol Myers Squibb, Princeton,
+New Jersey, USA
+
+‘ICF Early Clinical Development, Bristol Myers Squibb, Princeton, New Jersey, USA
+Clinical R&D, Bristol Myers. Squibb, Princeton, New. Jersey, USA
+
+5Biometrics, Bristol Myers Squibb, Princeton, New Jersey, USA
+
+"TRC. Inflammation, CV.& Fibrosis and Global. Health, Bristol Myers. Squibb,
+Princeton, New Jersey, USA
+
+5Corporal Michael J Crescenz VA Medical. Center, University of Pennsylvania
+Perelman School of Medicine, Philadelphia, Pennsylvania, USA
+
+Acknowledgements. Thank you to the patients and families who have made the
+study possible. and the. associated clinical trial teams. The. authors. would like. to
+thank Suktae. Choi. and Ada Azaryan.for their contributions to. the study.All authors.
+contributed to and approved the manuscript; writing and editorial assistance were.
+provided. by Amy. Zannikos, PharmD, of Peloton Advantage, LLC, an OPEN. Health.
+company, funded by Bristol Myers. Squibb.
+
+Contributors RAF—criterion 1: (a) substantial contributions to study conception
+and design, and/or (b) substantial contributions to acquisition of data, and/or (c)
+substantial contributions to analysis and interpretation of data; criterion 2: drafting
+the article or revising it critically for important intellectual content; and criterion
+
+3: final approval of the version of the article to be published. DRH—criterion 1: (a)
+substantial contributions to study conception and design, and/or (b) substantial
+contributions to acquisition of data, and/or (c) substantial contributions to analysis
+and interpretation of data; criterion 2: drafting the article or revising it critically
+
+for important intellectual content; and criterion 3: final approval of the version of
+the article to be published. AG—criterion 1: (a) substantial contributions to study
+conception and design, and/or (b) substantial contributions to acquisition of data,
+and/or (c) substantial contributions to analysis and interpretation of data; criterion
+2: drafting the article or revising it critically for important intellectual content;
+
+and criterion 3: final approval of the version of the article to be published. YY—
+criterion 1: (a) substantial contributions to study conception and design, and/or (b)
+substantial contributions to acquisition of data, and/or (c) substantial contributions
+to analysis and interpretation of data; criterion 2: drafting the article or revising
+
+it critically for important intellectual content; and criterion 3: final approval of the
+version of the article to be published. Sk—criterion 1: (a) substantial contributions
+to study conception and design, and/or (b) substantial contributions to acquisition
+of data, and/or (c) substantial contributions to analysis and interpretation of data;
+criterion 2: drafting the article or revising it critically for important intellectual
+content; and criterion 3: final approval of the version of the article to be published.
+ND—criterion 1: (a) substantial contributions to study conception and design,
+and/or (b) substantial contributions to acquisition of data, and/or (c) substantial
+contributions to analysis and interpretation of data; criterion 2: drafting the article or
+revising it critically for important intellectual content; and criterion 3: final approval
+of the version of the article to be published. MW—criterion 1: (a) substantial
+contributions to study conception and design, and/or (b) substantial contributions to
+acquisition of data, and/or (c) substantial contributions to analysis and interpretation
+of data; criterion 2: drafting the article or revising it critically for important
+intellectual content; and criterion 3: final approval of the version of the article to
+be published. XZ—criterion 1: (a) substantial contributions to study conception
+and design, and/or (b) substantial contributions to acquisition of data, and/or (c)
+substantial contributions to analysis and interpretation of data; criterion 2: drafting
+the article or revising it critically for important intellectual content; and criterion
+
+3: final approval of the version of the article to be published. PHS—criterion 1: (a)
+substantial contributions to study conception and design, and/or (b) substantial
+contributions to acquisition of data, and/or (c) substantial contributions to analysis
+and interpretation of data; criterion 2: drafting the article or revising it critically
+
+for important intellectual content; and criterion 3: final approval of the version of
+the article to be published. VPW—criterion 1: (a) substantial contributions to study
+conception and design, and/or (b) substantial contributions to acquisition of data,
+and/or (c) substantial contributions to analysis and interpretation of data; criterion
+2: drafting the article or revising it critically for important intellectual content; and
+criterion 3: final approval of the version of the article to be published.
+
+Funding. The study was supported by Bristol Myers Squibb.
+Competing interests. RAF—Bristol Myers. Squibb. (research/grant support,
+consultancy). DRH—Bristol Myers. Squibb (employment at the time of the study);
+
+Bristol Myers. Squibb (shareholder). AG, YY, SK, ND, MW and PHS—Bristol Myers.
+Squibb (employment); Bristol Myers Squibb. (shareholder). XZ—Bristol Myers.
+
+Squibb (employment at the time of the study); Bristol Myers. Squibb (shareholder).
+VPW—Bristol Myers. Squibb (research/grant support, consultancy).
+
+Patient consent for publication. Not required.
+
+Ethics approval. The study was carried out according to. the principles. of the
+Declaration of Helsinki. using. Good Clinical Practice. as. described. in. the International
+Council for Harmonisation E6. guidelines. The protocol was. approved by the.
+institutional review board (IRB) at each study site (Schulman Associates IRB,
+Cincinnati, Ohio; MetroHealth IRB, Cleveland, Ohio; Northwestern University IRB,
+Chicago, Illinois;. Western. IRB, Puyallup, Washington; UCSD. Human. Research
+Protection. Program, La Jolla, California; Emory. University. IRB, Atlanta, Georgia;
+Biomedical Research Alliance. of New. York IRB, Lake Success, New York;. Columbia
+University. Medical. Center. IRB, New. York, New. York;. University. of Pennsylvania
+Office of Regulatory Affairs, Philadelphia, Pennsylvania). All patients provided
+written informed consent.
+
+Provenance and peer review Not commissioned; externally peer reviewed.
+
+Data availability statement BMS policy. on data sharing. may. be found at https://
+www.bms.com/researchers-and-partners/independent-research/data-sharing-
+request-process.html.
+
+Supplemental material. This. content has. been. supplied. by. the. author(s). It has.
+not been. vetted by. BMJ. Publishing. Group. Limited (BMJ). and. may. not have. been.
+peer-reviewed. Any. opinions. or. recommendations. discussed. are. solely. those.
+
+of. the. author(s). and. are. not endorsed. by. BMJ..BMJ. disclaims. all liability. and.
+responsibility. arising. from. any. reliance. placed. on. the. content. Where. the. content
+includes. any. translated. material, BMJ. does. not warrant the. accuracy. and reliability.
+of. the. translations. (including. but not limited to. local. regulations, clinical. guidelines,
+terminology, drug. names. and. drug. dosages), and. is. not responsible. for. any. error.
+and/or. omissions arising. from. translation and. adaptation or. otherwise.
+
+Open access This is an open access article distributed in accordance with the
+Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits
+others to copy, redistribute, remix, transform and build upon this work for any
+purpose, provided the original work is properly cited, a link to the licence is given,
+and indication of whether changes were made. See: https://creativecommons.org/
+licenses/by/4.0/.
+
+ORCID.iDs
+Richard.A Furie. http://orcid.org/0000-0001-6712-1585
+Victoria P Werth. http://orcid.org/0000-0003-3030-5369
+
+REFERENXES
+
+1 Furie R, Wang L, Illei G, et a/. Systemic lupus erythematosus (SLE)
+responder index response is. associated with global benefit for.
+patients. with SLE. Lupus 2018;27:955-62.
+
+2 Kaul A, Gordon C, Crow MK, et a/. Systemic lupus erythematosus.
+Nat Rev Dis Primers.2016;2:16039.
+
+3. AstraZeneca. Saphnelo [package insert]. Wilmington, DE:
+AstraZeneca Pharmaceuticals LP, July 2021.
+
+. 4. Jordan. N,.D'Cruz. D. Current and. emerging. treatment options in. the
+management of lupus. /mmunotargets Ther 2016;5:9-20.
+
+. 5. John.LB,.Ward AC. The Ikaros. gene family: transcriptional. regulators.
+of hematopoiesis and immunity. Mol Immunol 2011;48:1272-8.
+
+. 6 Schafer. PH, Ye Y,.Wu.L, et a/.. Cereblon. modulator iberdomide.
+induces. degradation of the transcription factors. Ikaros and Aiolos:
+immunomodulation in healthy volunteers and relevance to systemic
+lupus. erythematosus..Ann Rheum Dis.2018;77:1516-23.
+
+. 7 Nakayama Y, Kosek J, Capone L, et a/. Aiolos overexpression. in
+systemic lupus erythematosus B cell subtypes and BAFF-induced
+memory. B. cell. differentiation. are reduced. by. CC-220. modulation. of.
+cereblon activity. J /mmunol 2017;199:2388-407.
+
+. 8 Lessard CJ, Adrianto. |, Ice JA,.et al. Identification of IRF8,.
+TMEMB89A, and IKZF3-ZPBP2 as susceptibility loci for systemic
+lupus. erythematosus in. a large-scale. multiracial replication. study. Am
+J Hum Genet 2012;90:648-60.
+
+9 Westra H-J, Peters MJ, Esko T, et a/. Systematic identification of
+trans. eQTLs. as. putative. drivers. of known. disease. associations.. Nat
+Genet 2013;45:1238-43.
+
+.10 Wang.C, Ahlford A, Jarvinen TM, et a/. Genes. identified in Asian SLE
+GWASs are also associated with SLE in Caucasian populations. Eur
+J Hum Genet 2013;21:994-9.
+
+.11. Matyskiela ME, Zhang W, Man. H-W, et a/. A cereblon modulator. (CC-
+220) with improved degradation of Ikaros and Aiolos. J Med Chem
+2018;61:535-42.
+
+10 Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+— — PAGE 11 — —
+Immunology and inflammation
+
+12
+
+13.
+
+Ye Y, Gaudy A, Schafer P, et a/. First-in-human, single- and
+multiple-ascending-dose. studies in. healthy. subjects. to. assess
+pharmacokinetics,. pharmacodynamics, and safety/tolerability. of.
+iberdomide, a novel cereblon E3 ligase modulator. Clin Pharmacol
+Drug Dev 2021;10:471-85.
+
+American. College. of Rheumatology. 1997. update of the. 1982
+American College of Rheumatology revised criteria for classification
+of systemic lupus erythematosus, 1997. Available: https://www.
+rheumatology.org/Portals/0/Files/1 997 %20Update %200f%201982%
+20Revised.pdf
+
+Petri M, Kim MY, Kalunian KC, et a/. Combined oral contraceptives
+in. women. with. systemic. lupus. erythematosus.. N Eng/ J Med.
+2005;353:2550-8.
+
+Albrecht J, Taylor L, Berlin JA, et a/. The CLASI (Cutaneous Lupus
+Erythematosus Disease Area and Severity Index): an outcome
+instrument for. cutaneous. lupus. erythematosus..J Invest Dermatol.
+2005;125:889-94.
+
+Klein R, Moghadam-Kia S, LoMonico J, et a/. Development of the
+CLASI as.a tool to. measure. disease. severity. and responsiveness
+
+.20
+
+21
+
+to therapy in cutaneous lupus erythematosus. Arch Dermatol
+2011;147:203-8.
+
+. Gladman DD, Urowitz MB, Kagal A, et a/. Accurately. describing
+
+changes in disease activity in systemic lupus erythematosus. J
+Rheumatol. 2000;27:377-9.
+
+. Wells GA, Tugwell P, Kraag. GR, et a/.. Minimum. important difference.
+
+between patients with rheumatoid arthritis: the patient's perspective.
+J Rheumatol! 1993;20:557-60.
+
+Murayama G, Furusawa N,. Chiba A, et a/. Enhanced. IFN-
+
+production is associated with increased TLR7 retention in the
+lysosomes of palasmacytoid dendritic cells in systemic lupus
+erythematosus. Arthritis Res Ther 2017;19:234.
+
+Klein B,. Tarte K, Jourdan M, et a/.. Survival and proliferation factors. of.
+normal and malignant plasma cells. /nt J Hematol 2003;78:106-13.
+Lipsky. P,. van. Vollenhoven. R,. Dorner. T.. lberdomide. decreases. B. cells.
+and. plasmacytoid. dendritic cells, increases regulatory T. cells and
+IL-2, and has enhanced clinical efficacy in active systemic lupus
+erythematosus patients with high Aiolos or the IFN gene expression
+signature [abstract]. Arthritis Rheumatol 2020;72:0851.
+
+Furie RA, et al. Lupus Science & Medicine 2022;9:e000581. doi:10.1136/lupus-2021-000581
+
+11

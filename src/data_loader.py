@@ -28,9 +28,9 @@ def load_all_documents(data_dir: str) -> List[Any]:
         except Exception as e:
             print(f"[ERROR] Failed to load PDF {pdf_file}: {e}")
 
-    # TXT files
-    from langchain_core.documents import Document
+    from langchain_community.document_loaders import TextLoader
 
+    # TXT files
     txt_files = list(data_path.glob("**/*.txt"))
     print(f"[DEBUG] Found {len(txt_files)} TXT files: {[str(f) for f in txt_files]}")
 
@@ -38,26 +38,19 @@ def load_all_documents(data_dir: str) -> List[Any]:
         print(f"[DEBUG] Loading TXT: {txt_file}")
 
         try:
-            with open(txt_file, "r", encoding="utf-8", errors="ignore") as f:
-                text = f.read().strip()
-
-            if not text:
-                print(f"[WARN] TXT file is empty: {txt_file}")
-                continue
-
-            doc = Document(
-                page_content=text,
-                metadata={
-                    "source": str(txt_file),
-                    "type": "txt"
-                }
+            loader = TextLoader(
+                file_path=str(txt_file),
+                encoding="utf-8",
+                autodetect_encoding=True
             )
+            loaded = loader.load()
 
-            documents.append(doc)
-            print(f"[DEBUG] Loaded 1 TXT doc from {txt_file}")
+            print(f"[DEBUG] Loaded {len(loaded)} TXT docs from {txt_file}")
+            documents.extend(loaded)
 
         except Exception as e:
             print(f"[ERROR] Failed to load TXT {txt_file}: {e}")
+
 
     # CSV files
     csv_files = list(data_path.glob('**/*.csv'))
@@ -116,6 +109,6 @@ def load_all_documents(data_dir: str) -> List[Any]:
 
 # Example usage
 if __name__ == "__main__":
-    docs = load_all_documents("data")
+    docs = load_all_documents("fixed_pdf")
     print(f"Loaded {len(docs)} documents.")
     print("Example document:", docs[0] if docs else None)

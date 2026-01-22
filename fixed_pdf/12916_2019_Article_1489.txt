@@ -1,0 +1,1858 @@
+— — PAGE 1 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+https://doi.org/10.1186/s12916-019-1489-0 B Mi C M ed ici ne
+
+RESEARCH ARTICLE Open Access
+
+Effect of tuberculosis screening and ®
+retention interventions on early ~
+antiretroviral therapy mortality in
+
+Botswana: a stepped-wedge cluster
+
+randomized trial
+
+Andrew F. Auld'?’®@, Tefera Agizew?, Anikie Mathoma®, Rosanna Boyd®, Anand Date', Sherri L. Pals',
+Christopher Serumola®, Unami Mathebula®, Heather Alexander’, Tedd V. Ellerbrock', Goabaone Rankgoane-Pono’,
+Pontsho Pono*, James C. Shepherd?”, Katherine Fielding®’, Alison D. Grant®”® and Alyssa Finlay
+
+Abstract
+
+Background: Undiagnosed tuberculosis (TB) remains the most common cause of HIV-related mortality. Xpert MTB/
+RIF (Xpert) is being rolled out globally to improve TB diagnostic capacity. However, previous Xpert impact trials
+have reported that health system weaknesses blunted impact of this improved diagnostic tool. During phased
+Xpert rollout in Botswana, we evaluated the impact of a package of interventions comprising (1) additional support
+for intensified TB case finding (ICF), (2) active tracing for patients missing clinic appointments to support retention,
+and (3) Xpert replacing sputum-smear microscopy, on early (6-month) antiretroviral therapy (ART) mortality.
+Methods: At 22 clinics, ART enrollees > 12 years old were eligible for inclusion in three phases: a retrospective standard
+of care (SOQ), prospective enhanced care (EC), and prospective EC plus Xpert (EC+X) phase. EC and EC+X phases were
+implemented as a stepped-wedge trial. Participants in the EC phase received SOC plus components 1 (strengthened
+
+ICF) and 2 (active tracing) of the intervention package, and participants in the EC+X phase received SOC plus all three
+intervention package components. Primary and secondary objectives were to compare all-cause 6-month ART
+mortality between SOC and EC+X and between EC and EC+X phases, respectively. We used adjusted analyses,
+appropriate for study design, to control for baseline differences in individual-level factors and intra-facility correlation.
+
+Results: We enrolled 14,963 eligible patients: 8980 in SOC, 1768 in EC, and 4215 in EC-+X phases. Median age of ART
+enrollees was 35 and 64% were female. Median CD4 cell count was lower in SOC than subsequent phases (184/ L in SOC,
+246/ Lin EC, and 241/ L in EC+X). By 6 months of ART, 461 (5.3%) of SOC, 54 (3.2%) of EC, and 121 (3.0%) of EC+X enrollees
+had died. Compared with SOC, 6-month mortality was lower in the EC+X phase (adjusted hazard ratio, 0.77; 95% confidence
+interval, 0.61-0.97, p = 0.029). Compared with EC enrollees, 6-month mortality was similar among EC+X enrollees.
+
+(Continued on next page)
+
+* Correspondence: aauld@cdc.gov
+
+Presented in part at the Conference on Retroviruses and Opportunistic
+Infections (CROI), Boston, 4-7 March, 2018 (Oral Abstract 31, session O-03)
+'Division of Global HIV & TB, Centers for Disease Control and Prevention,
+Atlanta, USA
+
+*Center for Global Health, U.S. Centers for Disease Control and Prevention
+(CDO, Lilongwe, Malawi
+
+Full list of author information is available at the end of the article
+
+© The Author(s). 2020 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+— — PAGE 2 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+(Continued from previous page)
+
+Page 2 of 14
+
+Conclusions: Interventions to strengthen ICF and retention were associated with lower early ART mortality. This new
+evidence highlights the need to strengthen ICF and retention in many similar settings. Similar to other trials, no additional
+mortality benefit of replacing sputum-smear microscopy with Xpert was observed.
+
+Trial registration: Retrospectively registered: ClinicalTrials.gov (NCTO2538952)
+
+Keywords: Tuberculosis, Xpert MTB/RIF, Intensified tuberculosis case finding, Mortality
+
+Background
+
+In resource-limited settings, tuberculosis (TB) remains
+the most common cause of death among people living
+with HIV (PLHIV), including those starting antiretroviral
+therapy (ART), and is commonly undiagnosed at the
+time of death [1, 2]. Death from undiagnosed TB or TB
+diagnosed late is a key reason early (6-month) ART mor-
+tality rates remain significantly higher in sub-Saharan
+Africa (SSA) than resource-rich settings [2-4]. All data
+point towards a critical need to improve TB case finding
+among PLHIV starting ART.
+
+In 2011, following World Health Organization (WHO)
+endorsement of Xpert MTB/RIF® (Xpert) as the first-line
+TB diagnostic test for symptomatic PLHIV [5], the
+Botswana Ministry of Health (MOH) and partners initi-
+ated planning for a phased national Xpert rollout [6].
+Review of available program data for new HIV care
+enrollees showed that many components of the intensi-
+fied TB case finding (ICF) cascade, especially compliance
+with the WHO-recommended 4-symptom TB screening
+rule, and early retention in HIV care, should be
+strengthened in order for Xpert to have maximum bene-
+fit [7]. Weaknesses in the health system that have re-
+sulted in poor completion of the TB diagnostic and
+treatment cascade and sub-optimal retention in HIV
+care, have been cited as important reasons for lack of
+observed Xpert impact on PLHIV mortality in similar
+settings [8, 9]. Therefore, Botswana used the Xpert roll-
+out as an opportunity to strengthen ICF and retention in
+early HIV care through rollout of a package of services
+[6]. The intervention package has three components: (1)
+additional support for ICF, (2) intensified tracing for pa-
+tients missing clinic appointments to return them to
+care, and (3) Xpert replacing sputum-smear microscopy.
+
+No trial has yet evaluated impact of Xpert combined
+with strengthened health systems on mortality [8-10]. We
+evaluated impact of the Xpert, ICF, and retention package
+versus standard of care on early ART patient mortality.
+
+Methods
+
+Study design
+
+We conducted a multi-center, stepped-wedge cluster
+randomized trial (CRT) with a retrospective baseline
+component called the Xpert Package Rollout Evaluation
+using a Stepped-wedge design (XPRES) trial. A stepped-
+
+wedge rather than parallel group design was chosen be-
+cause the Xpert, ICF, and retention package was ex-
+pected to be beneficial for patients and the trial was part
+of a national rollout [6].
+
+Participants
+
+A cluster was defined as an HIV care and treatment
+clinic. Twenty-two clusters, located at five district hospi-
+tals and 17 primary healthcare facilities, were purpos-
+ively selected to (1) be representative of HIV treatment
+clinics in Botswana and (2) have new ART initiation
+rates sufficient to meet sample size requirements (see
+Additional file 1, providing text on clinic selection cri-
+teria). At these 22 clusters, individual patients were eli-
+gible for study enrollment if they were new HIV clinic
+attendees, regardless of TB treatment status, and not
+prisoners at the time of the first HIV clinic visit. The
+study aimed to enroll or offer enrollment to all eligible
+HIV clinic attendees in three consecutive phases: (1) a
+retrospective standard of care (SOC) phase, (2) a pro-
+spective enhanced care (EC) phase, and (3) a prospective
+EC plus Xpert (EC+X) phase (Fig. 1). For this pre-
+defined protocol analysis, only those study enrollees who
+newly started ART at or after study enrollment and were
+
+12 years old at ART initiation were included [6].
+
+Randomization and masking
+
+The selected 22 clusters received TB diagnostic services
+from 13 laboratories (Fig. 1). Because some of the study
+clinics used the same TB diagnostic laboratory, full
+Xpert, ICF, and retention package activation was
+planned to be simultaneous for these clinic consortiums
+(Fig. 1). After obtaining ethical approvals and agreement
+to participate in the study from MOH at a central level
+and MOH management at the selected facilities, the
+study statistician randomly selected one of the rollout
+permutations [6].
+
+Procedures
+
+At the 22 clusters, per Botswana national guidelines dur-
+ing the time period of the study (July 2010 through June
+2015), all study participants in all phases were eligible for
+ART initiation if they had a CD4 count < 350 cells/ L,
+were diagnosed as having WHO stage III/IV, or were
+pregnant or breastfeeding [11]. All study participants
+— — PAGE 3 — —
+Auld et al. BMC Medicine .......... (2020). 18:19.
+
+Page 3 of 14
+
+District - Clinic
+
+[1. Lobatse - Athlon Hosp
+
+2. Serowe — Kadimo
+
+|. Serowe —Serowe
+
+}4. Francistown - Area W
+
+|5. Francistown — Boswelelo
+
+\6. Gaborone — Bontleng
+
+\?. Gaborone - Broadhurst trad
+\8. Molepolole — Borakalalo
+
+(9. Molepolole — Kgosing
+
+10, Molepolole — MCC
+
+11, Molepolole — Phuthadikubo:
+112. Maun — Boseja
+
+13. Maun = Maun
+
+114, Maun — Letsholathebe Mem II Hosp
+115. Kanye - SDA Hosp
+
+16. Bobirwa — Bobonong
+
+17. Mogoditsane — Nkoyaphiri Clinic
+‘18, Muchudi — DRM Hospital
+19. Francistown — NRH
+
+|20, Gantsi —- Gantsi Primary
+
+21, Palapye — Ext 3
+
+22. Palapye — Lotsane
+
+received clinical care and follow-up appointments accord-
+ing to MOH guidelines (see Additional file 2, a table sum-
+marizing standard clinical care follow-up).
+
+Standard of care phase
+
+Enrollment in the retrospective SOC phase was through
+chart abstraction of eligible adult patients who started
+ART between July 2010 and the end of July 2012 (Fig. 1)
+[6]. The SOC phase enrollees received HIV care accord-
+ing to national guidelines, limited ICF, infrequent active
+tracing due to resource limitations, and sputum-smear
+microscopy for presumptive TB patients.
+
+Intervention phases EC and EC X
+
+Prospective EC enrollment started in August 2012 and
+was complete by January 2013. Prospective EC+X enroll-
+ment occurred from October 2012 through March 2014
+according to the stepped-wedge design (Fig. 1). EC phase
+participants received SOC supplemented by two compo-
+nents of the Xpert, ICF, and retention package (i.e., add-
+itional support for ICF and intensified tracing) combined
+with sputum-smear microscopy. EC+X phase partici-
+pants received SOC supplemented by all three compo-
+nents of the Xpert, ICF, and retention package (ie.,
+additional support for ICF, intensified tracing, and Xpert
+in place of sputum-smear microscopy). All interventions
+were activated at the cluster-level for the benefit of all
+clients receiving care at the clinic. EC and EC+X
+
+ndicates initiation of one of 13 Xpert devices in 9 steps
+
+Fig 1 Study design for the Xpert Package Rollout Evaluation using a Stepped-wedge design (XPRES). Abbreviations: SOC, standard of care phase;
+EC, enhanced care phase; EC+X, enhanced care plus Xpert phase
+
+participants were followed for 12 months, or until the
+end of TB treatment, whichever was later. The final
+follow-up visits for EC+X enrollees were in June 2015.
+
+Interventions
+
+The ICF and active tracing interventions were strength-
+ened through four key mechanisms: (1) additional human
+resources (study nurses) to support implementation, (2)
+additional training for clinic and laboratory personnel, (3)
+use of checklists and job aids to standardize implementa-
+tion, and (4) regular supervisory visits to track adherence
+to ICF and tracing checklists.
+
+ICF intervention
+
+Implementation of the WHO 4-symptom TB screening
+rule (i.e., screening for cough of any duration, fever, loss
+of weight, and night sweats) [12] was recommended for
+all enrollees at each clinic visit in the SOC, EC, and
+EC+X phases, but implementation was strengthened in
+the EC and EC+X phases. In all phases, clients were con-
+sidered symptomatic if they screened positive for one or
+more of the four TB symptoms. In all phases, at least
+two same-day, on-the-spot (spot) sputum samples were
+recommended for collection from symptomatic clients.
+As part of strengthened ICF in the EC and EC+X phases,
+a previously published job-aid was used by study nurses
+to inform the patient how to collect quality sputum sam-
+ples [6]. Prior to the EC phase, laboratory personnel at
+— — PAGE 4 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+the 13 laboratories serving the 22 clusters received re-
+fresher training on Ziehl-Neelsen staining for sputum-
+smear microscopy, and prior to the EC+X phase, labora-
+tory personnel were trained for Xpert implementation.
+In all phases, sputum test results were returned to the
+clinics, with clinicians responsible for informing the pa-
+tients. In the SOC phase, the patient was informed of a
+TB diagnosis at the next scheduled clinic appointment.
+In the EC and EC+X phases, study nurses were trained
+to work with laboratories to ensure the turnaround time
+from sample collection to result return to the clinic was
+<4days for sputum-smear microscopy and <2 days for
+Xpert testing. In the EC and EC+X phases, nurses were
+trained to inform patients of positive TB diagnoses the
+same day via phone, or if unreachable by phone, by ac-
+tive tracing to the household. Indicators monitoring im-
+plementation of the ICF cascade were collected and used
+to inform supervision visits (see Additional file 3, a table
+summarizing the indicators) [7].
+
+Active tracing intervention
+
+Per national guidelines, clients 1day late for an HIV
+clinic appointment should be traced through phone and
+home visit starting the day after the missed visit. How-
+ever, program reports showed this tracing was infre-
+quently implemented in the SOC phase due to lack of
+human and financial resources. Implementation of the
+active tracing policy was strengthened in the EC and
+EC+X cohorts. In the EC and EC+X phases, a patient lo-
+cator form was used to document telephone numbers
+and home addresses for intensified tracing activities to
+support retention. Up to five telephone calls and two
+home visits, facilitated by checklists, were used in at-
+tempts to return clients, who had missed clinic appoint-
+ments, to care. The key HIV care retention indicator
+used for monitoring purposes was the rate of loss to
+follow-up (LTFU) per 100 person-years (see Additional
+file 3, a table summarizing the indicators). LTFU was de-
+fined as being >60days late for a scheduled appoint-
+ment, per Botswana guidelines.
+
+Objectives and outcomes
+The study had two primary objectives. The primary ob-
+jective reported here is the non-randomized comparison
+of all-cause 6-month ART mortality among adult ART
+enrollees ( 12 years old) between the SOC and EC+X
+phases [6]. The second primary objective, which aimed to
+compare diagnostic sensitivity of the new Xpert-based TB
+diagnostic algorithm with that of the sputum-smear-
+microcopy-based algorithm, will be reported separately ac-
+cording to diagnostic accuracy study reporting guidelines.
+Secondary objectives reported in this paper include (1)
+the comparison of 12-month ART mortality between SOC
+and EC+X phases and (2), within the randomized
+
+Page 4 of 14
+
+stepped-wedge trial, the comparison of all-cause, adult, 6-
+month ART mortality between the EC and EC+X phases.
+
+We implemented intensive efforts to ascertain true
+mortality outcomes among participants. Deaths and date
+of death were either passively reported to the clinic by
+friends or relatives of the deceased participant, or ac-
+tively ascertained if the client had missed an appoint-
+ment or was considered LTFU [13]. Initial efforts to
+ascertain outcomes of clients who missed an appoint-
+ment or were LTFU included phone outreach to the cli-
+ent or contact and home visits. For participants in the
+SOC phase, these efforts started after data entry was
+complete which was always > 12 months after ART initi-
+ation. In the EC and EC+X phases, this outreach started
+immediately after the missed appointment, in an attempt
+to return the client to care. For all clients unreachable
+by phone or home visit who met the LTFU definition,
+vital status was ascertained through national Death
+Registry review. By law, since 1969, all deaths need to be
+registered in the Death Registry, which is maintained by
+the Civil and National Registration Office.
+
+Sample size
+
+As described previously [6], to obtain conservative sam-
+ple size estimates, we used the approach of Moulton
+et al., suitable for stepped-wedge trial designs, to esti-
+mate required sample sizes to meet the primary study
+objective comparing 6-month ART mortality rates be-
+tween SOC and EC+X phases [14]. Funding limitations
+restricted the number of clinics that could be included
+in the study to 22. A between-cluster coefficient of vari-
+ation of 0.2 was used based on review of the literature of
+similar stepped-wedge trials [14]. Monthly HIV clinic
+(cluster) size was derived from reported program ART
+enrollment rates in the SOC phase and varied between
+clinics (average, 23 ART enrollees/month; range, 8—46/
+month). Prior to study start, available data from
+Botswana suggested that all-cause, adult, 6-month ART
+mortality rates were about 15 deaths per 100 person-
+years [3, 15]. To provide > 80 power to detect a 40
+reduction in all-cause 6-month ART mortality between
+the two groups, assuming SOC mortality was 10/100
+person-years, a 24-month SOC phase enrollment period
+(| =12,144) and an 18 month EC+X phase enrollment
+period ( = 6348) were chosen.
+
+Statistical analysis
+
+For the primary outcome analysis, time at risk for ART
+enrollees started on the day of ART initiation and ended
+at 6months of follow-up after ART initiation, or at the
+time of death, LTFU, or transfer out if these events were
+before 6 months of ART follow-up. Crude and multivari-
+able Cox proportional hazards regression models, with a
+random effect for clinic, were used to assess the effect of
+— — PAGE 5 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+intervention status (SOC vs EC+X) on time to death [6].
+Per a pre-specified analysis plan, age at ART initiation,
+sex, pregnancy status, and baseline CD4 count were a
+priori covariates to be included in the multivariable
+model. Hemoglobin at ART initiation [16], ART regimen
+[17], and weight at ART initiation [16] were included in
+the multivariable model because of their importance as
+predictors of mortality in this and other analyses.
+
+Pre-specified secondary analyses were conducted to
+(1) compare 12-month ART mortality between SOC
+and EC+X phases and (2) compare 6-month ART
+mortality rates between cohorts EC and EC+X [6].
+For the latter, we used analytic methods described by
+Moulton et al., fitting Cox proportional hazards
+models to the data with the underlying time frame
+being time since August 2012 (initiation month for
+the stepped-wedge component of the trial), fixed ef-
+fect for intervention arm (Xpert device activation),
+and a random effect for clinic [14]. The proportional-
+ity assumption was checked using visual methods and
+the Grambsch and Therneau test.
+
+Per the pre-specified analysis plan, plausible interac-
+tions between the intervention effect and other covari-
+ates, including CD4 count at ART initiation, were
+examined by comparing models with and without inter-
+actions using the likelihood ratio test. Per the pre-
+specified analysis plan, the primary time-to-event ana-
+lytic approaches comparing SOC versus EC+X and EC
+versus EC+X mortality rates assigned follow-up time to
+the phase in which the participant started ART because
+the interventions were expected to have maximum im-
+pact around the time of ART initiation. However, two
+pre-specified sensitivity analyses of this approach were
+planned. The first sensitivity analysis censors follow-up
+time for ART enrollees at the time of cross-over be-
+tween phases, while the second assigns follow-up time
+to contemporary intervention phases when cross-over
+occurs, through use of a time-dependent covariate [18].
+In addition, per a third pre-specified sensitivity analysis,
+an inverse probability weighting approach was used to
+account for non-enrollment in the EC and EC+X phases
+of the study. Separate adjusted logistic regression models
+for hospital versus clinic enrollees were used to predict
+the probability of being enrolled in the study. Patients
+consenting to enrollment were up-weighted by the in-
+verse of the calculated enrollment probability. An ad-
+justed logistic regression approach was used to estimate
+inverse probability weights to lower the likelihood of
+bias given the possibility of non-random enrollment in
+the EC and EC+X phases [19]. All analyses were con-
+ducted using STATA 14 or 16 (StataCorp, 2009, Stata
+Statistical Software, Release 14 and 16, College Station,
+TX). XPRES is registered at ClinicalTrials.gov (trial
+registration no. NCT02538952).
+
+Page 5 of 14
+
+Results
+
+Enrollment
+
+Across the 22 study clinics, there were 528 months of
+enrollment in the SOC phase (mean 24/clinic), 120
+months in the EC phase (mean 5.5/clinic), and 299
+months of enrollment in the EC+X phase (mean 13.6
+months/clinic) (Fig. 2). All 10,047 eligible patients for
+the SOC phase were enrolled. Among the 2703 and
+5834 patients eligible for the EC and EC+X phases, re-
+spectively, 1794 (66 ) and 4247 (73 ) consented to en-
+rollment. The main reason eligible clients were not
+enrolled prospectively is that they left the clinic before
+they could be offered enrollment. The demographic and
+clinical characteristics of clients consenting to enroll-
+ment were very similar to the characteristics of clients
+not enrolled (see Additional file 4, a table comparing
+characteristics of those enrolled versus not enrolled).
+We excluded from this analysis patients who transferred
+into the clinic on ART (1 = 1067), were < 12 years old at
+ART initiation (1=22), or did not start ART during
+follow-up (1 = 36) (Fig. 2). In total, 8980, 1768, and 4215
+patients were included in the SOC, EC, and EC+X
+phases for analysis, respectively.
+
+Baseline characteristics
+
+Among all study enrollees included in the analysis, me-
+dian age was 35 (interquartile range (IQR) 29-42) at
+ART initiation and the percentage female was 64 and
+these characteristics were similar between phases
+(Table 1). Among female enrollees, the percentage who
+were pregnant at the time of ART initiation was lower
+in the SOC phase (16 ) than EC (23 ) and EC+X (32 )
+phases. Among all enrollees, median weight (58.4 kg)
+and median hemoglobin (11.7 g/dL) were similar be-
+tween phases. However, median CD4 count at ART ini-
+tiation was lower in the SOC phase (184 cells/ L) than
+in the EC (246 cells/ L) and EC+X (241 cells/ L) phases.
+In addition, the percentage of enrollees with mild or
+moderate anemia per WHO criteria was higher in the
+SOC phase (56 ) than EC (48 ) and EC+X phases
+(46 ). Tenofovir (combined with lamivudine or emtrici-
+tabine and efavirenz or nevirapine) was less commonly
+prescribed as first-line ART in the SOC (78 ) compared
+with the EC (93 ) and EC+X (96_ ) phases.
+
+Primary outcome: 6-month ART mortality in SOC versus
+EC X
+
+By 6 months after ART initiation, 461 (5.3 ) of enrollees
+in the SOC phase had died compared with 121 (3.0 ) of
+enrollees in the EC+X phase. Six-month ART mortality
+rates were 11.4 deaths per 100 person-years in the SOC
+phase versus 6.3 deaths per 100 person-years in the
+EC+X phase (Table 2). Compared with the SOC phase,
+6-month mortality was lower in the EC+X phase in
+— — PAGE 6 — —
+Auld et al. BMC Medicine .......... (2020).18:19. Page 6 of 14
+
+22 HIV Care and Treatment Clinics (Clusters)
+
+q
+
+Randomised for Sequence of Intervention
+
+Standard of Care (SOC) Phase
+528 clinic-months of enrollment.
+Mean: 24 months/cluster of enrollment.
+
+}
+
+Enhanced Care (EC)
+120 clinic-months of enrollment.
+Mean: 5.5 months/cluster of enrollment.
+
+|
+
+Enhanced Care plus Xpert (EC + X)
+299 clinic-months of enrollment.
+Mean: 13.6 months/cluster of enrollment
+
+y
+
+|
+
+|
+
+10,047 records eligible
+Mean: 457/cluster
+
+2,703 patients eligible for enrollment
+Mean: 123/cluster
+
+>) 909 not enrolled
+
+¥
+
+5,834 patients eligible for enrollment
+Mean: 265/cluster
+
+1,587 not enrolled
+
+10,047 records abstracted
+Mean: 457/cluster
+
+Excluded from analysis:
+*1,067 excluded because
+transferred into clinic on ART
+
+8,980 records included in analysis
+Mean: 408/cluster
+
+At 6-months:
+
+#8,125 (90%) Alive on ART
+
+#461 (5%) Died within 6 months
+#28 (<1%) Lost to follow-up
+
+#366 (4%) Transferred out
+
+1,794 enrolled
+Mean: 82/cluster
+
+4,247 enrolled
+Mean: 193/cluster
+
+Excluded from analysis:
+*8 excluded because age <12
+#18 excluded; did not start ART
+
+¥
+1,768 records included in analysis
+Mean: 80/cluster
+At 6-months:
+1,594 (90%) Alive on ART
+#54 (3%) Died within 6 months
+*0 (0%) Lost to follow-up
+©120 (7%) Transferred out
+
+Excluded from analysis:
+°14 excluded because age <12
+#18 excluded; did not start ART
+
+4,215 records included in analysis
+
+Mean: 192/cluster
+
+At 6-months:
+
+*3,641 (86%) Alive on ART
+
+#121 (3%) Died within 6 months
+#1 (<1%) Lost to follow-up
+
+©452 (11%) Transferred out
+
+Fig 2 Trial profile
+
+unadjusted analysis (hazard ratio (HR) 0.58, 95 CI
+0.48-0.71, p< 0.001) (Fig. 3, Table 2). After controlling
+for potential confounders, including age, sex, pregnancy
+status, weight, CD4 count, hemoglobin, and ART regi-
+men, 6-month mortality remained lower in the EC+X
+phase compared with the SOC phase (adjusted HR, 0.77,
+95 CI 0.61-0.97, p = 0.029).
+
+Intervention effect size was similar across CD4 strata
+(see Additional file 5, a figure showing cumulative mor-
+tality incidence stratified by CD4 count at ART initi-
+ation). In addition, effect size was robust to sensitivity
+analyses that censored follow-up time at the time of
+transition between phases or assigned follow-up time to
+contemporary intervention phases using a_ time-
+dependent covariate (see Additional file 6, a table show-
+ing these sensitivity analyses). Effect size was robust to
+sensitivity analysis using an inverse probability weighting
+approach to account for non-enrollment in EC and
+EC+X phases (see Additional file 7, a table showing
+these sensitivity analyses).
+
+Secondary outcomes: 12-month ART mortality in SOC
+versus EC X
+
+By 12months after ART initiation, 551 (6.5 ) of SOC
+versus 137 (3.7 ) of EC+X phase enrollees had died.
+Twelve-month mortality rates were 7.3/100 person-years
+in the SOC versus 4.6/100 person-years in the EC+X
+
+phase. Compared with the SOC phase, 12-month mor-
+tality was lower in the EC+X phase in both unadjusted
+(HR 0.58, 95 CI 0.48-0.70, p<0.001) and adjusted
+(AHR 0.76, 95 CI 0.61-0.95, p=0.014) analyses
+(Table 2). Intervention effect size was robust to sensi-
+tivity analyses (see Additional files 6 and 7, tables
+showing sensitivity analyses).
+
+Secondary outcomes: 6-month ART mortality in EC versus
+EC X
+
+By 6months of ART follow-up among ART enrollees
+in the EC phase, 54 (3.2 ) of enrollees had died. Six-
+month mortality rates were similar between the EC
+(6.5/100 person-years) and EC+X phases (6.3/100
+person-years) in both unadjusted and adjusted pre-
+specified analyses (AHR 1.13, 95 CI, 0.63—2.03),
+where all follow-up time was assigned to the phase in
+which the patient started ART (Table 2). In sensitivity
+analyses comparing EC vs. EC+X 6-month mortality
+rates, the AHR was 0.90 (95 CI 0.42-1.95) when EC
+enrollee follow-up time was censored at the time of
+EC+X cross-cover, and 0.79 (95 CI 0.41-1.50) when
+EC enrollee follow-up time in the EC+X phase was
+assigned to the EC+X phase using a time-dependent
+variable (see Additional file 6, a table showing sensi-
+tivity analyses).
+— — PAGE 7 — —
+Auld et al. BMC Medicine .......... (2020).18:19. Page 7 of 14
+
+Table 1 Demographic and clinical characteristics of XPRES participants at antiretroviral therapy initiation
+
+SOC EC EC+X
+(N = 8980) (N = 1768) (N= 4215)
+n %/median (IQR) n %/median (IQR) n %/median (IQR)
+Age (years)*
+n, median, (IQR) 8969 35 (30-43) 1768 34 (29-42) 4215 34 (29-41)
+Gender
+Female 5624 63% 1194 68% 2797 66%
+If female, pregnant?
+Yes 927 16% 271 23% 903 32%
+Weight (kg)°
+Median (IQR) 8351 57.9 (50.5-66.6) 1765 58.6 (51.3-67.8) 4209 594 (52.5-68.7)
+Weight (kg)
+< 45 kg 871 10% 160 9% 318 8%
+45-60 kg 3971 48% 817 46% 1910 45%
+> 60 kg 3509 42% 788 45% 1981 47%
+Baseline CD4 (cells/ L)°
+Median (IQR) 8675 184 (100-241) 1765 246 (148-310) 4180 241 (132-321)
+Baseline CD4 (cells/ L)
+< 50 1061 12% 132 7% 370 9%
+50 to < 100 1109 13% 161 9% 371 9%
+100 to < 200 2660 31% 366 21% 928 22%
+200 to < 350 3456 40% 947 54% 1928 46%
+350 to < 500 246 3% 93 5% 334 8%
+500 143 2% 66 4% 249 6%
+Baseline hemoglobin (g/dL)?
+Median (IQR) 7869 11.5 (10.0-13.0) 1678 1.9 (10.4-13.3) 3911 12.0 (10.6-13.3)
+Hemoglobin category*
+Severe anemia 426 5% 68 4% 109 3%
+Mild/moderate anemia 4399 56% 805 48% 1810 46%
+No anemia 3044 39% 805 48% 1992 51%
+TB treatment at ART initiation
+Yes 423 5% 85 5% 251 6%
+Regimen’
+TDF/XTC/EFV or NVP 6998 78% 1615 93% 4000 96%
+AZT/3TC/EFV or NVP 1045 12% 94 5% 107 3%
+D4T/3TC/EFV or NVP 151 2% 2 0% 4 0%
+Other 784 9% 26 1% 54 1%
+
+Abbreviations: SOC standard of care phase, EC enhanced care phase, FC X enhanced care plus Xpert phase, /QR interquartile range, TDF tenofovir, XTC either
+lamivudine or emtricitabine, EFV efavirenz, NVP nevirapine, dd! didanosine, ABC abacavir, LPV/r lopinavir/ritonavir, AZT zidovudine, 3TC lamivudine, D4T stavudine
+*11 ART enrollees in the SOC cohort had unknown age but were documented to be adult in the ART chart
+
+'629 (7 ),2 (0.2 ),and6(0.1 ) had missing weights at ART initiation in the SOC, EC, and EC+X phases, respectively
+
+305 (3), 3 (0.2), and 35 (0.8) had missing CD4 in the SOC, EC, and EC+X phases, respectively. For each enrollee, the CD4 count taken closest to the date of
+ART initiation in the 12 months before ART start was used
+
+41111 (12 ),90(5_ ), and 304 (7.2) had missing hemoglobin in the SOC, EC, and EC+X phases, respectively. For each enrollee, the hemoglobin taken closest to
+the date of ART initiation in the 12 months before ART start was used
+
+“Anemia severity was classified according to World Health Organization criteria as follows: no anemia, hemoglobin level of 13.0 g/dL for men, 12.0g/dL for
+non-pregnant females, and 11.0 g/dL for pregnant females; mild/moderate anemia, 8.0 to < 13.0 g/dL for men, 8.0 to < 12.0 g/dL for non-pregnant women, and
+7.0 to < 11.0 g/dL for pregnant women; and severe anemia, < 8.0 g/dL for males and non-pregnant females and < 7.0 g/dL for pregnant women
+
+9 (0 ),31(2 ), and 50(1 ) had missing ART regimen in the SOC, EC, and EC+X phases, respectively
+— — PAGE 8 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+Page 8 of 14
+
+Table 2 Primary and secondary study outcomes—comparison of mortality rates between study phases
+
+ART enrollees Deaths (n)* Rate/100PY° Crude HR° (95% Cl) p AHR‘ (95% Cl) p
+
+Primary outcome: 6-month ART mortality in SOC versus EC+X phase
+
+SOC 8980 46 114 1.00 - - 1.00 - -
+
+EC+X 4215 12 63 0.58 (0.48-0.71) < 0.001 0.77 (0.61-0.97) 0.029
+Secondary outcomes: 12-month ART mortality in SOC versus EC+X phase
+
+SOC 8980 55 73 1.00 - - 1.00 - -
+
+EC+X 4215 137 46 0.58 (0.48-0.70) < 0.001 0.76 (0.61-0.95) 0.014
+6-month ART mortality in EC versus EC+X phase®
+
+EC 1768 54 6.5 1.00 1.00
+
+EC+X 4215 12 63 1.07 (0.62-1.84) 0.800 1.13 (0.63-2.03) 0.690
+
+Abbreviations: SOC standard of care phase, EC enhanced care phase, EC X enhanced care plus Xpert phase, PY person-years, HR hazard ratio, AHR adjusted hazard
+ratio, Cl confidence interval, XPRES Xpert Package Rollout Evaluation using a Stepped-Wedge design
+
+*Represents deaths observed among all ART enrollees by the time point specified
+
+Represents unadjusted 6- and 12-month ART mortality rates among all ART enrollees in each phase of the study. For mortality rates among ART enrollees
+
+included in the adjusted analyses, see Additional file 6
+
+“All Cox proportional hazards regression models included a random effect for clinic
+
+dadjusted for the following characteristics at ART initiation: age, sex, pregnancy status, weight, CD4 count, hemoglobin, and ART regimen. Adjusted analysis
+comparing SOC versus EC+X mortality rates included 7184 SOC enrollees with 350 deaths within 6 months and 424 deaths within 12 months, and 3861 EC+X
+
+enrollees with 93 deaths within 6 months and 108 deaths within 12 months
+
+“Analysis restricted to randomized stepped-wedge portion of the trial, fitting a Cox proportional hazards regression model to the data with the underlying time
+frame beginning August 2012 (the start of EC enrollment), and including a fixed effect for monthly changes in mortality rates during the first 6 months of ART.
+Adjusted analysis comparing EC versus EC+X mortality rates included 1653 EC enrollees with 43 deaths within 6 months and 3861 EC+X enrollees with 93 deaths
+
+within 6 months
+
+TB screening and diagnosis
+
+Among SOC, EC, and EC+X phase enrollees respect-
+ively, 359 (4 ), 44 (2 ), and 122 (3 ) were diagnosed
+with TB and had started TB treatment prior to arrival at
+the HIV treatment clinic. Therefore, in the SOC, EC,
+and EC+X phases, 8621, 1724, and 4093 patients were
+eligible for TB symptom screening before ART initiation.
+
+2
+
+Among these patients eligible for TB symptom screening
+before ART initiation in the SOC, EC, and EC+X phases,
+1700 (20 ), 1724 (100 ), and 4093 (100 ) were
+screened for at least one TB symptom and 1243 (14 ),
+1724 (100 ), and 4093 (100 ) were screened for all four
+TB symptoms, respectively (Fig. 4). Within the SOC
+phase, ART enrollees were more likely to be screened
+
+3 4
+
+Time (Months since ART initiation)
+
+Number at risk
+SOC 8980
+EC 1768
+EC+X 4215
+
+8520
+1717
+4079
+
+8238
+1685
+3948
+
+8023
+1657
+3839
+
+7824
+1621
+3713
+
+7664
+1597
+3610
+
+7502
+1573
+3322
+
+Fig 3 Kaplan-Meier curves showing cumulative 6-month mortality among ART enrollees in SOC, EC, and EC+X phases
+
+— — PAGE 9 — —
+Auld et al. BMC Medicine .......... (2020). 18:19
+
+100% 100% 100% 100% 100%
+
+8
+2
+o
+2)
+=))
+£
+ao
+f=}
+w
+o
+wo
+©
+1S)
+a
+=
+7)
+=
+2
+oD
+ao
+”
+2
+=
+2
+()
+2
+2
+2
+Wi
+6
+as
+
+Elligible for TB
+
+symptom screening one TB symptom symptoms
+
+100% 100%
+
+20%
+14%
+
+Screened for at least Screened for all four TB +B symptom screen
+
+Page 9 of 14
+
+17%
+
+14%
+| “i
+- |
+| | | a,
+
+Sputum sample Newly diagnosed with
+
+positive analyzed TB
+
+Fig 4 Intensified TB case finding (ICF) cascade among ART enrollees in SOC, EC, and EC+X phases. Abbreviations: SOC, standard of care phase,
+
+EC, enhanced care phase, EC+X, enhanced care plus Xpert phase
+
+for at least one TB symptom if they had lower weight
+and lower CD4 count at ART initiation (see Add-
+itional file 8, a table showing predictors of being
+screened for TB in the SOC cohort).
+
+Among SOC, EC, and EC+X enrollees eligible for
+screening, 525 (6 ), 514 (30 ), and 1249 (31 ) screened
+positive for at least one TB symptom and 199 (2_ ), 237
+(14 ), and 688 (17 ) provided a sputum sample for TB
+diagnosis (Fig. 4). Ultimately, 129 (1 ), 86 (5 ), and 244
+(6 ) enrollees in the SOC, EC, and EC+X phases were
+newly diagnosed with TB and started TB treatment be-
+fore ART initiation or during the first 6 months of ART.
+The number of pulmonary TB diagnoses in the SOC
+(n= 123), EC (n=68), and EC+X (m=198) phases that
+were confirmed microbiologically was 22 (18 ), 35
+(51 ), and 129 (65 ), respectively (Table 3).
+
+Early ART LTFU
+
+By 6 months after ART initiation, cumulative LTFU inci-
+dence, uncorrected by subsequent mortality ascertain-
+ment efforts, in the SOC, EC, and EC+X phases, was 4 ,
+1 , and 1 , respectively (see Additional file 9, a table
+summarizing these cumulative LTFU incidence percent-
+ages). Compared with 6-month LTFU rates in the SOC
+phase (8.3/100 person-years), rates of 6-month LTFU
+were lower in the EC (1.2/100 person-years) and EC+X
+(1.6/100 person-years) phases in both unadjusted and
+
+adjusted analyses (see Additional file 10, a table compar-
+ing LIFU rates between SOC, EC, and EC+X phases).
+
+Discussion
+
+In Botswana, compared with SOC, interventions to
+strengthen WHO-recommended TB symptom screening
+and ICF algorithms combined with active tracing to sup-
+port retention were associated with increased TB case
+finding and lower early ART mortality. No additional
+mortality benefit of replacing sputum-smear microscopy
+with Xpert was observed.
+
+Although implementation of the WHO-recommended
+4-symptom TB screening rule as the first step in ICF al-
+gorithms among PLHIV starting ART has been recom-
+mended since 2011 along with TB-HIV care continuum
+retention interventions including active tracing [20], no
+study has yet reported on the potential impact on mor-
+tality of strengthening systems to implement these
+guidelines [7]. Although the observed reduction in all-
+cause mortality between SOC and subsequent EC and
+EC+X phases represents a pre- versus post-comparison,
+rather than a randomized comparison, and is therefore
+at risk of residual confounding, the study has a number
+of strengths that suggest ICF and retention interventions
+did independently contribute to observed mortality
+impact. Firstly, the reduction in all-cause mortality
+remained statistically significant after adjusting for key
+— — PAGE 10 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+Page 10 of 14
+
+Table 3 Methods of new TB diagnosis immediately before ART and in the first 6 months of ART in the SOC, EC, and EC+X phases of
+
+XPRES
+SOC phase EC phase EC+X phase
+n % n % Nn %
+Pulmonary TB
+Microbiologically confirmed pulmonary TB (smear microscopy in SOC and EC, Xpert during EC+X) 22 18 23° 34 13. «57
+Microbiologically confirmed pulmonary TB through culture® (missing or negative smear and Xpert) 0 0 12. 18 6 8
+Clinical diagnosis of pulmonary TB with negative sputum test (negative smear, Xpert, or culture documented) 6° 5 6° 9 7 9
+Clinical diagnosis of pulmonary TB with no documented sputum test result 95° 77 27° 40 529 26
+
+Sub-total pulmonary TB
+
+All TB
+Pulmonary TB total
+Extra-pulmonary TB total
+
+Total
+
+123, 100 68 100 198 100
+
+123 95 68 79 988i
+6 5 18 21 46 19
+129 100 86 100 244 100
+
+Abbreviations: SOC standard of care, EC enhanced care, FC X enhanced care plus Xpert, TB tuberculosis, XPRES Xpert Package Rollout Evaluation using a
+
+Stepped-wedge design
+
+*To meet other study objectives related to estimation of diagnostic accuracy of the smear microscopy-based and Xpert-based TB diagnostic algorithms, one spot
+sputum and the morning sputum were sent to the National TB Reference Laboratory (NTRL) for liquid culture in mycobacteria growth indicator tubes (MGIT). The
+liquid culture results were also returned to the clinics, although average turnaround times exceeding 49 days were expected per existing standard of care
+
+®s (83) of 6 had documentation that x-ray findings were suggestive of pulmonary TB
+
+“13 (14) of 95 had documentation that x-ray findings were suggestive of pulmonary TB
+
+43 (50) of 6 had documentation that x-ray findings were suggestive of pulmonary TB
+
+*16 (59 ) of 27 had documentation that x-ray findings were suggestive of pulmonary TB
+
+‘8 (47) of 17 had documentation that x-ray findings were suggestive of pulmonary TB
+
+920 (38 ) of 52 had documentation that x-ray findings were suggestive of pulmonary TB
+
+covariates. Secondly, the improvements in TB screening,
+TB case finding, and uncorrected LTFU rates between
+SOC and subsequent EC and EC+X phases were large,
+providing credence that these interventions were a driver
+behind observed mortality reductions. Thirdly, very high
+ascertainment of the primary early ART mortality out-
+come improves ability to interpret observed mortality
+changes. Fourthly, the intervention effect size and statis-
+tical significance were robust to several sensitivity ana-
+lyses. Therefore, these findings represent important
+additional evidence in support of current WHO ICF and
+retention guidelines, and support continued or add-
+itional investment from donors to strengthen health sys-
+tems to implement these guidelines for all HIV clinic
+enrollees [9].
+
+Although it was widely anticipated that introduction of
+the new more sensitive TB diagnostic test (Xpert) in
+place of sputum-smear microscopy would independently
+reduce mortality among PLHIV, this study and six of the
+seven previously reported Xpert impact trials have not
+observed any independent impact of Xpert versus
+sputum-smear microscopy on mortality [8, 21]. In the
+one trial that did observe Xpert impact on mortality, the
+mortality benefit was restricted to clients with advanced
+HIV disease (WHO stage III/IV) [21]. Furthermore, pro-
+gram data have clearly shown that leaks in the ICF cas-
+cade before a TB diagnostic test is implemented,
+especially failure to implement the WHO-recommended
+4-symptom TB screen, may be largely responsible for
+
+unacceptably high rates of mortality due to undiagnosed
+TB among PLHIV engaged in care in sub-Saharan Africa
+[22, 23].
+
+Per WHO guidelines, screening for the four TB symp-
+toms (i.e, current cough, weight loss, night sweats, or
+fever) should occur at every clinical care encounter for
+PLHIV as the initial step in ICF to improve detection
+and treatment of HIV-associated TB [20]. The recom-
+mendation is based on a high sensitivity of the 4-
+symptom screening rule (89.4 ) in detecting culture-
+positive pulmonary TB disease among ART-naive
+PLHIV [24]. However, low compliance in implementing
+the 4-symptom TB screen at or prior to ART initiation
+has been consistently observed in many high burden
+TB-HIV countries in sub-Saharan Africa, including
+South Africa (59 ) [23], Mozambique (61 ) [25], Kenya
+(4 ) [26], and Cote dIvoire (36 ) [22]. Similarly, in
+XPRES, failure to implement TB screening before ART
+was the most “leaky” part of the ICF cascade in the SOC
+phase, with only 30 screened before ART. Improving
+the coverage of TB symptom screening from 30 in the
+SOC to 100 in the EC and EC+X phases was the main
+driver behind improved TB case detection from 1 in
+SOC to 5-6 in EC and EC+X phases and therefore ap-
+pears to have been a key driver behind the declines in
+early ART mortality between SOC and subsequent EC
+and EC+X phases.
+
+Reasons for low compliance with TB screening proto-
+cols in the SOC phase are not well understood, but
+— — PAGE 11 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+could have related to high patient load making health-
+care workers more likely to omit key steps in care algo-
+rithms, inadequate training and knowledge of the
+guidelines, or deficiencies in monitoring and evaluation
+[27]. In the SOC phase, having more advanced disease at
+ART initiation (ie., having a lower weight and CD4
+count) was associated with higher odds of being
+screened for TB, suggesting that healthcare workers
+were triaging the clients to receive TB screening based
+on perception of disease stage. This finding might fit
+with a clinic experiencing high patient volume and
+HCW s rushing through patient consultations in order
+to complete their clinical duties within available business
+hours. Our intervention of providing additional nurses
+to implement the TB screening, additional training, and
+additional supervision increased the percentage of ART
+enrollees screened for TB from 30 to 100 .
+
+Notably, although the percentage of enrollees screen-
+ing positive for 1 TB symptom who provided 1 spu-
+tum sample increased from 38 in the SOC phase to
+46 and 55 in the EC and EC+X phases, respectively,
+collection of sputum samples remained a challenge even
+in the EC phases. This low compliance with sputum col-
+lection guidelines has been observed in multiple settings
+[23, 27], with potential reasons being patient hesitance
+to provide a sputum sample for stigma-related reasons,
+true inability to provide a sputum sample, and HCW-
+related reasons such as feeling overloaded, or lack of
+confidence in the laboratory sample transport and diag-
+nostic system [23]. Further research and interventions to
+improve this component of the cascade are needed. In
+addition, this finding supports calls for improved
+sputum-independent diagnostic tests for TB.
+
+A key reason that prior Xpert impact trials have gener-
+ally not observed independent Xpert impact on mortality
+is that higher rates of empiric TB treatment among cli-
+ents with TB symptoms but a negative sputum-smear
+microscopy result replaced any potential benefit of
+Xperts improved diagnostic sensitivity in detecting
+culture-positive TB [28, 29]. Similarly in our study, al-
+though Xpert implementation was the driver behind in-
+creased microbiological confirmation of TB diagnoses in
+the EC+X versus EC phase (65 vs. 51 ), there was no
+significant difference in percentage of ART enrollees
+newly treated for TB (6 vs. 5 ). However, as reported
+previously, Xpert was the driver behind reduced median
+time from sputum collection to TB treatment in the
+EC+X phase (6 days) versus the EC phase (22 days) [30].
+Although no independent effect of Xpert on 6-month
+mortality was observed in our study, two features of the
+study suggest, similar to findings of a recent meta-
+analysis of Xpert impact trials [31], that we cannot confi-
+dently rule out the possibility of modest independent
+Xpert impact: (1) our study was not powered to detect a
+
+Page 11 of 14
+
+difference between EC and EC+X 6-month mortality
+and (2) the sensitivity analyses comparing EC vs. EC+X
+6-month mortality rates generated AHRs of 0.90 (p=
+0.793) and 0.79 (p=0.472), which could possibly point
+to a modest Xpert impact our study was under-powered
+to detect.
+
+In ART programs in resource-limited settings, ob-
+served LTFU from early ART is common, with an aver-
+age of 20 LTFU by 12 months of follow-up [32, 33].
+Mortality rates among LTFU ART patients are high [33].
+The percentage of LTFU clients found to have died by
+the time of tracing ranges from 20 to 60 [13, 33]. In
+our study, 41 of patients LTFU in the first 6 months of
+ART in the SOC phase had died by 6 months of follow-
+up. Accumulating data show that among LTFU patients
+who have died by the time of tracing, mortality rates are
+highest shortly after the last clinic visit, the majority (>
+90 ) die from illness rather than other causes (e.g.,
+trauma), and the majority had some opportunity for
+clinical intervention at the last visit [33]. In addition, six
+previous trials, which aimed to evaluate Xpert impact on
+patient-important outcomes, have reported that LTFU
+of patients with bacteriologically confirmed TB, either
+before or during TB treatment, almost certainly reduces
+the potential impact of improved TB case finding on
+mortality [8].
+
+The reductions in LTFU achieved in EC and EC+X
+phases compared with the SOC phase are likely due to a
+combination of factors, including the strengthened tra-
+cing intervention, additional training and nurses, and
+possibly reduced incidence of missed visits due to inter-
+current illness from undiagnosed TB [34]. The intensi-
+fied tracing intervention might be particularly helpful in
+maintaining a personalized partnership with clients
+struggling with adherence to clinic visit schedules for a
+variety of reasons to ensure minimal interruption in
+ART pill taking [34]. These data support the underlying
+principle that supportive services to retain patients in
+HIV care are an essential component of both the ICF
+and HIV treatment cascade.
+
+The absence of an interaction between CD4 count at
+ART initiation and intervention package effect size sug-
+gests that ICF and retention interventions could be im-
+portant for all new HIV clinic enrollees, not just those
+with advanced disease as defined by WHO (CD4 count
+< 200 copies/ml) [35]. Therefore, although median CD4
+count at ART initiation is increasing in many countries,
+including Botswana [36], with most countries having
+adopted WHO universal HIV treatment guidelines, these
+data support current WHO recommendations that high-
+quality implementation of ICF and retention interven-
+tions remains important for HIV clinic enrollees.
+
+This study has a number of strengths and limitations.
+Strengths include the large sample size, accurate
+— — PAGE 12 — —
+Auld et al. BMC Medicine .......... (2020).18:19.
+
+ascertainment of the primary mortality outcome, and
+implementation in a real-world programmatic setting,
+which improves generalizability of findings. Limitations
+include the fact that the primary objective relies on an
+adjusted pre-post analysis that is subject to residual con-
+founding, and that data from the SOC phase were col-
+lected retrospectively. In the SOC phase, TB screening
+or sputum sample collection may sometimes have been
+implemented but not documented. While retrospective
+data collection in the SOC phase increases the likelihood
+of missing covariate data, it also ensures that the type of
+care received by clients in the SOC phase truly repre-
+sents the care provided prior to implementation of the
+EC and EC+X interventions. While EC and EC+X phases
+were of different duration, our study results show good
+compliance with ICF algorithm implementation and im-
+pressive active tracing impact on LTFU throughout EC
+and EC+X phases, indicating no discernable lag time
+needed for these interventions to reach maximum po-
+tential. In addition, good implementation of Xpert in the
+EC+X phase is evidenced by the increase in the percent-
+age of TB cases that were microbiologically confirmed in
+EC+X versus EC phases, and in the shorter time from
+sputum collection to TB treatment in EC+X versus EC
+phases, with these results consistent with several prior
+Xpert impact trials [8]. Notably, while these data support
+effectiveness of the ICF and retention intervention in re-
+ducing early ART mortality, future economic evaluation
+would be needed to explore cost-effectiveness.
+
+Conclusions
+
+In summary, a health system strengthening intervention
+to improve compliance with WHO-recommended TB
+symptom screening and ICF algorithms, combined with
+active tracing to support retention of HIV and HIV-TB
+co-infected patients in care through the early period of
+ART, was associated with significant reductions in early
+ART mortality and should be considered for scale-up. In
+addition, similar to most other trials of Xpert impact on
+mortality, replacing sputum-smear microscopy with
+Xpert was not associated with a mortality reduction.
+
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s12916-019-1489-0.
+
+Additional file 1 Text showing selection criteria for study clinics.
+
+Additional file 2. Table of standard clinical follow-up of clients in SOC,
+EC, and EC+X phases (2010-2015).
+
+Additional file 3 Table of indicators used to assess implementation of
+TB ICF and retention in the HIV care cascade.
+
+Additional file 4 Table comparing demographic and clinical
+characteristics between prospective study enrollees in the EC and EC+X
+phases and eligible clients declining enrollment.
+
+Page 12 of 14
+
+Additional file 5 Figure of cumulative 6-month ART mortality stratified
+by SOC, EC, and EC+X phases among (a) enrollees with CD4 < 200 cells/
+L, (b) CD4 200 cells/ L.
+
+Additional file 6 Table of sensitivity analyses of primary and secondary
+study outcomes - comparison of mortality rates between study phases.
+
+Additional file 7 Table of sensitivity analyses of primary and secondary
+study outcomes to account for non-response - comparison of mortality
+rates between study phases.
+
+Additional file 8 Table showing predictors of being screened for at
+least one TB symptom in the standard of care phase of XPRES.
+
+Additional file 9 Table comparing 6-month ART outcomes before ver-
+sus after efforts to ascertain accurate primary mortality outcome status
+among clients LTFU by study phase.
+
+Additional file 10 Table showing differences in rates of uncorrected
+loss to follow-up in the first 6 months of ART between SOC, EC, and
+EC+X phases.
+
+Acknowledgements
+
+The authors would like to thank all study participants, participating health
+facilities, and project team members for their contributions to improving TB
+and HIV care in Botswana. We also thank Prof. Stephen D. Lawn for his
+contributions as an advisor and subject matter expert prior to his death on
+Sept 23, 2016.
+
+Authors contributions
+
+AFA, TA, RB, AD, SP, HA, JCS, and TVE were involved in the study conception
+and the study design. AFA, TVE, RB, TA, JCS, and AF obtained the funding.
+AFA, TA, AM, RB, AD, SP, CS, UM, HA, GR, PP, JCS, and AF implemented the
+study. AFA, SP, and KF were the study statisticians. AFA, SP, KF, ADG, CS, TA,
+JCS, and AF were involved in data management and planning the analysis.
+AFA did the analysis. All authors were involved in interpreting the data. AFA
+wrote the first draft. All authors read and approved the final manuscript.
+
+Funding
+This research has been supported by the Presidents Emergency Plan for
+AIDS Relief (PEPFAR) through the US Centers for Disease Control and
+Prevention. The funder had no role in the study design, data collection and
+analysis, decision to publish, or preparation of the manuscript. Disclaimer:
+The findings and conclusions in this report are those of the authors and do
+not necessarily represent the official position of the US Centers for Disease
+Control and Prevention.
+
+Availability of data and materials
+The datasets generated and/or analyzed during the current study are not
+publicly available due to an IRB decision which was made in the interest of
+ensuring patient confidentiality but are available from the corresponding
+author on reasonable request. Per IRB guidance, the datasets will be
+anonymized before sharing.
+
+Ethics approval and consent to participate
+
+hical approvals for this study were obtained from the US Centers for
+
+isease Control and Prevention (CDC) Institutional Review Board (IRB) C, the
+lealth Research and Development Division of the Health Research and
+evelopment Committee (HRDC) in Botswana, and the University of
+ennsylvania IRB No4. All consent procedures were approved by the ethical
+review committees. For the SOC cohort, a waiver of informed consent for
+chart abstraction was granted in accordance with 45CFR 46.116 (d). Written
+informed consent was obtained from all EC and EC+X enrollees. XPRES is
+registered at ClinicalTrials.gov (trial registration no. NCT02538952). Oversight
+of study initiation and quarterly review of implementation was conducted by
+the Office of the Associate Director of Science at CDC Atlanta. Per guidance
+from oversight bodies, XPRES was registered at ClinicalTrials.gov following
+the change in the US Health and Human Services (HHS) and National
+Institutes of Health (NIH) accepted definition of a clinical trial on January 25,
+2015 [37]. At the time of study initiation on August 1, 2012, investigators and
+oversight bodies did not consider XPRES met the pre-2015 HHS and NIH def-
+inition of a clinical trial that was testing the “safety and effectiveness” of an
+intervention, because the XPRES interventions were already considered safe
+
+OLOD
+
+uU
+
+— — PAGE 13 — —
+Auld et al. BMC Medicine .......... (202
+
+0).18:19
+
+and were recommended by the Ministry of Health and World Health
+
+Organization.
+
+Consent for publication
+Not applicable.
+
+Competing interests
+The authors declare that they have no
+
+Author details
+
+competing interests.
+
+'Division of Global HIV & TB, Centers for Disease Control and Prevention,
+Atlanta, USA. Center for Global Health, U.S. Centers for Disease Control and
+Prevention (CDQ), Lilongwe, Malawi. 2Division of TB Elimination, Centers for
+Disease Control and Prevention, Gaborone, Botswana. ‘Ministry of Health,
+Gaborone, Botswana. °Yale University School of Medicine, New Haven, CT,
+USA. °TB Centre, London Sch. of Hygiene & Tropical Med, London, UK.
+
+School of Public Health, University of
+
+the Witwatersrand, Johannesburg,
+
+South Africa. ®Africa Health Research Institute, School of Nursing and Public
+Heath, University of KwaZulu-Natal, Durban, South Africa.
+
+Received: 18 August 2019 Accepted:
+
+24 December 2019
+
+Published online: 11 February 2020
+
+References
+
+1. Gupta RK, Lucas SB, Fielding KL, Lawn SD.
+
+Prevalence of tuberculosis in
+
+post-mortem studies of HIV-infected adults and children in resource-limited
+
+settings: a sys
+2002.
+2. Gupta A, Nad
+
+arni G, Yang WT, Chandrase’
+
+ematic review and meta-analysis. AIDS 2015;29(15):1987-
+
+har A, Gupte N, Bisson GP, et al.
+
+Early mortality in adults initiating antiretroviral therapy (ART) in low- and
+
+middle-income countries (LMIC): a
+PLoS One. 2011;6(12):e28691.
+
+3. Braitstein P, Brinkhof MW, Dabis F, Schech
+
+Mortality of HIV-1-infected patients
+
+systematic review and meta-analysis.
+
+er M, Boulle A, Miotti P, et al.
+
+in the first year of antiretroviral therapy:
+
+comparison between low-income and high-income countries. Lancet 2006;
+
+367(9513):817-24.
+
+4. Wong EB, Omar T, Setlhako GJ, Osih R, Feldman C, Murdoch DM, et al.
+
+Causes of death on antiretroviral th
+
+Africa. PLoS One. 2012;7(10):e47542.
+
+erapy: a post-mortem study from South
+
+5. World Health Organisation. Rapid Implementation of the Xpert MTB/RIF
+
+diagnostic test. http://whq
+9_eng.pdf. Accessed 10 Aug 2019.
+6. Auld AF, Agizew T, Pals S, Finlay A,
+of a pragmatic, stepped-wedge clu
+of
+sensitivity and early antire
+16(1):606.
+7. Da
+
+rovira
+
+resource-limited settings. J
+$270-3.
+8. Auld AF, Fielding KL, Gupta-Wright
+
+ac
+Trop Med Hyg. 2016;110(8):432-44.
+9. Albert H, Nathavitharana RR, Isaacs
+Development, roll-out and
+essons have we learnt and
+516-25.
+
+0. Churchyard GJ, Stevens WS, Mame
+et al. Xpert MTB/RIF versus sputum
+
+how ca
+
+out of Xpert MTB/RIF. Lancet Glob
+1. Dryden-Peterson S, Lockman S, Zas
+programma
+
+245-9,
+
+ibdoc.who.int/publications/201
+
+Botswana's Xpert MTB/RIF diagnostic a
+therapy mortality. BMC Infect Dis. 2016;
+
+of morbidity and mortality impact in intervention tria
+
+/978924150156
+
+Ndwapi N, Boyd R, et al. Implementation
+ster randomized trial to evaluate impact
+gorithm on TB diagnostic
+
+e A, Modi S. TB screening among people living with HIV/AIDS in
+Acquir Immune Defic Syndr. 2015;68(Supp! 3):
+
+A, Lawn SD. Xpert MTB/RIF - why the
+s? Trans R Soc
+
+C, Pai M, Denkinger CM, Boehme CC.
+
+impact of Xpert MTB/RIF for tuberculosis: what
+
+n we do better? Eur Respir J. 2016;48(2):
+
+ja LD, McCarthy KM, Chihota V, Nicol MP,
+microscopy as the initial diagnostic test
+
+or tuberculosis: a cluster-randomised trial embedded in South African roll-
+
+Health. 2015;3(8):e450-7.
+h R, Lei Q, Chen JY, Souda S, et al. Initial
+
+ic implementation of WHO option B in Botswana associated
+with increased projected MTCT. J Acquir Immune Defic Syndr. 2015;68(3):
+
+2. Getahun H, Kittikraisak W, Heilig C
+
+meta-analysis of observational stud
+
+, Corbett EL, Ayles H, Cain KP, et al.
+
+Development of a standardized screening rule for tuberculosis in people
+iving with HIV in resource-constrained settings: individual participant data
+
+ies. PLoS Med. 2011;8(1):e1000391.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24,
+
+25.
+
+26.
+
+27,
+
+28.
+
+29.
+
+30.
+
+31.
+
+Page 13 of 14
+
+Brinkhof MW, Pujades-Rodriguez M, Egger M. Mortality of patients lost to
+follow-up in antiretroviral treatment programmes in resource-limited
+
+settings: sys
+
+ematic review and meta-analysis. PLoS One. 2009;4(6):e5790.
+
+Moulton LH, Golub JE, Durovni B, Cavalcante SC, Pacheco AG, Saraceni V,
+et al. Statistical design of THRio: a phased implementation clinic-
+
+randomized
+Trials. 2007;4(2):19
+
+0-9.
+
+study of a tuberculosis preventive therapy intervention. Clin
+
+Bisson GP, Gaolathe T, Gross R, Rollins C, Bellamy S, Mogorosi M, et al.
+
+Overestima
+
+efforts. PLoS One. 2008;3(3):e1725.
+ay M, Boulle A, Phiri S, Messou E, Myer L, Wood R,
+
+patients with HIV-1 infection starting
+
+Africa: a collaborat
+
+376(9739):449-57.
+
+Farahani M, Price N, El-Halabi S, Mlau
+
+et al. Trends and de
+
+antiretroviral treatment in t
+
+2016;30(3):477-85.
+
+Hemming K, Haines TP, Chilton PJ
+
+cluster randomised trial: rationale, de
+
+350:h391.
+
+O,e
+rea
+e1001418.
+
+microscopy amon
+
+cluster randomized trial (CHEPETSA). Clin Infec
+ou JS, Ettiegne-Traore V, Tuho
+h tuberculosis screening guidelines and
+
+Auld AF, Blain M,
+Wide variations in
+
+Johnson LF, Mossong J, Dorring
+al. Life expectancies of
+ment: collabora
+
+es of survival after HAART: implications
+
+Sout
+
+ive analysis
+
+World Health Organisation. Guideline
+Finding and Isoniazid Preventive The
+Resource Constrained Settings. Available at: ht
+9789241500708/en/. Accessed
+gwira LG, Corbett EL, Khundi
+Screening for tuberculosis with
+
+, Girling AJ, Lilford
+
+0 Aug 2019.
+, Barnes GL,
+Xpert MTB/RIF
+
+or global scale-up
+
+et al. Prognosis of
+
+antiretroviral therapy in sub-Saharan
+
+ive analysis of scale-up programmes. Lancet 2010;
+
+dzi N, Keapoletswe K, Lebelonyane R,
+
+erminants of survival for over 200 000 patients on
+e Botswana National Program: 2002-2013. AIDS
+
+RJ. The stepped wedge
+Sign, analysis, and reporting. BMJ 2015;
+
+on RE, Schomaker M, Hoffmann CJ, Keiser
+African adults starting antiretroviral
+of cohort studies. PLoS Med. 20
+
+3;10(4):
+
+s for Intensified Tuberculosis Case-
+rapy for People Living with HIV in
+p//www.who.int/hiv/pub/tb/
+khoma A, Murowa M, et al.
+versus fluorescent
+
+g adults newly diagnosed with HIV in rural Malawi: a
+
+Ekra KA, Koua
+compliance wi
+
+tuberculosis incidence between antir
+
+dlvoire. PLoS One. 2016;11(6):e0157059.
+
+Dis. 2018;68(7):1176-83.
+Z, et al.
+
+etroviral therapy facilities - Cote
+
+Chihota VN, Ginindza S, McCarthy K, Grant AD, Churchyard G, Fielding K.
+
+Missed opport
+Africa: experience
+
+Hamada Y, Lujan J, Schenkel K,
+
+unities for TB inves
+
+iga
+Dtr
+Ford
+
+from the XTE|
+
+tion in primary care clinics in South
+ial. PLoS One. 2015;10(9):e0138149.
+N, Getahun H. Sensitivity and specificity
+
+of WHO's recommended four-symptom screening rule for tuberculosis in
+
+people living with HIV: a systema
+
+2018;5(9):e5 15-23.
+
+Auld AF, Mbo!
+Incidence and
+
+ana
+
+Ndwiga C, Birungi
+of integrating tub:
+
+services: an operati
+
+Christian CS, Gerd
+
+2018;15(4):729.
+Theron G, Zijenah
+
+Feasibility, accuracy, and
+testing for tuberculosis in primary-care settings in Africa: a mul
+
+randomised, controlled Lancet 2014;383(9915):424-35.
+
+Lawn SD, Nicol M
+of clinical trials of
+15(1):17-8.
+
+Agizew T, Nyirend
+
+Comparison of pre- and
+
+among people liv
+
+F, Shiraishi RW, Alft
+
+determinants of tuberculosis among adults initia
+antiretroviral therapy--Mozambique, 2004-2008. PLoS One. 2013;8(
+H, Undie CC, Weyenga H, Sitienei J. Feasibili
+
+erculosis screening
+
+t
+
+L,C
+
+rial.
+P, Corbett
+diagnostic
+
+EL. Effec
+
+athoma A,
+pos
+ing with H
+
+a S,
+
+World Conference on Lung Health o
+
+Tuberculosis and
+
+at: https://theunion.org/wha
+015-Web,pdf. Accessed 30
+Di Tanna GL, Khaki AR, 1
+
+Lung Disease. Cape
+
+jons research study. BMC Health Serv Res. 2013;
+am UG, Hompashe D, Smith A, Burger R.
+
+quality gaps in TB screening in South Africa using standardised
+analysis. International j
+
+ic review and meta-analysis. Lancet HIV.
+
+redo C, Sanchez M, Ellerbrock TV, et al.
+ing
+):e54665.
+y and effect
+care
+
+3:99.
+easuring
+patient
+
+and detection in postnata
+
+ournal of environmental research and public health.
+
+anda D, Clowes P, Rachow A, Lesosky M, et al.
+clinical effect of point-of-care Xpert MTB/RIF
+icentre,
+
+of empirical treatment on outcomes
+
+assays for tuberculosis. Lancet Infect Dis. 2015;
+
+athebula U, Date A, Kgwaadira B, et al.
+
+-Xpert tuberculosis treatment outcomes
+Vv in Botswana.
+
+(Abstract PC-1124-06). 46"
+the International Union Against
+Town, 2-6 December 2015. Available
+
+-we-do/}
+lov 2019.
+
+Theron G, McCarthy
+
+journals/ijtid/body/Abstract_Book_2
+
+, Cox H, Mupfumi L, et al.
+
+Effect of Xpert MTB/RIF on clinical outcomes in routine care settings:
+individual patient data meta-analysis. Lancet Glob Health. 2019;7(2):e191-9.
+— — PAGE 14 — —
+Auld et al. BMC Medicine .......... (2020).18:19. Page 14 of 14
+
+32. Haas AD, Zaniewski E, Anderegg N, Ford N, Fox MP, Vinikoor M, et al.
+Retention and mortality on antiretroviral therapy in sub-Saharan Africa:
+collaborative analyses of HIV treatment programmes. J Int AIDS Soc. 2018;
+21(2):e25084.
+
+33. Holmes CB, Sikazwe |, Sikombe K, Eshun-Wilson |, Czaicki N, Beres LK, et al.
+Estimated mortality on HIV treatment among active patients and patients
+lost to follow-up in 4 provinces of Zambia: findings from a multistage
+sampling-based survey. PLoS Med. 2018;15(1):e1002489.
+
+34. Mfinanga S, Chanda D, Kivuyo SL, Guinness L, Bottomley C, Simms V, et al.
+Cryptococcal meningitis screening and community-based early adherence
+support in people with advanced HIV infection starting antiretroviral
+therapy in Tanzania and Zambia: an open-label, randomised controlled trial.
+Lancet 2015;385(9983):2173-82.
+
+35. World Health Organisation. Guidelines for managing advanced HIV disease
+and rapid initiation of antiretroviral therapy. In: Guidelines for Managing
+Advanced HIV Disease and Rapid Initiation of Antiretroviral Therapy. edn.
+Geneva; 2017.
+
+36. Auld AF, Shiraishi RW, Oboho |, Ross C, Bateganya M, Pelletier V, et al.
+Trends in prevalence of advanced HIV disease at antiretroviral therapy
+enrollment - 10 countries, 2004-2015. MMWR Morb Mortal Wkly Rep. 2017;
+66(21):558-63.
+
+37. NIH. Key Dates & Policy Notices - Clinical Research/Trial Policies & Effective
+Dates. Available at: https://grants.nih.gov/policy/clinical-trials/key-dates-and-
+policy-notices.htm. Accessed 10 Aug 2019.
+
+Publisher s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+Ready to submit your research? Choose BMC and benefit from:
+
+¢ fast, convenient online submission
+
+e thorough peer review by experienced researchers in your field
+
+¢ rapid publication on acceptance
+
+© support for research data, including large and complex data types
+
+© gold Open Access which fosters wider collaboration and increased citations
+e maximum visibility for your research: over 100M website views per year
+
+At BMC, research is always in progress.
+
+Learn more biomedcentral.com/submissions >» BMC
+

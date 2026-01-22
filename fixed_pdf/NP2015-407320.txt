@@ -1,0 +1,760 @@
+— — PAGE 1 — —
+Hindawi Publishing Corporation
+Neural Plasticity
+
+Volume 2015, Article ID 407320, 7 pages
+http://dx.doi.org/10.1155/2015/407320
+
+Clinical Study
+
+Increase in Short-Interval Intracortical Facilitation of
+the Motor Cortex after Low-Frequency Repetitive Magnetic
+Stimulation of the Unaffected Hemisphere in the Subacute
+
+Phase after Stroke
+
+Eduardo Arruda Mello ' Leonardo G. Cohen ” Sarah Monteiro dos Anjos '
+Juliana Conti ' Karina Nocelo F. Andrade ' Fernanda Tovar Moll ** Theo Marins **
+Corina A. Fernandes ' Waldyr Rodrigues Jr. ' and Adriana Bastos Conforto' *
+
+"Neurology Clinical Division, Clinics Hospital/Sdo Paulo University, Avenida Dr. Enéas C. Aguiar 255/5084,
+
+05403-010 Sao Paulo, SP, Brazil
+
+?Human Cortical Physiology and Stroke Rehabilitation Section, National Institutes of Neurological Disorders and Stroke,
+National Institutes of Health, Building 10, Room 7D54, Bethesda, MD 20892, USA
+"Institute of Biomedical Sciences and National Center for Structural Biology and Bioimaging (CENABIO), Federal University of Rio
+de Janeiro, Avenida Carlos Chagas Filho 373, Prédio do CCS, Bloco M, Cidade Universitaria, 21941-902 Rio de Janeiro, RJ, Brazil
+“DOr Institute for Research and Education (IDOR), Rua Diniz Cordeiro 30, 22281-032 Rio de Janeiro, RJ, Brazil
+Instituto de Ensino e Pesquisa, Hospital Israelita Albert Einstein, Avenida Albert Einstein 627/701, 05601-901 Sao Paulo, SP, Brazil
+
+Correspondence should be addressed to Adriana Bastos Conforto; adriana.conforto@gmail.com
+
+Received 27 January 2015; Revised 6 April 2015; Accepted 7 April 2015
+Academic Editor: Malgorzata Kossut
+
+Copyright © 2015 Eduardo Arruda Mello et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+
+Low-frequency repetitive transcranial magnetic stimulation of the unaffected hemisphere (UH-LF-rTMS) in patients with stroke
+can decrease interhemispheric inhibition from the unaffected to the affected hemisphere and improve hand dexterity and strength
+of the paretic hand. The objective of this proof-of-principle study was to explore, for the first time, effects of UH-LF-rTMS as add-on
+therapy to motor rehabilitation on short-term intracortical inhibition (SICI) and intracortical facilitation (ICF) of the motor cortex
+of the unaffected hemisphere (M1,,;) in patients with ischemic stroke. Eighteen patients were randomized to receive, immediately
+before rehabilitation treatment, either active or sham UH-LF-rTMS, during two weeks. Resting motor threshold (rMT), SICI, and
+ICF were measured in M1, before the first session and after the last session of treatment. There was a significant increase in ICF in
+the active group compared to the sham group after treatment, and there was no significant differences in changes in rMT or SICI.
+ICF is a measure of intracortical synaptic excitability, with a relative contribution of spinal mechanisms. ICF is typically upregulated
+by glutamatergic agonists and downregulated by gabaergic antagonists. The observed increase in ICF in the active group, in this
+hypothesis- generating study, may be related to M1), reorganization induced by UH-LF-rTMS.
+
+1. Introduction
+
+Maladaptive plasticity in the form of excessive inhibition
+of the affected hemisphere by the unaffected hemisphere
+can negatively impact recovery of the paretic hand after
+stroke. A single session of low-frequency repetitive tran-
+scranial magnetic stimulation of the unaffected hemisphere
+
+(UH-LF-rTMS) can downregulate excitability of the motor
+cortex of the unaffected hemisphere (M1yj;), reflected by
+decrease in amplitude of motor evoked potentials (MEPs)
+recorded from the nonparetic hand in patients in the chronic
+phase after stroke [1]. Decrease in MEP amplitude may
+be related to long-term-depression-like (LTD-like) plasticity
+[2]. In addition, UH-LF-rTMS decreases the duration and
+— — PAGE 2 — —
+amplitude of the ipsilateral silent period, a measure of
+interhemispheric inhibition recorded by delivering transcra-
+nial magnetic stimulation (TMS) to M1 yy during voluntary
+muscle contraction of the paretic hand [1].
+
+Importantly, improvements in motor function of the
+paretic hand were reported after single [1, 3, 4] or several
+[5-11] sessions of UH-LF-rTMS, applied either alone or
+in combination with motor training, in the subacute or
+chronic stages after stroke. These encouraging results suggest
+that UH-LF-rTMS has potential as an adjuvant therapeutic
+strategy in stroke rehabilitation.
+
+Despite these exciting findings, mechanisms underly-
+ing effects of UH-LF-rTMS are not entirely clear. There
+is virtually no information about effects of UH-LF-rTMS
+on Mlyy, short-interval intracortical inhibition (SICI) or
+facilitation (ICF), in the subacute stage after stroke. SICI
+and ICF probably reflect intracortical excitability in separate
+excitatory and inhibitory neurons, with a relative contribu-
+tion of spinal mechanisms to ICE. SICI is likely mediated
+by GABAa receptors activity, while ICF is mainly influenced
+by the glutamatergic system (NMDA receptors) [12-14]. The
+objective of this pilot, double blinded, randomized proof-
+of-principle study was to explore, for the first time, effects
+of UH-LF-rTMS as an add-on therapy to standard-of-care
+rehabilitation, on SICI and ICF of M1,)4;, in patients within 5-
+45 days after ischemic stroke and mild to severe hand paresis.
+
+2. Methods
+
+The protocol was conducted as part of a study that compared
+effects of UH-LF-rTMS or sham rTMS as add-on therapies to
+standard-of-care rehabilitation [11].
+
+2.1. Participants. Between February 2008 and October 2012,
+1083 patients with ischemic stroke were screened for the
+study. The flow chart is shown in Figure 1. Inclusion criteria
+were age, 18-80 years; first-ever symptomatic ischemic stroke
+involving up to 50X of the internal carotid artery territory,
+confirmed by CT or MRI; time from stroke, 5-45 days; and
+mild to severe hand paresis (Medical Research Council scale,
+4-0 in finger flexion or extension).
+
+Exclusion criteria were previous symptomatic strokes;
+history of seizures; other neurologic diseases and uncon-
+trolled chronic diseases, such as congestive heart failure or
+cancer; shoulder pain; joint deformity of the paretic upper
+limb; and relative or absolute contraindications to TMS
+[15]: use of implantable infusion pumps, pacemaker, preg-
+nancy, intracranial hypertension, intracranial metal, bone
+skull defects, and use of drugs that can interfere on cortical
+excitability such as tricyclic antidepressants, neuroleptics,
+or benzodiazepines. In addition, an implanted stent in the
+carotid or vertebral arteries less than two months was con-
+sidered a relative contraindication to TMS. Other exclusion
+criteria were inability to provide informed consent due to
+severe aphasia, anosognosia, or cognitive impairment as well
+as inability to attend to treatment sessions. The protocol was
+approved by the local Ethics Committee, and all patients
+
+Neural Plasticity
+
+provided informed consent to participate. The protocol was
+registered in Clinicaltrials.gov (NCT01333579).
+
+One patient in the sham group had a recurrent stroke on
+the day before the second session of treatment and did not
+complete the study. Due to technical problems (malfunction
+of the paired-pulse TMS stimulator), cortical excitability data
+in 7 patients in the active group and 7 patients in the sham
+group were not collected. One patient in the active group
+coughed repeatedly during one of the TMS experiments.
+Because contraction of facial muscles can interfere on cortical
+excitability [16], data from this patient were excluded. There-
+fore, data from 18 patients (9 per group) were analyzed.
+
+2.2. Baseline Measures. The following characteristics were
+evaluated at baseline: age, gender, handedness before
+stroke (Oldfield inventory) [17], days after stroke, infarct
+side/location, NIH stroke scale [18], and modified Rankin
+scale. Infarcts were classified as corticosubcortical or
+subcortical according to involvement of primary motor,
+primary somatosensory, supplementary motor, or premotor
+cortices on MRI (16) or CT (2) by a radiologist blinded to
+group assignment.
+
+2.3. Experimental Design. Patients were randomized in
+blocks by the principal investigator with a basic random
+number computerized generator in a 1:1 ratio to receive
+immediately before rehabilitation treatment lasting for 60
+minutes, either active or sham rTMS, five days per week,
+during two weeks (total, 10 treatment sessions). Patients were
+unaware of group assignment.
+
+2.4. rTMS Intervention. In each treatment session, the opti-
+mal site of motor stimulation of the UH (“hot spot”) was
+defined as the location where TMS elicited the largest MEPs
+in the nonparetic abductor pollicis brevis muscle (APB)
+with surface electrodes. The signal was amplified and fil-
+tered (10 Hz to 2kHz) with an electromyography (EMG)
+and evoked potential measuring unit (MEB-9104 J, Nihon
+Kohden, Japan).
+
+In both groups, 1Hz rI!'MS was administered with a
+figure-of-eight coil (MCF B-65) at 90X of the nonparetic
+APB muscle resting motor threshold (rMT) with a biphasic
+MagPro compact stimulator (Alpine Biomed), for 25 minutes
+(1500 pulses). For the active intervention, TMS coil was
+tangentially positioned by an investigator on the nonparetic
+APB “hot spot” in the UH with the intersection of both wings
+at 45° angle with the midline. In the sham intervention, the
+coil was held perpendicularly to the vertex. All patients were
+comfortably seated, with their arms in a constant relaxed
+position, wore earplugs, and were instructed to remain at rest
+during TMS.
+
+2.5. Outcome Measures. TMS was delivered to the UH at
+the nonparetic APB “hot spot” through a figure-of-eight
+shaped coil (mean diameter 70mm), connected to a Bi-
+Stim 200? module (MagStim, UK). The coil was held by
+an investigator. EMG activity was recorded from surface
+electrodes placed over the unaffected APB. EMG responses
+— — PAGE 3 — —
+Neural Plasticity
+
+Screening
+N=1 83
+
+Inclusion
+
+criteria
+
+Exclusion
+
+criteria
+
+Excluded:
+data not
+
+available
+N=8
+
+Excluded: L
+data not Active
+available N=17
+N=8
+Included for
+analysis
+N=9
+
+Included for
+analysis
+N=9
+
+Fraure 1: Flow chart.
+
+were amplified (x1000), filtered (2Hz-2kHz), sampled at
+5kHz and recorded on a computerized data acquisition
+system built with the LabVIEW graphical programming
+language [19]. Its conditional triggering feature was used to
+deliver TMS stimuli only when the APB muscle was relaxed.
+Relaxation of APB muscle was defined as EMG activity
+at baseline <50uV peak-to-peak amplitude for at least 1
+second [19]. Trials showing EMG activity >50 uV peak-to-
+peak amplitude were excluded during recordings. Vigilance
+was continuously monitored by an investigator sitting in
+front of the patient. This investigator was also in charge of
+running the LabVIEW acquisition system and saving data
+files throughout the experiment.
+
+The following TMS measurements were performed before
+the first (DO) session of treatment and after the last (D10)
+session of treatment in patients in both groups:
+
+(i) rMT, defined as the minimum TMS intensity required
+to elicit at least three out of six MEPs > 50 microV in
+consecutive trials [20, 21];
+
+(ii) SICI and ICF measured with paired-pulse TMS [22,
+23]. The conditioning stimulus (CS) intensity was set
+to 80X of the unaffected APB rMT. The intensity
+of the test stimulus (TS) was that required to evoke
+MEPs of approximately 0.5 to 1 mV. The order of pre-
+sentation of inhibitory (2 ms), excitatory (10 ms), and
+
+control (test stimulus alone) trials was randomized.
+Eighteen trials were recorded for each interstimulus
+interval. Results are expressed as average percentages
+of MEP amplitudes in conditioning trials and in test
+trials.
+
+Raw data from paired-pulse experiments were inspected
+by an investigator blinded to group assignment with a
+playback application in system built with the LabiVIEW
+graphical programming language (sampling rate 5000 Khz)
+[19].
+
+2.6. Statistical Analysis. This was an exploratory study and
+determination of the sample size was not formally deter-
+mined to evaluate TMS outcomes. Data are presented as
+means (+standard deviations) or as medians and inter-
+vals. Distribution was checked with the Shapiro-Wilk test.
+Normally distributed data were analyzed with parametric
+tests. Nonnormally distributed data were analyzed with
+nonparametric tests. Baseline characteristics were compared
+with Mann-Whitney or Fisher's exact tests. Between-group
+differences in changes in rMT, SICI, and ICF (baseline — after
+treatment, DO — D10) were compared with Mann-Whitney
+tests. P values < 0,05 were considered statistically significant.
+— — PAGE 4 — —
+4
+100 - Active
+i}
+= 804 0
+} 2
+2 ¢ oO
+S 604 hd
+3s
+Ea;
+x
+= 204
+=
+WW
+0 + ss  —
+0 1 2 3 4 5 6 7 8 9
+Patients
+(a)
+Active
+250 5
+od
+200 4
+g 1504
+Past A
+1S)
+~ 100 >
+i) 1 2 3 4 °°5 $ ca) & 9
+A
+54 a O o
+o @ Qe 2
+0 4
+Patients
+(c)
+600 - Active
+500 4
+400 4
+S
+5 300 4
+= Oo
+200 4 + A
+Oo A
+100 o ¢ OF * * e
+) 12% 4 7 8
+04 Patients
+@ Before
+After
+
+(e)
+
+Neural Plasticity
+
+100 . Sham
+
+80 4
+
+60 4 ¢ | ¢
+
+40 + eo
+
+20 +
+
+rMT (% stimulator’s output)
+IK Q
+
+0 1 2 3 4 5 6 7 8 9
+
+Patients
+(b)
+250 - Sham
+200 4
+g 150 4
+Ss) C
+“w 100
+$1 $3 4 5 6 7 8 9
+4 «
+50 4 oO oO ; ; O
+« ry °
+04
+Patients
+(d)
+Sham
+600 5
+A
+500 4
+_ 400 oO
+x2
+5 300 4 e
+200 4 e Md
+O
+¢ ¢ o
+100 C) E]
+} om 2 * a s & © 8 9
+04 Patients
+@ Before
+L) After
+
+(f)
+
+Ficure 2: Differences in changes in rMT, SICI, and ICF between the sham and active groups. rMT = resting motor threshold; SICI = short-
+interval intracortical inhibition; ICF = short-interval intracortical facilitation.
+
+3. Results
+
+There were no significant differences in baseline character-
+istics between the active and sham groups (Table 1). There
+were no serious adverse events. In the active group, two
+patients reported headache or local pain (22.2X ), two patients
+reported nuchal pain (22.2M), and five patients reported
+drowsiness (55.6%). In the sham group, three patients
+reported headache or local pain (33.3), four patients
+reported nuchal pain (44.4), and six patients reported
+drowsiness (66.7X ).
+
+Results are shown in Figure 2 and Table 2. There was a
+significant increase in ICF in the active group compared to
+the sham group after treatment (P = 0,038). Five patients
+in the active group and only one patient in sham group
+presented increase in ICF after treatment. ICF decreased in
+five subjects in the sham group.
+
+There were no significant differences in changes in rMT
+(P = 0489) or SICI (P = 0,145) after treatment between the
+two groups. Post hoc analysis showed that the power to find
+significant differences between the two groups was 20X for
+rMT and 34X for SICI.
+— — PAGE 5 — —
+Neural Plasticity 5
+TABLE 1: Characteristics of the patients.
+Characteristics Active (n = 9) Sham (n = 9) P value
+Age (mean + standard deviation) 57.1 + 11.8 SLI +177 0.438"
+Gender (men/women) 5/4 4/5 1.07
+on (oldfield inventory) 82.3 (42.9-100) 62.5 (0-100) 0.345°
+Days after stroke 27 + 3.6 30.1410 0.582!
+Affected hemisphere (right/left) 5/4 3/6 0.6377
+Infarct location 2
+A/5 6/3 0.637
+(corticosubcortical/subcortical) / /
+NIH Stroke Scale (median, interval) 5.3 (4-8) 5.9 (1-11) 0.9647
+Modified Rankin Scale 3 (2-5) 3 (0-4) 0.639°
+Baseline rMT (4) 55.5 + 3.8 58.6 +5.5 0.859°
+Baseline SICI (X ) 82.2 + 20.3 50.5 + 11.3 0.145%
+Baseline ICF (X ) 140.3 + 15.5 202.3 + 50.7 0.4027
+Baseline PEM. 739.1 + 355.0 804.1 + 639.5 0.965°
+
+N = number; rMT = resting motor threshold; SICI = short-interval intracortical inhibition; ICF = short-interval intracortical facilitation; ‘Unpaired t-test.
+
+Fisher's exact test. >Mann-Whitney test.
+
+TABLE 2: Measurements of excitability to transcranial magnetic stimulation.
+
+Measure Baseline After treatment Difference P value
+rMT
+Active 55.9 (37-73) 55.9 (41-85) 0.3 (-7-17) 0.478!
+Sham 58.7 (39-94) 54.4 (38-72) —4.2 (~22-10)
+SICI
+Active 82.3 (27.9-221.5) 51.9 (30.1-89.7) -30.4 (-158.7-—52.3) 014s!
+Sham 50.5 (178-1178) 51.0 (21.5-65.5) 0.4 (—52.3-35.5)
+ICF
+Active 140.3 (94.6-231.1) 164.1 (72.0-242.6) 23.8 (-23.8-112.4) 0.038"
+Sham 202.3 (75.8-571.8) 140.7 (66.8-380.9) -61.6 (-190.9-81.3)
+
+rMT = resting motor threshold; SICI = short-interval intracortical inhibition; ICF = short-interval intracortical facilitation; mean; interval. ‘Mann-Whitney
+
+test, P< 0.05 (Mann-Whitney test).
+
+One of the subjects (Patient 4 of the sham group in
+Figure 2) presented a higher level of ICF (571.8% ) compared
+to other subjects, at baseline. We did not find an objective
+reason to exclude this subject from the analysis. However,
+post hoc analysis was performed without this subject, and the
+difference in change in ICF between the two groups was no
+longer statistically significant (P = 0,074).
+
+4. Discussion
+
+The main result of this study was the increase in ICF in
+Mlyy after 10 sessions of UH-LF-rTMS in patients with
+hand paresis, in the subacute phase after ischemic stroke.
+ICF increased in the active group and decreased in the sham
+group. Both groups received customary rehabilitation during
+the protocol.
+
+This is the first time that a change in ICF in the UH is
+reported after UH-LF-rTMS. ICF is a measure of intracortical
+synaptic excitability, with a relative contribution of spinal
+mechanisms. ICF is usually upregulated by glutamatergic
+
+agonists [21]. Because ICF has a spinal component, a spinal
+mechanism underlying the observed change cannot be
+excluded.
+
+The observed increase in ICF in M1 yy in the active group
+is consistent with results obtained in patients at a chronic
+stage (average, 31 months after stroke), after 10 sessions
+of constraint-induced therapy (CIT) [24]. CIT consists of
+restraint of the unaffected upper limb during waking hours
+and intensive and repetitive task-oriented therapy of the
+affected upper extremity, to overcome reliance on the non-
+paretic upper limb to perform daily activities, and consequent
+“learned nonuse” of the paretic limb.
+
+It is possible that changes in the M1; synaptic excitabil-
+ity may reflect reorganization induced by specific interven-
+tions such as rTMS or CIT. Reorganization in Mlyz, does
+not necessarily translate into measurable, relevant motor
+improvement of the paretic upper limb. For instance, modi-
+fied CIT (shaping training of the paretic hand, with or without
+restraint of the upper limb for two weeks) is associated
+with increased cortical thickness in Mlyy [25]. However,
+— — PAGE 6 — —
+increased thickness does not correlate with enhancement of
+motor function evaluated with the Wolf Motor Function Test
+or the Motor Activity log. The link between structural or
+functional changes in M1, and behavioral improvements
+remains to be clarified.
+
+A single session of LF-rTMS was reported to decrease
+ICF in the stimulated hemisphere in healthy subjects, when
+a similar paired-pulse protocol was applied by Romero et
+al. [26]. The opposite result observed in patients with stroke
+may reflect a difference in experimental paradigm (one
+rTMS session in the study by Romero et al., in contrast
+with ten sessions in the present study) or a state-dependent
+phenomenon; that is, effects of rTMS may vary according to
+baseline excitability of the stimulated cortex [27].
+
+We did not include a control group to investigate dif-
+ferences in baseline excitability between patients with stroke
+and controls. The two studies that compared ICF in the UH
+of patients in the subacute phase after stroke, and ICF in
+hemispheres of healthy subjects, did not report significant
+differences [4, 28]. Still, comparable ICF at baseline should
+not necessarily translate into comparable responsiveness to
+ten sessions of rTMS.
+
+The lack of significant changes in rMT or SICI may reflect
+absence of changes in membrane excitability mediated by
+ion channels, as well as absence of modulation of gabaergic
+synapses mediating SICI, by 1Hz rTMS of Mlyy. Alter-
+natively, it may reflect insufficient power given the study's
+sample size.
+
+Still, the main limitation of this study is the number of
+patients. After screening 1083 patients, 34 patients fulfilled
+criteria to participate in the study. This low rate of inclusion
+is consistent with those reported in other studies of TMS
+in stroke [29]. Then, because of technical problems with
+the stimulator, data from 14 patients were not available.
+Post hoc analysis showed that if results from one patient
+were excluded, the results would no longer be statistically
+significant. Nevertheless, we did not find an objective reason
+to exclude this subject. Furthermore, the number of subjects
+included in the analysis was not substantially different from
+those reported by other studies that evaluated excitability
+to TMS in patients with stroke [4, 28]. Considering that
+SICI and ICF vary considerably even in healthy subjects,
+multicenter studies may be necessary to overcome challenges
+in this field of research.
+
+Another limitation of this study is the lack of evaluation of
+interhemispheric inhibition after UH-LF-rTMS. In patients
+with mild hand paresis in the chronic phase after stroke,
+interhemispheric inhibition of the affected hemisphere by the
+UH, evaluated by the ipsilateral silent period, decreases after
+UH-LF-rTMS [1]. Recording of the ipsilateral silent period in
+this context involves stimulation of the UH during voluntary
+contraction of the paretic hand. We could not record the
+ipsilateral silent period because we included patients with
+severe hand motor deficits, unable to perform hand muscle
+contractions in the paretic hand, as required to record the
+ipsilateral silent period while applying TMS to the M1lyz.
+Finally, spinal excitability was not evaluated.
+
+In summary, the increase in ICF in Mlyjz, after ten
+sessions of active UH-LF-rTMS indicates that modulation
+
+Neural Plasticity
+
+of synaptic excitability in the UH or in the spinal cord is
+associated with this intervention. Further studies are required
+to confirm this result in a larger sample of patients with stroke
+and to investigate the functional role of this phenomenon,
+possibly related to reorganization, in stroke recovery.
+
+Conflict of Interests
+
+The authors declare that there is no conflict of interests
+regarding the publication of this paper.
+
+References
+
+{1] N. Takeuchi, T. Chuma, Y. Matsuo, I. Watanabe, and K. Ikoma,
+“Repetitive transcranial magnetic stimulation of contralesional
+primary motor cortex improves hand function after stroke,’
+Stroke, vol. 36, no. 12, pp. 2681-2686, 2005.
+
+[2] I. Delvendahl, N. H. Jung, N. G. Kuhnke, U. Ziemann, and V.
+Mall, “Plasticity of motor threshold and motor-evoked potential
+amplitude—a model of intrinsic and synaptic plasticity in
+human motor cortex?” Brain Stimulation, vol. 5, no. 4, pp. 586-
+593, 2012.
+
+[3] C. G. Mansur, F. Fregni, P. S. Boggio et al., “A sham stimulation-
+controlled trial of rTMS of the unaffected hemisphere in stroke
+patients,” Neurology, vol. 64, no. 10, pp. 1802-1804, 2005.
+
+[4] N. Takeuchi, T. Tada, M. Toshima, T. Chuma, Y. Matsuo, and
+
+K. Ikoma, “Inhibition of the unaffected motor cortex by 1 Hz
+
+repetitive transcranical magnetic stimulation enhances motor
+
+performance and training effect of the paretic hand in patients
+
+with chronic stroke,’ Journal of Rehabilitation Medicine, vol. 40,
+
+no. 4, pp. 298-303, 2008.
+
+F Fregni, P. S. Boggio, A. C. Valle et al., “A sham-controlled trial
+
+of a 5-day course of repetitive transcranial magnetic stimulation
+
+of the unaffected hemisphere in stroke patients,” Stroke, vol. 37,
+
+no. 8, pp. 2115-2122, 2006.
+
+[6] A. Kirton, R. Chen, S. Friefeld, C. Gunraj, A.-M. Pontigon, and
+G. deVeber, “Contralesional repetitive transcranial magnetic
+stimulation for chronic hemiparesis in subcortical paediatric
+stroke: a randomised trial? The Lancet Neurology, vol. 7, no. 6,
+pp. 507-513, 2008.
+
+[7] W. Kakuda, M. Abo, K. Kobayashi et al., “Low-frequency rTMS
+combined with intensive occupational therapy for upper limb
+hemiparesis after brain tumour resection,’ Brain Injury, vol. 24,
+no. 12, pp. 1505-1510, 2010.
+
+[8] A. Avenanti, M. Coccia, E. Ladavas, L. Provinciali, and M.
+G. Ceravolo, “Low-frequency rTMS promotes use-dependent
+motor plasticity in chronic stroke: a randomized trial,’ Neurol-
+ogy, vol. 78, no. 4, pp. 256-264, 2012.
+
+[9] S. Etoh, T. Noma, K. Ikeda et al., “Effects of repetitive trascranial
+magnetic stimulation on repetitive facilitation exercises of
+the hemiplegic hand in chronic stroke patients, Journal of
+Rehabilitation Medicine, vol. 45, no. 9, pp. 843-847, 2013.
+
+[10] W. H. Chang, Y.-H. Kim, O. Y. Bang, S. T. Kim, Y. H. Park, and
+P. K. W. Lee, “Long-term effects of RTMS on motor recovery
+in patients after subacute stroke,’ Journal of Rehabilitation
+Medicine, vol. 42, no. 8, pp. 758-764, 2010.
+
+[11] A. B. Conforto, S. M. Anjos, G. Saposnik et al., “Transcranial
+magnetic stimulation in mild to severe hemiparesis early after
+stroke: a proof of principle and novel approach to improve
+motor function,’ Journal of Neurology, vol. 259, no. 7, pp. 1399-
+1405, 2012.
+
+[5
+— — PAGE 7 — —
+Neural Plasticity
+
+[12
+
+[13
+
+[14
+
+[15
+
+[16
+
+[17
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22
+
+[23]
+
+[24]
+
+[25]
+
+[26]
+
+(27]
+
+T. Kujirai, M. D. Caramia, J. C. Rothwell et al., “Corticocortical
+inhibition in human motor cortex,” The Journal of Physiology,
+vol. 471, pp. 501-519, 1993.
+
+U. Ziemann, “TMS and drugs,” Clinical Neurophysiology, vol.
+115, no. 8, pp. 1717-1729, 2004.
+
+R. Chen, “Interactions between inhibitory and excitatory cir-
+cuits in the human motor cortex,’ Experimental Brain Research,
+vol. 154, no. 1, pp. 1-10, 2004.
+
+S. Rossi, M. Hallett, P. M. Rossini et al., “Safety, ethical consid-
+erations, and application guidelines for the use of transcranial
+magnetic stimulation in clinical practice and research,’ Clinical
+Neurophysiology, vol. 120, no. 12, pp. 2008-2039, 2009.
+
+B. Boroojerdi, E Battaglia, W. Muellbacher, and L. G. Cohen,
+“Voluntary teeth clenching facilitates human motor system
+excitability,’ Clinical Neurophysiology, vol. 111, no. 6, pp. 988-
+993, 2000.
+
+R.C. Oldfield, “The assessment and analysis of handedness: the
+Edinburgh inventory,” Neuropsychologia, vol. 9, no. 1, pp. 97-13,
+1971.
+
+M. A. G. de Caneda, J. G. Fernandes, A. G. de Almeida, and
+E E. Mugnol, “Reliability of neurological assessment scales in
+patients with stroke,” Arquivos de Neuro-Psiquiatria, vol. 64, no.
+3, pp. 690-697, 2006.
+
+A. Kaelin-Lang and L. G. Cohen, “Enhancing the quality of
+studies using transcranial magnetic and electrical stimulation
+with a new computer-controlled system,’ Journal of Neuro-
+science Methods, vol. 102, no. 1, pp. 81-89, 2000.
+
+P M. Rossini, A. T. Barker, A. Berardelli et al., “Non-invasive
+electrical and magnetic stimulation of the brain, spinal cord and
+roots: basic principles and procedures for routine clinical appli-
+cation. Report of an IFCN committee,” Electroencephalography
+and Clinical Neurophysiology, vol. 91, no. 2, pp. 79-92, 1994.
+A.B. Conforto, W. J. Z’Graggen, A. S. Kohl, K. M. Résler, and A.
+Kaelin-Lang, “Impact of coil position and electrophysiological
+monitoring on determination of motor thresholds to transcra-
+nial magnetic stimulation,’ Clinical Neurophysiology, vol. 115,
+no. 4, pp. 812-819, 2004.
+
+J. Reis, O. B. Swayne, Y. Vandermeeren et al., “Contribution
+of transcranial magnetic stimulation to the understanding of
+cortical mechanisms involved in motor control,” The Journal of
+Physiology, vol. 586, no. 2, pp. 325-351, 2008.
+
+V. di Lazzaro, F. Pilato, A. Oliviero et al., “Origin of facilitation
+of motor-evoked potentials after paired magnetic stimulation:
+direct recording of epidural activity in conscious humans,’
+Journal of Neurophysiology, vol. 96, no. 4, pp. 1765-1771, 2006.
+G. E Wittenberg, R. Chen, K. Ishii et al., “Constraint-induced
+therapy in stroke: magnetic-stimulation motor maps and cere-
+bral activation,” Neurorehabilitation and Neural Repair, vol. 17,
+no. 1, pp. 48-57, 2003.
+
+A. Sterr, P. J. A. Dean, G. Vieira, A. B. Conforto, S. Shen,
+and J. R. Sato, “Cortical thickness changes in the non-lesioned
+hemisphere associated with non-paretic arm immobilization in
+modified CI therapy,’ NeuroImage: Clinical, vol. 2, no. 1, pp. 797-
+803, 2013.
+
+J. R. Romero, D. Anschel, R. Sparing, M. Gangitano, and A.
+Pascual-Leone, “Subthreshold low frequency repetitive tran-
+scranial magnetic stimulation selectively decreases facilitation
+in the motor cortex,’ Clinical Neurophysiology, vol. 113, no. 1, pp.
+101-107, 2002.
+
+N. Bolgnini and T. Ro, “Transcranial magnetic stimulation:
+disrupting neural activity to alter and assess brain function,’ The
+Journal of Neuroscience, vol. 30, no. 29, pp. 9647-9650, 2010.
+
+[28]
+
+[29]
+
+O. B. C. Swayne, J. C. Rothwell, N. S. Ward, and R. J. Greenwood,
+“Stages of motor output reorganization after hemispheric stroke
+suggested by longitudinal studies of cortical physiology,” Cere-
+bral Cortex, vol. 18, no. 8, pp. 1909-1922, 2008.
+
+S. M. Anjos, L. G. Cohen, A. Sterr, K. N. EF De Andrade, and A.
+B. Conforto, “Translational neurorehabilitation research in the
+third world: what barriers to trial participation can teach us,’
+Stroke, vol. 45, no. 5, pp. 1495-1497, 2014.
